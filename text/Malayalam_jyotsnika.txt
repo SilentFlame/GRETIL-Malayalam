@@ -1,0 +1,3258 @@
+
+    
+    
+ Jyotsnika 
+    
+
+
+
+Jyotsnika [a medical text on antidotes in Manipravalam (Malayalam + Sanskrit)]
+Based on the edition: Jyotsnika, Visavaidyam,
+Ernakulam : Azad Printers,  2nd ed., 1124 (1948 CE).
+(Sri Ramavarmma granthavali)
+
+
+Input by U.M.T. Brahmadathan Namboodiri, 
+in cooperation with Tsutomu Yamashita 
+(Ver.1. August 2009)
+
+
+
+
+
+
+
+THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
+COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
+
+Text converted to Unicode (UTF-8).
+(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+set to UTF-8.)
+
+
+
+description:multibyte sequence:
+long a  ā   
+long A  Ā   
+long i  ī   
+long I  Ī   
+long u  ū   
+long U  Ū   
+vocalic r  ṛ  
+vocalic R  Ṛ  
+long vocalic r  ṝ  
+vocalic l  ḷ  
+vocalic L  Ḷ  
+long vocalic l  ḹ  
+velar n  ṅ  
+velar N  Ṅ  
+palatal n  ñ   
+palatal N  Ñ   
+retroflex t  ṭ  
+retroflex T  Ṭ  
+retroflex d  ḍ  
+retroflex D  Ḍ  
+retroflex n  ṇ  
+retroflex N  Ṇ  
+palatal s  ś   
+palatal S  Ś   
+retroflex s  ṣ  
+retroflex S  Ṣ  
+anusvara  ṃ  
+visarga  ḥ  
+long e  ē   
+long o  ō   
+l underbar  ḻ  
+r underbar  ṟ  
+n underbar  ṉ  
+k underbar  ḵ  
+t underbar  ṯ  
+
+
+
+Unless indicated otherwise, accents have been dropped in order 
+to facilitate word search.
+
+For a comprehensive list of GRETIL encodings and formats see:
+http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+and
+http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+
+For further information see:
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+
+
+
+
+ADDITIONAL CHARACTERS:
+vowels: ē ō
+ultra-short vowel at the end of words:     å     (provisional; e.g., `raṇṭå': two)
+the 34th consonant of Malayalam, sublamino-palatal (retroflex) lateral:     ḷ     (e.g., `nīḷaṃ': length)
+the 35th consonant of Malayalam, sublamino-palatal approximant:     ḻ     (e.g., `vaḻi': path)
+the 36th consonant of Malayalam,  apico-alveolar tap or trill:     ṟ     (e.g., `kaṟi': curry)
+
+
+
+
+jyōtsnikā viṣavaidyaṃ
+
+[1]abhivandanādhikāraṃ
+hariḥ ṣrī gaṇapatayē namaḥ
+avighnamastu
+
+maṃgaḷaṃ
+vandē varadamācāryyamantarāyōpaśāntayē  /
+gaṇanāthaṃ ca gōvindaṃ kumārakamalōtbhavau  // Jyo_1.1 //
+
+muṭiyil tiṅkaḷuṃ pāṃpuṃ maṭiyil gauriyuṃ sadā  /
+kuṭi koṇṭoru dēvantannaṭiyāṃ paṅkajam bhajē  // Jyo_1.2 //
+
+gatvā svarggamatandritassuravaraṃ
+jitvā sudhāṃ bāhubhirddhṛtvā
+mātaramētya vidrutataraṃ
+datvāśu tasyai tataḥ
+hṛtvā dāsyamanēkakadrutanayān
+hatvā muhurmmātaraṃ
+natvā yastu virājatē tamaniśaṃ
+vandē khagādhīśvaraṃ  // Jyo_1.3 //
+
+yēnaviṣṇōrddhvajaṃ sākṣādrājatē paramātmanaḥ  /
+tasmai namōstu satataṃ garuḍāya mahātmanē  // Jyo_1.4 //
+
+
+pratijñā
+viṣapīḍitarāyuḷḷa narāṇāṃ hitasiddhayē  /
+taccikitsāṃ pravakṣyāmi prasannāstu sarasvatī  // Jyo_1.5 //
+
+gurudēvadvijātīnāṃ bhaktaḥ śuddhō dayāparaḥ  /
+svakarmmābhirataḥ kuryyāl garapīḍitarakṣaṇaṃ  // Jyo_1.6 //
+
+tathā bahujanadrōhaṃ ceyvōnuṃ brahmahāvinuṃ  /
+svadharmmācāramaryyādāhīnanuṃ dviṣatāmapi  // Jyo_1.7 //
+
+kṛtaghnabhīruśōkārttacaṇḍānāṃ vyagracētasāṃ  /
+gatāyuṣmānumavvaṇṇamavidhēyanumaṅṅine  // Jyo_1.8 //
+
+rājakōpamatuḷḷōnuṃ hīnōpakaraṇannatha  /
+rājavidvēṣiṇāṃ tannepparīkṣikkunnavannapi  // Jyo_1.9 //
+
+cikitsippān tuṭaṅṅollā viparyyāsamatāṃ phalaṃ  /
+samyagvicāryya nitarāmoḻinñīṭuka buddhimān  // Jyo_1.10 //
+
+gurudvijamahīpālabandhupāndhavipaścitāṃ  /
+rakṣaṇaṃ yatnataḥ kuryyāl gavāṃ cāpi mahīyasāṃ  // Jyo_1.11 //
+
+dānayāgādi karmmaṅṅaḷ palatum ceykiluṃ tathā  /
+viṣārttarakṣaṇattōṭu samamallennu kēḷppitå  // Jyo_1.12 //
+
+tasmādārabhatāṃ cēti manuṣyāṇāṃ viśēṣataḥ  /
+avighnamastu vikhyātakīrtiśca bhuvanēṣviha  // Jyo_1.13 //
+
+sthāvaraṃ jaṃgamaṃ cēti viṣaṃ raṇṭuprakāramāṃ  /
+sthāvaraṃ latavṛkṣādisaṃbhavaṃ viṣamucyatē  // Jyo_1.14 //
+
+jaṃgamaṃ sarppakīṭākhu lūtādijanitaṃ viduḥ  /
+viṣamuḷḷōru jantukkaḷ palatuṇṭiha bhūmiyil  // Jyo_1.15 //
+
+pāmpuṃ mūṣikanuṃ tēḷuṃ cilantīkīripūccayuṃ  /
+maṇḍūkamarkkaṭāśvaṅṅaḷ viśvakadrukkaḷuṃ punaḥ  // Jyo_1.16 //
+
+naranmāraraṇā gauḷi kṛkalāsaṃ kaṭannaluṃ  /
+aṭṭa tēraṭṭayuṃ thoṭṭāloṭṭi vēṭṭāḷiyan jhaṣaṃ  // Jyo_1.17 //
+
+maṟṟuṃ palatumuṇṭēvaṃ viṣamuḷḷ atu bhūtalē  /
+tattaccihnaṃ cikitṣāṃ ca jñāatvā kuryyāl bhiṣagvaraḥ  // Jyo_1.18 //
+
+atil pradhānaṃ pāmpinṟ viṣattinnatukoṇṭu ñān  /
+mumpinālatinuḷḷōru lakṣaṇaṅṅaḷ cikitsayuṃ  // Jyo_1.19 //
+
+collunnu piḻayennāluṃ kṣamiccīṭuvar sōrikal  /
+kuṟṟaṃ maṟṟuḷḷavanchonnālentu cētaṃ namukkiha  // Jyo_1.20 //
+
+
+viṣayānukramaṇikā
+ādau śvāsavibhāgaṃ ca dūtacēṣṭakaḷuṃ tathā  /
+ninnuconnōru dēśattin bhēdavuṃ vacanaṅṅaḷuṃ  // Jyo_1.21 //
+
+varjjyaṅṅaḷāya tāraṅṅaḷ tithivāraṅṅaḷuṃ tathā  /
+duṣṭayōgaṅṅaḷ dōṣāṇāṃ balābalaviṣēṣavuṃ  // Jyo_1.22 //
+
+upaśrutiyatil cērnna śubhāśubhaphalaṅṅaḷuṃ  /
+nallatallātta śakunaṃ tathā kalyāṇamāyatuṃ  // Jyo_1.23 //
+
+kālabhēdamatuṃ pinne nindyamāya pradēśavuṃ  /
+marmmasthānamatuṃ tadval dantakṣataviśēṣavuṃ  // Jyo_1.24 //
+
+tēṣāṃ gandhaṃ viṣāṇāṃ ca vēgavuṃ varṇṇabhēdavuṃ  /
+dhātukkaḷil viṣaṃ cennāluṇṭākunna vikāravuṃ  // Jyo_1.25 //
+
+mṛti vannīṭumennuḷḷataṟiyēṇṭuṃ prakāravuṃ  /
+mṛtyu vannoru dēhattinnuḷḷa lakṣaṇavuṃ tathā  // Jyo_1.26 //
+
+siddhauṣadhaṅṅaḷuṃ nasyapānalēpāñjanādināṃ  /
+kramavuṃ dhāra ceyyēṇṭuṃ prakāraṅṅaḷumaṅṅine  // Jyo_1.27 //
+
+patthyāśanattinvastukkaḷapatthyāśanavastuvuṃ  /
+ājyatailādipākattinnauṣadhaṅṅaḷ kramaṅṅaḷuṃ  // Jyo_1.28 //
+
+svēdāplavādikarmmāṇi raktaṃ nīkkuṃ prakāravuṃ  /
+auṣadhaṅṅaḷ catacciṭṭu dhūpikkēṇṭuṃ prakāravuṃ  // Jyo_1.29 //
+
+sarppōlpattiyatuṃ tēṣāṃ dēhalakṣaṇavuṃ punaḥ  /
+vasiccīṭunna dēṣaṃ ca sañcarikkunna kālavuṃ  // Jyo_1.30 //
+
+bhakṣaṇadravyavuṃ pinne vīkṣaṇādiviśēṣavuṃ  /
+gamanattiṅkaluḷḷōru bhēdavuṃ varṇṇabhēdavuṃ  // Jyo_1.31 //
+
+(jananattiṅkaluḷḷōru bhēdavuṃ mantrabhēdavuṃ)  /
+tatra tatra paraññīṭunnuṇṭu maṟṟuḷḷatuṃ punaḥ  /
+aṟiññatellāṃ collunnēnasmal śrīguravē namaḥ  // Jyo_1.32 //
+
+
+iti jyōtsnikānāmaviṣacikitsāyāṃ gurugaṇēśādyabhivandanādhikāraḥ
+
+
+
+[2]dūtalakṣaṇādhikāraṃ
+uṣasyutthāya svasthātmā prāṇāyāmaparāyaṇaḥ  /
+vicintayēl svamātmānaṃ cētasānannyagāminā  // Jyo_2.1 //
+
+bāhyādikaṃ ca karttavyaṃ tattal sarvvaṃ punaḥ kramāl  /
+svācāryyavākyaniṣṭhātmā kuryyāl kṣvēḷapratikriyāṃ  // Jyo_2.2 //
+
+āyilyaṃ citrayuṃ kēṭṭatoṭṭu mummūnnu nāḷiha  /
+nālunāḷādiyil pinne tiruvātirayōṇavuṃ  // Jyo_2.3 //
+
+pūrūraṭṭātiyuṃ paṟṟā phaṇidaṃśē viśēṣataḥ  /
+caturtthyaṣṭamiyuṃ vāvuṃ navamī patināṅkapi  // Jyo_2.4 //
+
+pañcamī ca tathā kaṣṭaṃ kṛṣṇapakṣē viśēṣataḥ  /
+vāraṅṅaḷavayuṃ collāṃ kaṣṭamaddhyamabhēdavuṃ  // Jyo_2.5 //
+
+mandāravāraṃ kaṣṭaṃ ca sūryyavāraṃ ca maddhyamaṃ  /
+parivēṣōparāgau ca varjjau sōmārkkayōrapi  // Jyo_2.6 //
+
+viṣṭiyuṃ janmanakṣatraṃ munnāḷuṃ kaṣṭametrayuṃ  /
+añcāṃ nāḷumitēḻānnāḷivayuṃ śubhamalliha  // Jyo_2.7 //
+
+pradōṣē saṃkramē caiva sandhyāsvapi viśēṣataḥ  /
+aṣṭamarkṣē ca tatraiva candran nilkkunna nēravuṃ  // Jyo_2.8 //
+
+kujamandāhiguḷikatrikōṇaṃ dṛṣṭiyuṃ tathā  /
+tēṣāmudayavuṃ paṟṟā sarppadaṃśē nṛṇāmiha  // Jyo_2.9 //
+
+śubhagrahāṇāṃ dṛṣṭyādi bhaviccīṭukiluttamaṃ  /
+candradṛṣṭyudayaṃ raṇṭuṃ viśēṣiccuṃ śubhapradaṃ  // Jyo_2.10 //
+
+ōrō nāḷinnunannālunāḻikā viṣamuṇṭatuṃ  /
+nannallennu dharikkēṇaṃ viṣadaṃśē mṛtipradaṃ  // Jyo_2.11 //
+
+sūryyavārē makaṃ vannāl sōmavārē viśākhavuṃ  /
+kujavārē tathā cārdrā budhavārē ca mūlavuṃ  // Jyo_2.12 //
+
+guruvārē ca catayaṃ bhṛguvārē ca rōhiṇī  /
+mandavārattoṭuttrāṭaṃ kūṭiyāl mṛtyuyōgamāṃ  // Jyo_2.13 //
+
+pantiraṇṭuṃ patinonnumañcuṃ raṇṭumorāṟapi  /
+eṭṭumompatumīssaṃkhya vanna pakkaṃ punaḥ kramāl  // Jyo_2.14 //
+
+sūryyādivāraṃ tannōṭaṅṅonniccāl dagdhayōgamāṃ  /
+mṛtyudagdhādiyōgaṅṅaḷ kaṣṭaṃ mṛtyupradaṅṅaḷ pōl  // Jyo_2.15 //
+
+arkkan nilkkunna nāḷ kaṣṭamompatāṃ nāḷumaṅṅine  /
+patinañcākumannāḷuṃ kaṣṭaṃ kīḻētumaṅṅine  // Jyo_2.16 //
+
+tṛkkēṭṭa cōtiyuṃ citra bharaṇyāślēṣakṛttikā  /
+pūratrayaṃ ca catayaminnāḷonnuṃ varuṃ punaḥ  // Jyo_2.17 //
+
+āryyasūryyārkkaputrāṇāmoru vāramatuṃ varuṃ  /
+dvādaśī ṣaṣṭhiyuṃ bhūtaścaturtthī ca navamyapi  // Jyo_2.18 //
+
+icconna nālupakkattiloru pakkamatuṃ varuṃ  /
+mūnnuṃ kūṭi varunnākil viṣappēṭṭāl mariccupōṃ  // Jyo_2.19 //
+
+veḷutta vastraṃ puṣpaṅṅaḷ dhariccōn nirmmalan tathā  /
+vākkinniṭarcca kūṭāte collunnōnuṃ prasannanuṃ  // Jyo_2.20 //
+
+varṇṇaliṃgaṅṅaḷonnāyi varunnōnuṃ samartthanuṃ  /
+dūtarāyi varunnākil śubhamakkāryya metrayuṃ  // Jyo_2.21 //
+
+mārggaṃ viṭṭu varunnōnuṃ dīnanuṃ śastrapāṇiyuṃ  /
+kṛṣṇaraktaṅṅaḷāṃ vastrakusumādi dhariccavan  // Jyo_2.22 //
+
+yaṣṭipāśādikaḷ kayyil dhariccōneṇṇatēccavan  /
+tūrṇṇagalgadavākyaṅṅaḷ collunnōnuṃ tathaiva ca  // Jyo_2.23 //
+
+kālkaraṅṅaḷ piṇappōnuṃ karayunnavanuṃ punaḥ  /
+śuṣkakāṣṭhāśritanmārumārdravastramuṭuttavan  // Jyo_2.24 //
+
+vastraṃcumaliliṭṭōnuṃ kēśapāśamaḻiccavan  /
+nakhastanākṣiguhyādi marddikkunnavanēkanuṃ  // Jyo_2.25 //
+
+aṃgavaikalyamuḷḷōnuṃ māṇiyuṃ muṇḍitan tathā  /
+dūtanmārivarāyīṭil aśubhaṃ tanne kēvalaṃ  // Jyo_2.26 //
+
+vanē śūnyālayē vāpi śmaśānē jalasannidhau  /
+channadēśē tathāpyuktō yadi mṛtyurbhaviṣyati  // Jyo_2.27 //
+
+piṛkāryyē ca yātrāyāṃ vivādē kṣaurakarmmaṇi  /
+snānāśanē ca nidrāyāmaśuddhasamayē tathā  // Jyo_2.28 //
+
+buddhikkuṇarccayillāte vasiccīṭunna nēravuṃ  /
+vannucollīṭukil pāraṃ kaṣṭaṃ kāryyamatetrayuṃ  // Jyo_2.29 //
+
+kiḻakkādiyatāyuḷḷa nāludikkiṅkalonnilō  /
+dūtan ninnu paraññīṭil nalla sarppaṃ kaṭiccatå  // Jyo_2.30 //
+
+tathā kōṇēṣu ninniṭṭu connāl ghōṇasamāyvaruṃ  /
+avaṟṟin maddhyabhāgattuninnīṭil pāmpu rājilaṃ  // Jyo_2.31 //
+
+atiluṃ sūkṣmamāyuḷḷōrantarattiṅkal nilkkilō  /
+elitēḷādiyāyuḷḷa jantuvālkaṭi peṭṭatå  // Jyo_2.32 //
+
+vāyukōṇē catuṣpāttaṅṅennuṃ collīṭṭumuṇṭiha  /
+mumpil ninnu paṟaññīṭil sarppaṃ brāhmaṇavaṃśamāṃ  // Jyo_2.33 //
+
+dakṣiṇē rājasarppaṃ tān pṛṣṭhabhāgē ca vaiśyanāṃ  /
+savyabhāgattu ninnīṭil śūdrasarppaṃ kaṭiccatå  // Jyo_2.34 //
+
+dakṣiṇāṃghriyuṟacciṭṭu ninnuconnāl pumānahi  /
+raṇṭukālumuṟacciṭṭu ninnāl pāmpu napuṃsakaṃ  // Jyo_2.35 //
+
+tathā kalpikka peṇṇennuṃ vāmabhāgamuṟacciṭil  /
+śvāsaṃ koṇṭumatīvaṇṇaṃ kaṇṭukoḷvū yathāvalē  // Jyo_2.36 //
+
+śvāsaṃ mēlpōṭṭukoḷḷumpōḷ connāl jīvikkumaṅṅavan  /
+viparītamatāyīṭil phalavuṃ viparītamāṃ  // Jyo_2.37 //
+
+śvāsaṃ nilkkunnabhāgattinnanyabhāge kaṭiccatå  /
+dūtan toṭṭōrubhāgattaṅṅennuṃ kalpikkaṇaṃ tathā  // Jyo_2.38 //
+
+karkkaṭādyāṟumāsattil pūrvvapakṣattilokkeyuṃ  /
+valattē bhāgamāṃ daṃśaṃ puruṣanmārkkatokkeyuṃ  // Jyo_2.39 //
+
+kṛṣṇapakṣē kaṭiccīṭiliṭattē bhāgamāy varuṃ  /
+bhāgaṃ maṟiccu kāṇēṇaṃ makarādyāṟumāsavuṃ  // Jyo_2.40 //
+
+vyatyāsamāyikkalpippū bhāgaṃ nārījanattinå  /
+mumpilvacca puṟattennuṃ kalpikkāṃ kaṭikoṇṭatå  // Jyo_2.41 //
+
+śvāsaṃ dūtanumaṅṅiṭattuvarukil
+cinticcu kākōḷamaṅṅillennuḷḷatu colka mumpiluṭanē
+daṣṭanṟe pēr colkiluṃ
+pāmpin pēruraceykiluṇṭu viṣavuṃ
+tīrttīṭalāmañjasā
+dakṣē tānaviṭannu pōkiladhikaṃ
+mōhiccu nañcēṟṟavan  // Jyo_2.42 //
+
+dūtan mārutanuṃ valattu varukil
+svalpaṃ viṣaṃ tīrkkalājyōtsnikā
+mādau daṣṭakanāmadhēyamatinecconnālumavvaṇṇamē
+itthaṃ colliyiṭattupōkilaviṭannanyan
+viṣaṃ nīkkinān
+pāmpin pēruraceykiluṇṭu maraṇaṃ
+tānennumōrttīṭaṇaṃ  // Jyo_2.43 //
+
+dīnaṃ connavanuṃ tanikku śaravuṃ
+vēṟiṭṭu ninnīṭukil
+collāmāturanāśu tanne maraṇaṃ
+vannīṭumennuḷḷatuṃ
+onniccatra vasicciteṅkilavanaṅṅāyussumārōgyavuṃ
+varddhiccīṭumatōrttu kāṇka viṣavuṃ
+vēgēna nīkkīṭilāṃ  // Jyo_2.44 //
+
+mumpil colliyorakṣaraṅṅaḷakhilaṃ
+mūnnil kiḻicciṭṭuṭan
+śēṣicconnu varunnatākiladhikaṃ
+vēgēna nīkkāṃ viṣaṃ
+raṇṭāyīṭukilēṟṟamuṇṭu viṣavuṃ
+tīrkkāṃ paṇippeṭṭatuṃ
+mūnnākil phalamillavanṟe jananikkuṇṭāyvaruṃ
+kaṇṇunīr  // Jyo_2.45 //
+
+eṭṭilkkaṇṭu kiḻikka connavacanaṃ
+mumpētumunnekkaṇakkennāluḷḷa
+phalaṅṅaḷuṃ lipikaḷil
+collāṃ kramattāl punaḥ
+mūrkhan maṇḍalirāḍå viyantirakulaṃ
+cākhukkaḷ kīṭaṅṅaḷuṃ
+bhōṣkkuṃ nirvviṣa,mēvameṭṭu phalavuṃ
+cinticcukoḷvū bhiṣakå  // Jyo_2.46 //
+
+pallonnu pāññū paṟakil `eka'kāraṃ
+vākyādi `ekī'yākilatinnu raṇṭuṃ  /
+mūnnuṃ taṟaccū paṟakil `eku'kāraṃ
+`ekē'yennatinnuṇṭatha nālu palluṃ  // Jyo_2.47 //
+
+śēṣippuvarṇṇaṅṅaḷumiprakāraṃ
+niaccukoḷvū vacanādiyiṅkal  /
+dīrghaṅṅaḷōṭe paṟayunnateṅkil
+raṇṭāmatuṃ kiñcana pāññuvennuṃ  // Jyo_2.48 //
+
+marulkṛśānūdharaṇījalaṅṅaḷ
+varggēṣu nannāluṭanakṣaraṅṅaḷ  /
+napuṃsakaṃ pañcamamāya varṇṇaṃ
+svaraṅṅaḷ bhūmyaṃbumayaṅṅaḷ tadval  // Jyo_2.49 //
+
+varggaṅṅaḷellāmiha dēhamallō
+svaraṅṅaḷ jīvaṅṅaḷumennu kēḷppū  /
+tasmāl svarattōṭatha kūṭiyuḷḷa
+varṇṇaṅṅaḷ vākyādiyatil guṇaṅṅaḷ  // Jyo_2.50 //
+
+jalākṣaraṅṅaḷ vacanē śubhaṅṅaḷ
+dharākṣaraṃ madhyamapakṣamallō
+nannalla varṇṇaṃ marudagnimārētatyantakaṣṭaṅaḷ
+napuṃsakaṅṅaḷ  // Jyo_2.51 //
+
+udyānadēśē jalasannidhau ca
+śūnyālayē bhūruhakōṭarē ca  /
+catuṣpathē dēvagṛhē śmaśānē
+valmīkadēśē gahanē sabhāyāṃ  // Jyo_2.52 //
+
+uduṃbarāśvatthavaṭākṣamūlē
+dvīpē girau caityatalē prapāyāṃ  /
+grāmāvasānē paśuvēśmasaudhē
+tathā tṛṇaughē+api ca jīrṇṇakūpē  // Jyo_2.53 //
+
+prākāradēśē+apyatha jaṃbumūlē
+tathā ca vēṇau khalu vētrakuñjē  /
+rathyāvasānē nanu śigrumūlē
+sarppēṇa daṣṭō yadi mṛtyumēti  // Jyo_2.54 //
+
+mūrddhā lalāṭaṃ kaviḷ nāsikē ca
+śrōtradvayaṃ nētrayugaṃ kapōlaṃ  /
+kaṇṭhaṃ karadvandvatalaṃ kucāntaṃ
+hṛlpārśvadēśaṃ bhujamastakē ca  // Jyo_2.55 //
+
+kakṣadvayaṃ kukṣyapi nābhidēśaṃ
+guhyaṃ muḻaṅkāl padagulphayugmaṃ  /
+enniṅṅinē celliya marmmadēśē
+viṣaṃ patiññāl viṣamaṃ śamippān  // Jyo_2.56 //
+
+puṟappeṭunnēramaṭiccupāṟṟān
+tuniññatākil guṇamilla cennāl  /
+`egamiykka'yennuṃ `egamiyāyka'yennuṃ
+viḷiccu collīṭilumiprakāraṃ  // Jyo_2.57 //
+
+vadhiccuvennuḷḷa vacassu kēḷppū
+tathā śapikkuṃ ravavuṃ śravippū  /
+kṣutaṃ śravippū kalahaṃ śravippū
+ninaccatellāṃ gamiyātirippū  // Jyo_2.58 //
+
+muṟiccupōyī vaḻipūccayeṅkil
+kuṟiccayappū tuniyolla pōvān  /
+niṟacca kuṃbhaṃ poṭiyākiluṃ tānuraccu
+vēṇaṃ paṟayāṃ viśēṣāl  // Jyo_2.59 //
+
+vaḻikku pāmpekkaṇikaṇṭu cennāloḻiccukūṭā
+viṣamōrkkavēṇaṃ
+`ekuḻiykka' kuṇṭennu paraññukoṇṭāl
+piḻakkayillā kaḷavolla collāṃ  // Jyo_2.60 //
+
+kalyāṇavākyaṃ gajamēghanādaṃ
+gītaṃ ca śaṃkhadhvani vādyaghōṣaṃ
+cakōrakēkīpikakākavēdadhvānaṅṅaḷatyantaguṇaṃ
+prayāṇē  // Jyo_2.61 //
+
+veṇṇīṟeṇṇa tilaṃ kapālamahiṣau
+kāṣṭhaṅṅaḷōṭṭakkalaṃ
+kārppāsaṃ kapiyuppu śilppijaṭilau
+māṃsāsthi gōmāyuvuṃ
+atyartthaṃ malināṃbaran maḻu pitṛprītikku
+vēṇṭunnatuṃ
+mārggē tānetiriṭṭu kāṇkilaśubhaṃ
+vipraṃ tathā cādvayaṃ  // Jyo_2.62 //
+
+kanyārājagajāṃbugōkkaḷ phalavuṃ
+vēśyāpi vipradvayaṃ
+kṣīraṃ rūpyasuvarṇṇaśaṃkhadadhimadhvājyadhvajaṃ
+bhēriyuṃ
+chatraṃ taṇḍulavuṃ veḷutta kusumaṃ
+kattunnatī bālanuṃ
+nērē tān śakunaṅṅaḷ pōnnuvarikil
+saukhyaṃ prayāṇē phalaṃ  // Jyo_2.63 //
+
+
+iti jyōtsnikācikitsāyāṃ dūtalakṣaṇādhikāraḥ
+
+
+[3]lakṣaṇaṃ
+tarippuṃ vīkkavuṃ cūṭuṃ coriccil kanavuṃ vraṇē  /
+uṇṭeṅkil viṣamuḷḷōnnatillayeṅkil viṣaṃ nahi  // Jyo_3.1 //
+
+mēlellāṃ kanavuṃ pāraṃ rōmakampaṃ ca nidrayuṃ  /
+aṃgasādavumuṇṭākil vyāpiccū viṣameṅṅumē  // Jyo_3.2 //
+
+darvvīkaran kaṭiccīṭil kaṟukkuṃ vraṇamēṟṟavuṃ  /
+rūkṣavuṃ pāramēṟīṭuṃ śuṣkamāyuṃ varuṃ tathā  // Jyo_3.3 //
+
+vraṇattil vīkavuṃ cūṭuṃ pītamākiya varṇṇavuṃ  /
+kāṇāṃ maṇḍaliyākunna pāmpu daṃśiccateṅkilō  // Jyo_3.4 //
+
+tathā veḷuttuvīṅṅīṭuṃ koḻuttuḷḷoru cōrayuṃ  /
+śītavuṃ kūṭeyuṇṭākuṃ viṣē rājilasaṃbhavē  // Jyo_3.5 //
+
+saṅkaran kaṭivāyākil lakṣaṇam miśramāyvaruṃ  /
+karāḷī makarī kāḷarātrī ca yamadūtikā  // Jyo_3.6 //
+
+icconna nālupallinnuṃ viṣavṛddhi yathākramaṃ  /
+mumpil(ḷ?)connatiṭattēppallatha raṇṭu valattumāṃ  // Jyo_3.7 //
+
+karāḷippaltaṟaccīṭil gōṣpādāṅkitamāṃ vraṇaṃ  /
+kāḷāgarusamaṃ gandhaṃ viṣavuṃ svalpamāyvaruṃ  // Jyo_3.8 //
+
+makarippallutan puṇṇu kulavilloṭu tulyamāṃ  /
+ghrāṇaṃ kuḻampupōlākuṃ viṣavuṃ nīkkalāṃ drutaṃ  // Jyo_3.9 //
+
+puḷḷin pādattinōṭokkuṃ kāḷarātriyutē vraṇaṃ  /
+gandhavuṃ candanaṃ pōle paṇippeṭṭu viṣaṃ keṭuṃ  // Jyo_3.10 //
+
+yamadūti paticcīṭil vīkkavuṃ kṣīragandhavuṃ  /
+nīlicca cōrayuṃ kāṇāṃ sādhyamallatu nīkkuvān  // Jyo_3.11 //
+
+varṣaśītōṣṇakālattuṃ tathā bālyādimūnniluṃ  /
+mūrkhādimūnnu pāmpinnaṅṅēṟṟmuṇṭāṃ viṣaṃ tulōṃ  // Jyo_3.12 //
+
+ṛtvārādyntakālattaṅṅēḻēḻudivasaṃ kramāl  /
+ṛtusandhiyatāṃ kālamēṟṟamuṇṭāṃ(aṃ) tadā viṣaṃ  // Jyo_3.13 //
+
+pūrvvāhnē balavān bālō mddhyāhnē ca tathā yuvā  /
+vṛddhanākiya pāmpinnaṅṅaparāhnē balaṃ vidhuḥ  // Jyo_3.14 //
+
+rātriyiṅkalumīvaṇṇaṃ kaṇṭukoḷvvū balaṅṅaḷe  /
+saṅkarannu sadā kālaṃ balamuṇṭu viṣattinå  // Jyo_3.15 //
+
+ēṟṟaṃ vēgēna vyāpikkuṃ rūkṣamāyuṃ varuṃ tathā  /
+vātakōpamatuṇṭākuṃ nalla pāmpin viṣattinå  // Jyo_3.16 //
+
+uṣṇiccu pittakōpattōṭēṟṟaṃ vīkkavumaṅṅine  /
+saṅkaṭaṃ palatuṇṭākuṃ maṇḍalīnāṃ viṣattinå  // Jyo_3.17 //
+
+dēhē śītavumatyartthaṃ kaphattinṟevikāravuṃ  /
+rājilattin viṣattinnu pāraṃ dāruṇamāyvaruṃ  // Jyo_3.18 //
+
+elladōṣavumonniccu sannipātaprakōpavuṃ  /
+kūṭeyuṇṭāyvaruṃ pinnessaṅkaranṟe viṣattinå  // Jyo_3.19 //
+
+dṛṣṭiyuṃ mukhavuṃ vākkuṃ dēhattinṟe taḷarccayuṃ  /
+maṟṟuṃ pala vikāraṅṅaḷellāṃ sūkṣiccu koḷḷaṇaṃ  // Jyo_3.20 //
+
+viṣaṅṅaḷkkokkeyuṃ pāraṃ gatibhēdamatōrkkaṇaṃ  /
+puḷitoṭṭoru pālinṟe vikāraṅṅaḷ kaṇakkeyāṃ  // Jyo_3.21 //
+
+kaṭipeṭṭa pradēṣattu nilkkuṃ mātrāṣataṃ viṣaṃ  /
+aviṭannuṭanē pinne vāyuvōṭu kalarnnatå  // Jyo_3.22 //
+
+neṟṟimēl cennuvyāpikkuṃ pinne kaṇṇil paranniṭuṃ  /
+aviṭannu mukhattellāṃ parakkuṃ pinne nādiyil  // Jyo_3.23 //
+
+ellāṃ kaṭannu vyāpicciṭṭaviṭannu punaḥ kramāl  /
+dhātukkaḷil kaṭannīṭuṃ pānīyē tailabinduval  // Jyo_3.24 //
+
+orudhātuvatiṅkannaṅṅannyadhātuvatil kramāl  /
+kaṭannucellunnatinu collunnū `evēga'menniha  // Jyo_3.25 //
+
+carmmaraktaṃ tathā māṃsaṃ mēdassuṃ punarasthiyuṃ  /
+majja śuklavumīvaṇṇamēḻudhātukkaḷuṃ kramāl  // Jyo_3.26 //
+
+antarāntaramāyiṭṭu vasikkuṃ sarvvadēhināṃ  /
+ōrō vikārabhēdaṅṅaḷ viṣaṃ koṇṭivayēḻinuṃ  // Jyo_3.27 //
+
+uṇṭāyvaruṃ kṣaṇaṃ koṇṭu nōkkikkaṇṭavayokkeyuṃ  /
+innadhātuviluḷppukkū viṣamennaṟivū bhiṣakå  // Jyo_3.28 //
+
+viṣaṃ carmmattilnilkkumpōḷuṇṭākuṃ rōmaharṣaṇaṃ  /
+raktattiṅkalatāyīṭil viyarkkuṃ dēhamēṟṟvuṃ  // Jyo_3.29 //
+
+niṟappakarccayuṃ kūṭe kāṇāṃ māṃsattilettukil  /
+mēdassiṅkal kaṭakkumpōḷ charddiyuṃ viṟayuṃ varuṃ  // Jyo_3.30 //
+
+asthiyil kaṇṇukāṇātāṃ kaḻuttuṃ kuḻayuṃ punaḥ  /
+ekkiṭṭaṃ dīrghaniśvāsaṃ raṇṭuṃ majjayilettukil  // Jyo_3.31 //
+
+mōhavuṃ mṛtiyuṃ śuklē viṣaṃ cērnnāl varuṃ drutaṃ  /
+kaṭikoṇtappoḻēttanne mōhiccū daṣṭaneṅkilō  // Jyo_3.32 //
+
+uḷḷaṭaṅṅiyirippuṇṭu jīvanennupadēśamāṃ  /
+kūṭekkūṭe viyarttīṭuṃ jāḷyavuṃ kampavuṃ varuṃ  // Jyo_3.33 //
+
+taḷaruṃ sandhikaḷ pinne varaṇṭīṭuṃ mukhaṃ tulōṃ  /
+dīrghaniśvāsavuṃ kāṇāṃ viyarkkuṃ dēhamēṟṟavuṃ  // Jyo_3.34 //
+
+neññu nontu kanattīṭuṃ vibhramaṃ cittanētrayōḥ  /
+charddikkuṃ kaphapittaṅṅaḷ nīlikkuṃ nakhadantavuṃ  // Jyo_3.35 //
+
+jihvādharaṅṅaḷuṃ pāraṃ kaṟukkuṃ kaphavuṃ varuṃ  /
+paṟayuṃ mūkkilēkkūṭe kaṭakkāṇṇu cuvanniṭuṃ  // Jyo_3.36 //
+
+puṇṇuṃ cuvannu nīliccu vaṭṭamāyå vīṅṅumēṟṟavuṃ  /
+hastadvandatalē kakṣē cevikkīḻilumaṅṅine  // Jyo_3.37 //
+
+veṇṇīṟiṭṭu tirummīṭil kāṇāṃ dantakṣataṅṅale  /
+nānāvikṛtikaḷ maṟṟuṃ kūṭekkūṭe varuṃ drutaṃ  // Jyo_3.38 //
+
+īvaṇṇamellāṃ kāṇumpōḷ samīpiccu vināśavuṃ  /
+malamūtramoḻiññappoḷ jīvan kāṇātirikkilō  // Jyo_3.39 //
+
+yatnaṅṅaḷ vēṇṭā pinnonnuṃ maraṇaṃ tanne niścayaṃ  /
+neṟṟikīrīṭukil cōra kāṇātē tānirikkiluṃ  // Jyo_3.40 //
+
+curuṅṅikkṛṣṇamāyiṭṭu kāṇkiluṃ nīrukoṇṭuṭan  /
+nanaccālaviṭē rōmaṃ paṟṟittanneyiriykkiluṃ  // Jyo_3.41 //
+
+veḷḷattiliṭṭāl tāḻāte poṅṅi nīrmēliriykkiluṃ  /
+kōleṭuttu toṭaykkonnu koṭṭiyāl piṇarāykiluṃ  // Jyo_3.42 //
+
+gudanētraṅṅaḷuṃ vāyuṃ vikasicciṭṭiriykkiluṃ  /
+dṛṣṭitanmaṇikaḷ raṇṭuṃ naṭṭu nērēyiriykkiluṃ  // Jyo_3.43 //
+
+daṣṭakannuḷḷil ninnāśu viṭṭū jīvanatōrkkaṇaṃ
+itthaṃ colliya lakṣaṇaṅṅaḷakhilaṃ
+cinticcu kaṇṭiṭṭuṭan
+tīrkkāṃ kṣvēḷamatennu kāṇkilavanē
+rakṣiykka mantrauṣadhaiḥ
+sādhikkāttatināśu cennu nitarāṃ
+yatnaṅṅaḷ ceytīṭolā
+bhāṣiccīṭuvar tanneyaṅṅanudinaṃ
+maṟṟillatonnē phalaṃ  // Jyo_3.44 //
+
+
+iti jyōtsnikācikitsāyāṃ lakṣaṇādhikāraḥ
+
+
+[4]cikitsākramaṃ
+cikitsāraṃbhaṃ
+śrīgurōścaraṇāṃbhōjam praṇamya vidhival sudhīḥ  /
+śrutvātha tanmukhānmantraṃ varṇṇalakṣaṃ japēl kramāl  // Jyo_4.1 //
+
+divyauṣadhāni niścittya niścalātmā hyakuṇṭhitaḥ  /
+viṣapratikriyāṃ kuryyāl sa ca manthrauṣadhādibhiḥ  // Jyo_4.2 //
+
+viṣaṃ naśikkuṃ mantraṃ koṇṭoṭuṅṅuṃ duritaṅṅaḷuṃ  /
+bhūtagrahādipīdā ca maṟṟuḷḷāpalgaṇaṅṅaluṃ  // Jyo_4.3 //
+
+apamṛtyujarāvyādhi ripudōṣādiyokkeyuṃ  /
+śamiccupōkuṃ vēgēna sukhārōgyādiyuṃ varuṃ  // Jyo_4.4 //
+
+siddhauṣadhaṅṅalekkoṇtuṃ siddhikkuṃ kṣvēḷaśāntiyē  /
+vṛddhi buddhikkumuṇtākuṃ śuddhi dēhattinuṃ varuṃ  // Jyo_4.5 //
+
+kruddhicca dōṣatrayavumaṭaṅṅuṃ pūrvvaval drutam  /
+anāmayatvavuṃ nityaṃ bhavēdauṣadhasēvayā  // Jyo_4.6 //
+
+pāmpināl kaṭipeṭṭālaṅṅuṭanē vēṇṭatokkeyuṃ  /
+collunnu guptamennālumupakārārtthamāyiha  // Jyo_4.7 //
+
+kaṭicca pāmpinettānuṃ piṭipeṭṭu kaṭiykāṇaṃ  /
+labhiccillennu vannīṭil kōlu tān kallu tān drutaṃ  // Jyo_4.8 //
+
+eṭuttukoṇtu pāmpennu cinticciṭṭu kaṭiykkaṇaṃ  /
+śṛōtradvadvamalaṃ dhṛtvā hastē kṛtvā punaḥ punaḥ  // Jyo_4.9 //
+
+āsyāṃbuni vimarddiccu piraṭṭū kaṭivāyatil  /
+unmukaṃ koṇtu cuṭṭāluṃ vēṇṭatilla vṛaṇaṅṅaḷe  // Jyo_4.10 //
+
+lōhādikaḷ tapippiccu puṇṇil vaccīṭiluṃ tathā  /
+kottikkoṇṭaviṭaṃ cāṭṭikkaḷaññīṭukiluṃ guṇaṃ  // Jyo_4.11 //
+
+pātraṅṅaḷkkoṇṭuṃ kaikoṇṭuṃ veḷḷaṃ tōrātekaṇṭuṭan  /
+dhāra ceytīṭiluṃ koḷḷāṃ cōra kottityajikkalaṃ  // Jyo_4.12 //
+
+kaṭivāyīnnu mēlpōṭṭu viṣaṃ kēṟunna mumpilē  /
+ceytukoḷḷēṇamallāykil phalamillennatuṃ varuṃ  // Jyo_4.13 //
+
+daṃśapradēśē nilkkumpōḷ ceytukoṇṭīṭukil garaṃ  /
+pākaṃ ceytoru bījattinnaṅkuraṃ pōle pōykkeṭuṃ  // Jyo_4.14 //
+
+daṃśāl mēlpōṭṭu kēṟīṭil ceytukoḷvū cikitsakaḷ  /
+carmmādimūnnudhātukkaḷatil cenna viṣaṃ nṛṇāṃ  // Jyo_4.15 //
+
+auṣadhaṅṅaḷ cavacciṭṭaṅṅūtiyāloḻiyuṃ drutaṃ  /
+mēdassiṅkal kaṭannālaṅṅasthiyil celkiluṃ punaḥ  // Jyo_4.16 //
+
+divyauṣadhaṅṅaḷ sēvippū tēppū naṣṭamatāṃ viṣaṃ  /
+majjaśuklamatil cennāl ceyvū nasyāñjanādikaḷ  // Jyo_4.17 //
+
+kālamēṟṟaṃ kaḻinññōru viṣatteppōkkuvāniha  /
+eṇṇaneyventeṭuttiṭṭu prayōgiccāloḻiññu pōṃ  // Jyo_4.18 //
+
+viśvadusparśamarica viṣavēgaṅṅaḷenniva  /
+tulyaṃ kūṭṭiccavacciṭṭu mūvvaronniccu koṇṭuṭan  // Jyo_4.19 //
+
+ūtū nūṟṟampateṇṇī ṭṭu śrōtrayōrmmūrdhani kramāl  /
+ennāloḻiññpōmāśu mūnnudhātuvilē viṣaṃ  // Jyo_4.20 //
+
+
+[5]darvvīkaraviṣattinå
+kiṃśukachadatōyattil rāmaṭhaṃ maricaṃ vacā  /
+pēṣiccu lēpanaṃceytāl tīruṃ darvvīkaran viṣaṃ  // Jyo_5.1 //
+
+ṭaṅkaṇaṃ gṛhadhūmaṃ ca mūtraē piṣtvā pralēpayē  // Jyo_5.2 //
+
+śivamalliyuṭē jīrṇṇapatravuṃ kāyamenniva  /
+raṇṭuṃ kūṭṭiyaracciṭṭu tēccāl phaṇiviṣaṃ keṭuṃ  // Jyo_5.3 //
+
+mātṛghātiyatinmūlaṃ kāyavuṃ naravāriṇā  /
+pēṣiccu lēpanaṃ ceytāl phaṇināṃ viṣamāśupōṃ  // Jyo_5.4 //
+
+laśunaṃ maricaṃ nalla rāmaṭhaṃ cukku tippali  /
+arkkapatrarasē piṣṭvā lēpanādyairvviṣaṃ keṭuṃ  // Jyo_5.5 //
+
+kṣvēḷavēgamatinvēruṃ cukkuṃ kūṭṭiyaraccuṭan  /
+kuṭippū lēpanaṃ ceyvū viṣaṃ naṣyati talkṣaṇāl  // Jyo_5.6 //
+
+nīlīmūlamaracciṭṭu śuddhatōyē pibēttataḥ  /
+daṃśapradēśē tēccīṭū tīrnniṭuṃ viṣamokkeyuṃ  // Jyo_5.7 //
+
+vyōṣaṃ tulyamaracciṭṭu kuṭippū kāñcikē jalē  /
+śuddhatōyē+athavā sadyō naśyati kṣvēḷamokkeyuṃ  // Jyo_5.8 //
+
+aśvagandhamaracciṭṭu śuddhatōyē pibēdrutaṃ  /
+nantyārvaṭṭamatinmūlaṃ muḷakuṃ kūṭṭiyuṃ tathā  // Jyo_5.9 //
+
+karañjavērumavvaṇṇaṃ muḷakōṭu kalarnnuṭan  /
+araccu tēppū sēvippū naṣṭamāṃ kṣvēḷamokkavē  // Jyo_5.10 //
+
+tathā śārṅṅēṣṭamūlaṃ ca maricēna samaṃ pibēl  /
+guḷūcitannuṭē mūlaṃ muḷakuṃ kūṭṭiyuṃ tathā  // Jyo_5.11 //
+
+araccu candanōśīraṃ kuṭiccāluṃ viṣaṃ keṭuṃ  /
+ceṟucīrayatuṃ nalloraśvagandhamatuṃ tathā  // Jyo_5.12 //
+
+saindhavārkkadalaṃ piṣtvā pāyayēnnaravāriṇā  /
+sarvvadarvvīviṣaṃ hannyāttimiraṃ bhānumāniva  // Jyo_5.13 //
+
+śirīṣārkkasamaṃ bījaṃ vyōṣavuṃ tulyamāyuṭan  /
+arkkakṣīrē+atha saṃpiṣtvā viṣaṃ pānādinā harēl  // Jyo_5.14 //
+
+tāṃbūlōnmattapatrāṇāṃ rasē piṣtvātha saindhavaṃ  /
+nasyaṃ ceytāluṇarnnīṭuṃ viṣasuptakanñjasā  // Jyo_5.15 //
+
+guñjābījaṃ ca maricameriññikkuruvenniva  /
+nṛjalē drōṇatōyē vā piṣṭvā nasyāñjanē hitaṃ  // Jyo_5.16 //
+
+tuḷasītumpatan tōyē maricaṃ kūṭṭi nasyamāṃ  /
+oṟṟayuḷḷi vacā kāyaṃ nasyaṃ ceyka narāṃbunā  // Jyo_5.17 //
+
+rāmaṭhaṃ maricaṃ nalla saindhavaṃ rasamenniva  /
+nṛjalē vātha vaikuṇṭhatōyē nasyaṃ prabōdhakṛl  // Jyo_5.18 //
+
+kayyanniccāṟṟil maricaṃ nasyaṃ ceytāluṇarnniṭuṃ  /
+uḷḷiyuṃ kāyavuṃ kūṭṭi nasyaṃ ca naravāriṇā  // Jyo_5.19 //
+
+laśuṇaṃ ṭaṅkaṇaṃ vyōṣaṃ vacākāyaṅṅaḷenniva  /
+tumpaccāṟṟilaracciṭṭu guḷikīkṛtya saṃgrahēl  // Jyo_5.20 //
+
+kākkamuṭṭayiliṭṭiṭṭaṅṅuṇakkikkoṇṭu pinnatu  /
+tuḷasīpatratōyē vā kiṃśukasvarasē+athavā  // Jyo_5.21 //
+
+nṛjalē drōṇatōyē vā śigrupatrarasē+api vā  /
+nasyaṃ ceytāluṇarnnīṭuṃ viṣamūrccha kalarnnavan  // Jyo_5.22 //
+
+maṟṟuṃ palatumuṇṭēvaṃ nasyapānādikaḷkkiha  /
+samastayōgaṃ collumpōḷ colliṭāmavayokkayuṃ  // Jyo_5.23 //
+
+iti jyōtsnikācikitsāyāṃ darvvīkaracikitsādhikāraḥ
+
+
+[6]maṇḍalicikitsāraṃbhaṃ
+śvētaḥ kaṣṭśca kuṭilō mahān bhūyastathā bhramaḥ  /
+sūcīstīkṣṇaśca kṛṣṇaśca piśācō hēma ēva ca  // Jyo_6.1 //
+
+visarppaḥ pītanētrākhyō rāgaḥ kuṃbhaśca śōṇitaḥ
+śōphaścaivaṃ prasiddhāsyurbhuvi ṣōḍaśaghōṇasāḥ  // Jyo_6.2 //
+
+iṅṅinē patināṟuḷḷa maṇḍaliykkokkayuṃ kramāl  /
+vēṟiṭṭu collīṭṭuṇṭallō lakṣaṇaṅṅaḷ cikitsayuṃ  // Jyo_6.3 //
+
+ava sūkṣiccaṟiññīṭānetrayuṃ paṇiyuṇṭiha  /
+ennuvaccatinonnāyicconnatuṇṭatu colluvan  // Jyo_6.4 //
+
+nīlikāmūlamāhṛtya piṣtvā kōṣṇāṃbunā pibēl  /
+tadēva lēpayēddaṃśē maṇḍalīnāṃ viṣakṣayaṃ  // Jyo_6.5 //
+
+karañjamūlaṃ tanmēlettoli piṣtvā pralēpayēl  /
+kuṭippū ghōṇasānāṃ ca viṣaṃ naśyati talkṣaṇāl  // Jyo_6.6 //
+
+candanaṃ śītatōyēna kuṭippū viṣaśāntayē  /
+nīrppāṟakattinvērmēlttōl piṣtvā pītvā viṣaṃ harēl  // Jyo_6.7 //
+
+tathā pātirimūlaṃ ca kuṭippū lēpayēcca tal  /
+kākōḷajālaṃ harati śaśāṅkastimiraṃ yathā  // Jyo_6.8 //
+
+tathā veṅkāravērmēlttōl kuṭiccāluṃ viṣaṃ keṭuṃ  /
+avalppori vacā śītaṃ kuṭiccāluṃ tathaiva ca  // Jyo_6.9 //
+
+araccu tēppū puṇṇiṅkal mūlaṃ kāraskarasya ca  /
+ghōṇasānāṃ viṣaṃ tīruṃ śāribā vacayuṃ tathā  // Jyo_6.10 //
+
+madhukaṃ candanaṃ nalla rāmaccaṃ samamāyuṭan  /
+nasyapānādi ceytīṭiloḻiyuṃ viṣamañjasā  // Jyo_6.11 //
+
+kārttoṭṭikaraḷēkaṅṅaḷ kuṭiccāl garamāśu pōṃ  /
+punarnnavārkkamūlaṅṅaḷ liptvā pītvā viṣaṃ jayēl  // Jyo_6.12 //
+
+lōddhraśītaniśāyugma saraḷārkkāssavilvakāḥ  /
+mañjiṣṭhāpāṭalīmūlasamētāḥ kṣvēḷaśāntayē  // Jyo_6.13 //
+
+takaraṃ candanaṃ koṭṭaṃ madhukōśīraśāribāḥ  /
+tulyāṃśapānāl kākōḷaṃ harēllēpādinā tathā  // Jyo_6.14 //
+
+niṃbanīlīkarañjānāṃ mūlaṃ piṣṭvā tu pāyayēl  /
+śīghraṃ viṣaṅṅaḷellāṃ pōṃ lēpanādiyatinnumāṃ  // Jyo_6.15 //
+
+peruṅkurumpayuṃ pāṭakkiḻaṅṅuṃ saindhavaṃ vacā  /
+sēvippū lēpanaṃ ceyvū daṣṭō naṣṭaviṣō bhavēl  // Jyo_6.16 //
+
+kuppamaññaḷilaccāṟṟil cukkuṃ muḷakumuḷḷiyuṃ  /
+kalarnnu nasyaṃ ceytālaṅṅuṇaruṃ viṣamūrchitan  // Jyo_6.17 //
+
+iraññikkuruvuṃ kāyaṃ stanyē nasyaṃ tathaiva ca  /
+intuppuṃ vyōṣavuṃ kūṭṭi nasyaṃ ceytālumaṅṅine  // Jyo_6.18 //
+
+vayampuṃ muḷakuṃ kūṭṭi tumpanīril kalarnnatå  /
+nasyaṃ ceytāluṇarnnīṭuṃ viṣasuptakanañjasā  // Jyo_6.19 //
+
+kaṟuttatuḷasīśigrupatraṅṅaḷkkuḷḷa nīratil  /
+saindhavaṃ muḷakuṃ kūṭṭi nasyaṃ mōhavināṣanaṃ  // Jyo_6.20 //
+
+indravallīrasē cukkuṃ viṣavēgaṃ ca saindhavaṃ  /
+uḷḷiyuṃ kūṭṭi nasyaṃkoṇṭuṇaruṃ viṣamōhitan  // Jyo_6.21 //
+
+tumpayuṃ tuḷasīpatraṃ muḷakum kuṭṭiyuṃ tathā  /
+noccitumpayatin tōyē maricaṃ kūṭṭi nasyamāṃ  // Jyo_6.22 //
+
+iraññikkuruvuṃ cukkuṃ muḷakuṃ laśunaṃ samaṃ  /
+svātmatōyēna nasyaṃ koṇṭuṇaruṃ mōhitan drutaṃ  // Jyo_6.23 //
+
+śirīṣabījaṃ maricaṃ piṣtvā veṟṟilanīratil  /
+eḻutū kaṇṇilennālumuṇaruṃ kṣvēḷamōhitan  // Jyo_6.24 //
+
+purāṇamaricaṃ tanne pōrumenniha kēcana  /
+tuḷsīpatratoyattil eriññikkuruvañjayēl  // Jyo_6.25 //
+
+intuppuṃ tōrayuṃ kūṭṭīṭṭeḻutāṃ kaṇṇilañjanaṃ  /
+vyōṣaṃ tanne taḻaccīṭṭumeḻutāmñjanaṃ dṛśōḥ  // Jyo_6.26 //
+
+cittabhramaṃ varunnēraṃ rāmaccaṃ candanaṃ pibēl  /
+prasravaṃ maññaḷiccīṭiluṅṅintōl kōṣṇavāriyil  // Jyo_6.27 //
+
+paniyuṇṭākilannēraṃ puḷivēr pāliluṃ tathā  /
+phalatrayaṃ kuṭikkēṇaṃ charddiyuṇṭākilappoḻē  // Jyo_6.28 //
+
+uṣṇicciṭṭuvalaññīṭil rāmaccamiruvēliyuṃ  /
+tēppū candanavuṃ kūṭṭissarvvāṃgaṃ viṣadaṣṭane  // Jyo_6.29 //
+
+cōra charddikkilannēraṃ pālil vēpīla pāyayēl  /
+kadaṃbattōl kuṭikkēṇaṃ tadā raktaṃ saricciṭil  // Jyo_6.30 //
+
+nānāsandhukkaḷil pāraṃ taḷarccayuḷavākilō  /
+punarnnavaṃ kuṭikkēṇaṃ kōṣṇavāriyatil punaḥ  // Jyo_6.31 //
+
+jaṭharaṃ vīrttupōyīṭil saindhavaṃ tryūṣaṇaṃ tathā  /
+dahikkil kadaḷīkandatōyavuṃ kṣīravuṃ pibēl  // Jyo_6.32 //
+
+mālatīpatratōyattil tailvuṃ cērttupāyayēl  /
+cōra tuppūnnatellāṃ pōṃ mūkkilūṭe varunnatuṃ  // Jyo_6.33 //
+
+rōmakūpēṣu sarvvāṃgaṃ cōrakāṇkilatinniha  /
+śigrumūlaṃ nuṟukkikkoṇṭōṭṭiliṭṭuvaṟuttatå  // Jyo_6.34 //
+
+poṭiccu poṭiyākkīṭṭu karaṭellāṃ kaḷaññuṭaṇ  /
+paśuvin neyyil mēḷiccu sarvvāṃgaṃ parimarddayēl  // Jyo_6.35 //
+
+malamūtraṅṅaḷ pōkāte saṅkaṭam varikil tadā  /
+pippalyēlattari raṇṭuṃ nāḷikērōdakē pibēl  // Jyo_6.36 //
+
+kōṣṇatōyē kuṭiccāluṃ malamūtramoḻiññupōṃ  /
+ivakoṇṭudarē dhāra nitarāṃ ceykiluṃ tathā  // Jyo_6.37 //
+
+mūṣikāṇāṃ malaṃ nalla veḷḷarikkuruveniva  /
+araccunābhiyin kīḻe puraṭṭīṭukiluṃ tathā  // Jyo_6.38 //
+
+paṟiccarappū maṇali nābhikkīḻē talōṭuka  /
+karunocciyuṭē vēruṃ mūtradōṣē pralēpayēl  // Jyo_6.39 //
+
+nannāṟi candanaṃ nalla madhukaṃ mūnnumoppamāyå  /
+kaṣāyaṃ veccu sēvippū kiñcinmadhusitāyutaṃ  // Jyo_6.40 //
+
+raktadūṣyaṅṅaḷellāṃ pōṃ tathā kuṭcamūlavuṃ  /
+kṣīrēṇa kṣīrivṛkṣāṇāṃ kaṣāyaṃ sasitākaṇaṃ  // Jyo_6.41 //
+
+sēviccāl maṇḍalikṣvēḷaraktadūṣyaṃ keṭuṃ drutaṃ  /
+tathā mañjaṭṭi nannāṟi paciccuḷḷa kaṣāyavuṃ  // Jyo_6.42 //
+
+tirutāḷiyuṭē patraṃ piṣtvā veṇṇayumāyatå  /
+cāliccu talayil tēccāl keṭuṃ raktasravaṃ tadā  // Jyo_6.43 //
+
+veṇṇayuṃ tayiruṃ tēnuṃ koṭṭaṃ trikaṭu saindhavaṃ  /
+gṛhadhūmaṃ ca mañjaṭṭippoṭiyuṃ maramaññaḷuṃ  // Jyo_6.44 //
+
+icconnatellāmonniccu kūṭṭiccāliccukoṇṭatha  /
+sarvvaṃgaṃ tēccu marddippu maṇḍalikṣvēḷamāśu pōṃ  // Jyo_6.45 //
+
+raktamaṇḍalidaṣṭannu viśēṣiccuṃ śubhapradaṃ  /
+pālil paciccaracciṭṭu nellittoliyatil punaḥ  // Jyo_6.46 //
+
+mustācandanavuṃ cērttu neṟṟimēl tēccukoḷḷuka  /
+neṟṟinōvuṭanē tīruṃ jaṭharaṃ pukayunnatuṃ  // Jyo_6.47 //
+
+nētrarōgaṃ bhaviccīṭilatuṃ tīrnniṭumañjasā  /
+colluvan viṣavīkkaṅṅaḷ pōkkuvānauṣadhaṅṅaḷe  // Jyo_6.48 //
+
+punarnnavaṃ muriṅṅēṭe mūlavuṃ vākamūlavuṃ  /
+amukkuramatuṃ kūṭṭīṭṭaracciṭṭu puraṭṭuka  // Jyo_6.49 //
+
+ampāḻattoliyuṃ tadval vuṅṅinte toliyuṃ punaḥ  /
+tintriṇittoli māvinṟe toliyuṃ karaḷēkavuṃ  // Jyo_6.50 //
+
+vayampuṃ pāṭatan vēruṃ maññaḷennivayokkeyuṃ  /
+kāṭitannilaracciṭṭu tēccāl vīkkamoḻiññupōṃ  // Jyo_6.51 //
+
+unmattikkā turanniṭṭu kuru pāti kaḷañjatil  /
+kuṟaññonnuppumiṭṭiṭṭu kāṭi vīḻtti vetumpuka  // Jyo_6.52 //
+
+aracchuvīkkamuḷḷēṭattokkettoṭṭu puraṭṭukil  /
+ṃaṇḍlīviṣavīkkaṅṅaḷellāṃ pōymaṟayuṃ drutaṃ  // Jyo_6.53 //
+
+koṭṭaṃ takaravuṃ nalla rāmaccaṃ candanaṃ tathā  /
+madhukaṃ śāribāmūlamellāṃ tulyamaraccuṭan  // Jyo_6.54 //
+
+toṭṭutēccāl keṭuṃ vīkkaṃ kuṭiccāal viṣavuṃ keṭuṃ  /
+nasyattinnuṃ guṇaṃ tanne mūrddhāviṅkalumāmatå  // Jyo_6.55 //
+
+tamiḻāma yerikkinṟe mūlavuṃ viṣavēgavuṃ  /
+ñeriññil pāṭatanmūlaṃ vayampuṃ candanaṃ niśā  // Jyo_6.56 //
+
+aghōri uṅṅintoliyuṃ tulyamāyivayokkeyuṃ  /
+kāṭitannilaracciṭṭu tēccāl vīkamoḻiññupōṃ  // Jyo_6.57 //
+
+intuppuṃ paśuvinneyyuṃ kūṭṭippuṇṇil talōṭuka  /
+vīkavuṃ cūṭumannōvumoḻiññīṭumaśēṣavuṃ  // Jyo_6.58 //
+
+mṛṇāḷaṃ daśapuṣpaṃ ca vēmpāṭayamṛtuṃ niśā  /
+dīrghavṛntakarañjatvaktathā śigruśirīṣayōḥ  // Jyo_6.59 //
+
+punarnnavaṃ vacā bhūyaścandanaṃ śāribā kaṇā  /
+patthyā dārvvī śaṃbhumūlapāṭhāmēgharavaṃ tathā  // Jyo_6.60 //
+
+uśīramamarīmūlaṃ madhukaṃ śarapuṃ khavuṃ  /
+tulyaṃ kāṭiyatil piṣtvā tēppū vīkkamoḻiññupōṃ  // Jyo_6.61 //
+
+mārjjāravandinīpatraṃ karuvēppinṟe patravuṃ  /
+vēlipparuttiyilayuṃ tathā mārttāṇḍapatravuṃ  // Jyo_6.62 //
+
+tintriṇyummattapatraṃ ca kārttoṭṭiyuṭe patravuṃ  /
+śigrupatravumoppiccu kāṭinīrilaraccuṭan  // Jyo_6.63 //
+
+yōjippiccatinōṭoppamerumaccāṇakaṃ punaḥ  /
+kūṭṭiccāliccu raṇṭāyiṭṭaṃśiccu kiḻi keṭṭuka  // Jyo_6.64 //
+
+maṇpātrattilākkīṭṭu kāṭi vīḻttippataṟṟuka  /
+gōmūtrattil paciccāluṃ vēṇṭatillennu kēcana  // Jyo_6.65 //
+
+aṭaccu puka pōkāte pākaṃ ceytiṭṭeṭuttuṭan  /
+kiñcil cūṭōṭe taṭavū vīkkamuḷḷēṭamokkeyuṃ  // Jyo_6.66 //
+
+pāricca vīkkamāyīṭil taṭavū mūnnunēravuṃ  /
+ājyaṃ toṭṭu puraṭṭīṭṭu kāccikkoḷkennu kēcana  // Jyo_6.67 //
+
+ivayellāmiṭicciṭṭu piḻiññuḷḷa jalaṃ punaḥ  /
+kāccikkavōṣṇamākumpōḷ dhāra ceytīṭiluṃ guṇaṃ  // Jyo_6.68 //
+
+icconnatellāṃ pēṣiccu piraṭṭīṭukiluṃ tathā  /
+vīkkamellāmoḻiññīṭumēṟe nallū kiḻikriyā  // Jyo_6.69 //
+
+collāṃ maṇḍalitanṟe vīkkamuṭanē nīṅṅunna siddhauṣadhaṃ
+vuṅṅinṟe tōlōṭavalpporī puḷidalaṃ pāṭakkiḻaṅṅuṃ vacā  /
+koññāṇintoli kāññirattiluḷavāṃ pulluṇṇi nalccandanaṃ
+pinneccāru koḻiññilvēramarivēr nenmēnivākattoli  // Jyo_6.70 //
+
+paścāttatra kaḻañcivēraḻakinōṭākāśatārkṣyan punaḥ
+cērnnīṭuṃ malar paccamaññaḷ daśapuṣpattōṭu vrīhikkari
+nallōrīśvramūlivēratiniyuṃ
+collāṃ muriṅṅāttoli
+ennityādi samēna kāṭisalilē
+piṣtva vraṇē lēpayēl  // Jyo_6.71 //
+
+śigru punarnnava maññaḷ vayampuṃ
+candanapāṭayoṭīśvaramūli
+yaṣṭiśirīṣañariññilumoppaṃ
+tēykkiluṭan viṣavīkkamaṭaṅṅuṃ  // Jyo_6.72 //
+
+mātṛghāti vacā śaṃbhumūliyuṃ candanaṃ niśā  /
+vuṅṅuṃ rāmaccavuṃ piṣṭva tēppū vīkkamoḻiññupōṃ  // Jyo_6.73 //
+
+śuddhatōyē taḻacciṭṭu kalakkīṭṭatha candanaṃ  /
+dhārayiṭṭāloḻiññīṭuṃ viṣavaiṣamyamokkayuṃ  // Jyo_6.74 //
+
+kākkattoṇṭi kuruccūli śatamūlīṭe mūlavuṃ  /
+kaṭitanniliṭicciṭṭiṭṭatināl dhāra ceyyaṇaṃ  // Jyo_6.75 //
+
+viṣavuṃ vīkkavuṃ pinne nōvuṃ cūṭumaḻalccayuṃ  /
+tōdaṃ vēdana ityādiyellāṃ pōṃ dhārayāl dṛḍhaṃ  // Jyo_6.76 //
+
+vīkkaṃ pāramatāyīṭil tūkkudhāra kaḻikkaṇaṃ  /
+tūkkuṃ pātrattiliṭṭēccāl guṇaṃ niṃbadalaṃ tulōṃ  // Jyo_6.77 //
+
+kāraskarattinpulluṇṇi candanaṃ śatamūliyuṃ  /
+kaṟṟāḻanīruṃ kūśmāṇḍalatā ēraṇḍapatravuṃ  // Jyo_6.78 //
+
+oppiccu tōyē cērttiṭṭu dhāraceyvū nirantaraṃ  /
+uṭanēceytu koṇtīṭil poḷḷukilla viṣakṣataṃ  // Jyo_6.79 //
+
+śōphattinnuṃ guṇaṃ tanne viṣaṃ pōvatinuṃ tathā  /
+uṣṇicciṭṭuḷavākunna saṅkaṭaṃ palatuṃ keṭuṃ  // Jyo_6.80 //
+
+nālpāmaraṅṅaḷoppiccu kaṣāyaṃ vecceṭuttuṭan  /
+dūrvvārasamatuṃ pinne kadaḷīkandatōyavuṃ  // Jyo_6.81 //
+
+ellāṃ tulyaṃ kalarnniṭṭu kuṟukkū tīmmal veccatå  /
+nālonnu kuṟukunnēramatil candanavuṃ punaḥ  // Jyo_6.82 //
+
+aśvagandhamatuṃ nannāyaracciṭṭu kalakkaṇaṃ  /
+mandāgniyāl kuṟukkīṭṭu śarkkarappākamākiyāl  // Jyo_6.83 //
+
+vāṅṅikkoṇṭoru pātrattilākkittoṭṭu puraṭṭuka  /
+viṣavuṃ vīkkavuṃ tīruṃ nōvuṃ dāhamatuṃ keṭuṃ  // Jyo_6.84 //
+
+vraṇappeṭṭuvatennākil atinṟe viṣamaṅṅaḷuṃ  /
+duṣṭumellamoḻiññīṭuṃ poḷḷāvatinuṃ guṇaṃ  // Jyo_6.85 //
+
+ēkanāyakavērmēlttōl tanne veḷḷaṃ kūṭātaraccuṭan  /
+kinñcil kṛṣṇamatuṃ kūṭṭippuraṭṭū vraṇanāśanaṃ  // Jyo_6.86 //
+
+atutanne vaṟuttīṭṭu poṭiyākkiyeṭuttuṭan  /
+puṇṇiliṭṭiṭṭamarttīṭiluṭanē pōṃ tadā vraṇaṃ  // Jyo_6.87 //
+
+kāññirattinmēluṇtākuṃ pulluṇṇiyuṭe patravuṃ  /
+tathāmōtiravaḷḷīṭe patravuṃ koṇṭuvannuṭan  // Jyo_6.88 //
+
+ōrōmuṟamiṭicciṭṭu piḻivū nīriliṭṭatå  /
+tīmmal vaccukuṟukkīṭṭu śarkkarappākamākiyāl  // Jyo_6.89 //
+
+muttāṟimalarincūrṇṇamiṭṭiḷakkēṇamañjasā  /
+toṭṭutoṭṭu puraṭṭīṭṭu maṇḍalippuṇṇinokkayuṃ  // Jyo_6.90 //
+
+duṣṭaraktaṅṅaḷuṃ nīruṃ kēṭumellāmakannu pōṃ  /
+durggandhamēṟṟamuṇṭākumennāddōṣaṅṅaḷāśupōṃ  // Jyo_6.91 //
+
+pinneppuṇ varaḷānuḷḷa prayōgaṃ ceytukoḷḷuka  /
+ennal kala coṟiññīṭṭu poṭṭukillorunāḷumē  // Jyo_6.92 //
+
+purāṇanāḷikērājyaṃ nānāḻiyatu kāccuvān  /
+dūrvvārasaṃ nāl maṭaṅṅu kalkkaṃ madhukamēva ca  // Jyo_6.93 //
+
+kāccippākattil vāṅṅīṭṭu dhāraceyvū vraṇē punaḥ  /
+varttiyuṃ kūṭeyiṭṭēccāl maṇḍalippuṇṇupōṃ drutaṃ  // Jyo_6.94 //
+
+brahmiyuṃ dūrvvayuṃ kūṭeppiḻiññuḷḷoru nīratil  /
+paḻatāyuḷḷa tēṅṅanai kāccū kalkkasya maññaḷuṃ  // Jyo_6.95 //
+
+nālpāmarattōl madhukaṃ vyōṣavuṃ malayōlbhavaṃ  /
+teccivērumatoppiccu kūṭikkācciyaraccatå  // Jyo_6.96 //
+
+tuḷiccukoḷvū puṇṇiṅkal dhārayuṃ viṣanāśanaṃ  /
+talkalkkaṃ parimarddiccu puraṭṭikkoḷkayuṃ guṇaṃ  // Jyo_6.97 //
+
+ñaṭṭāñaṭuṅṅayuṃ dūrvvā ceṟutāṃ kaṭalāṭiyuṃ  /
+murukkin patravuṃ paccamaññaḷuṃ koṇṭiṭiccuṭan  // Jyo_6.98 //
+
+piḻiññuṇṭāyatōyattil tēṅṅānaipākamācarēl  /
+kalkkattinnu vayampēkanāyakaṃ maramaññaḷuṃ  // Jyo_6.99 //
+
+ceṟṟivēr pāṭatanmūlamuṟitūkki kaṭutrayaṃ  /
+mañjiṣṭhā candanaṃ śyāmā samāṃśaṃ cērttukoṇṭiva  // Jyo_6.100 //
+
+venteṭuttu vraṇē dhāra ceyvū kṣvēḷakṣataṃ keṭuṃ  /
+ēkanāyaka vērmēlttōl kaṣāyaṃ vecceṭuttatil  // Jyo_6.101 //
+
+nālonnu neyyuṃ cērttiṭṭu śanairmmandāgninā pacēl  /
+kaṣāyanīrōṭoppiccu kaṟukakkuḷḷanīratuṃ  // Jyo_6.102 //
+
+jātipatrarasaṃ pāti pāti nāraṅṅanīratuṃ  /
+cērttukoḷḷuka kalkkattinnatra pūrvvoktamūlavuṃ  // Jyo_6.103 //
+
+kāccivāṅṅippuraṭṭikkoḷkāśu tīruṃ viṣavraṇaṃ  /
+tathā paṅåkti prasūnaṅṅaḷ piḻiññuṇṭāya nīriluṃ  // Jyo_6.104 //
+
+kāccikkoḷḷāṃ tatra kalkkaṃ kāññirattinṟe pallavaṃ  /
+nanmaññaḷapi vempāṭuṃ tāmpūlaṃ yaṣṭi śāribā  // Jyo_6.105 //
+
+aghōri nīlikāmūlaṃ vacā candanayugmavuṃ  /
+kūṭṭi ventu niṣiñcēttadå vraṇaśōdhanarōpaṇaṃ  // Jyo_6.106 //
+
+itinṟe kalkkavuṃ nannu pēṣicciṭṭupuraṭṭuvān  /
+pārantivairīmūlaṅṅaḷ nālpāmaratin toli  // Jyo_6.107 //
+
+palamōrōnnitellāmaṅṅāṟiṭaṅṅaḻi nīratil  /
+kaṣāyaṃ vecceṭuttiṭṭu nālonnāyālatil punaḥ  // Jyo_6.108 //
+
+nānāḻi nāḷikērājyaṃ paḻatāyatu cērttuṭan  /
+pākaṃ ceyvū tatra pinne ceṟunāraṅṅanīratuṃ  // Jyo_6.109 //
+
+piccakattilatan nīruṃ raṇṭumōrōriṭaṅṅaḻi  /
+dūrvvārasaṃ tu tailārddhaṃ kūṭṭikkoḷkayatil punaḥ  // Jyo_6.110 //
+
+sphōṭikā brahmi pullāññi parppaṭaṃ kiṃśukacchadaṃ  /
+sindhusnāyī paccamaññaḷ pēccurattinṟe patravuṃ  // Jyo_6.111 //
+
+tulyaṃ kaṇṭu piḻiññuḷḷa veḷḷavuṃ raṇṭiṭaṅṅaḻi  /
+cērttu koṇṭiha kalkkattinnaśvagandhaṃ nataṃ vacā  // Jyo_6.112 //
+
+pāṭhā haridrāyugmaṃ ca candanaṃ viṣavēgavuṃ  /
+triphalā rohiṇī śyāmā madhukaṃ tryūṣaṇaṃ jaṭā  // Jyo_6.113 //
+
+nālppāmarattōl pullāññikkāyuṃ veṟṟilayenniva  /
+ōrō veḷḷippaṇattūkkamellāṃ pēṣiccukoṇṭatil  // Jyo_6.114 //
+
+yōjiccu kāccikkoḷḷēṇamatha karppūravuṃ punaḥ  /
+turiśuṃ kṛṣṇamimmūnnuṃ tūkkaṃ mañcāṭiyōṭiṭa  // Jyo_6.115 //
+
+akṣabījaṃ kaḻañconnu marddayitvā tu yōjayēl  /
+kramāl sūkṣiccukoṇṭēvaṃ pacēnmandāgninā bhiṣakå  // Jyo_6.116 //
+
+pākattiṅkalaracciṭṭu hōmippū dīptavahniyil  /
+hōmaśēṣamatāṃ tailaṃ guruvandanapūrvvakaṃ  // Jyo_6.117 //
+
+toṭṭukoṇṭu japicciṭṭu dhāraceyvū viṣakṣatē  /
+duṣṭaraktajalasrāvadurggandhaviṣamādiyuṃ  // Jyo_6.118 //
+
+vraṇavuṃ tatsamīpattinnuṇṭākuṃ coṟiyenniva  /
+ellāṃ śamiccupōṃ śīghraṃ nādikūccunnatuṃ tathā  // Jyo_6.119 //
+
+maṇdalippuṇṇinnatyartthaṃ nannu maṟṟuḷḷa puṇṇinuṃ  /
+kalkkaṃ tanne vraṇaṃ tīrppān pōruṃ piṣtvā piraṭṭukil  // Jyo_6.120 //
+
+`epārantyādi'yatāmētattailaṃ mukhyaṃ vraṇāpahaṃ  /
+āturanṟe śarīrattil dōṣavaiṣamyamōrttuṭan  // Jyo_6.121 //
+
+yuktadivyauṣadhairēva vyantirāhiviṣam harēl  
+pūvvāṅkuṟuntala muyalccevi viṣṇudūrvvā  // Jyo_6.122? //
+
+kayyunnyuḻiñña tirutāḷi nilappanā ca
+mukkuṟṟiyuṃ ceṟuvuḷā daśapuṣpanāmamellāmaṟiññatinu
+vandana ceyka nityaṃ  // Jyo_js6.123? //
+
+
+iti jyōtsnikā cikitsāyāṃ maṇḍalicikitsādhikāraḥ
+[7]rājilaviṣattinnå
+rājilattin viṣattinnuṃ collūnnū ñān cikitsakaḷ  /
+veḷḷaṃkācciyatilpinne viśvaṃ pēṣiccupāyayēl  // Jyo_7.1 //
+
+tippalī saindhavaṃ raṇṭuṃ tulyamāyiṭṭaraccuṭan  /
+kavōṣṇamāya veḷḷattil kuṭippū viṣaśāntayē  // Jyo_7.2 //
+
+veḷutta śarapuṃkhattin vēraraccu kuṭikkalāṃ  /
+vayampuṃ muḷakuṃ kūṭṭippēṣicciṭṭuṃ kuṭikkalāṃ  // Jyo_7.3 //
+
+nālonnu śuṇṭhiyuṃ kūṭṭi nīlikāmūlavuṃ tathā  /
+tryūṣaṇaṃ tanne pēṣiccu kuṭikkāṃ kōṣṇavāriyil  // Jyo_7.4 //
+
+nārakattiluḷāyuḷḷa pulluṇṇiyuṭe patravuṃ  /
+cukkuṃ kūṭṭiyaracciṭṭu sēvippu rālviṣaṃ keṭuṃ  // Jyo_7.5 //
+
+intuppuṃ kaṇayuṃ tēnil tulyamāyiṭṭaraccuṭan  /
+gōmayattin jalaṃ tannil kuṭippū rālviṣāpahaṃ  // Jyo_7.6 //
+
+arēṇukamatuṃ nalla koṭṭavuṃ cukku tippali  /
+maricaṃ gṛhadhūmaṃ ca rōhiṇyativiṣābhyā  // Jyo_7.7 //
+
+tēnuṃ kōṣṇāṃbuvuṃ kūṭṭīttivayellāmaraccuṭan  /
+kuṭippū rājilōlbhūtaviṣamāśu śamiccupōṃ  // Jyo_7.8 //
+
+maramaññaḷatuṃ nalla gōrōcanamatuṃ punaḥ  /
+saindhavēna samaṃ piṣtvā kuṭippū garaśāntayē  // Jyo_7.9 //
+
+nantyārvvaṭṭamatinmūlaṃ rājilānāṃ viṣē pibēl  /
+araccu gōpikākandaṃ svātmatōyē pralēpayēl  // Jyo_7.10 //
+
+takaraṃ laśunaṃ vyōṣaṃ samāṃśamivayokkeyuṃ  /
+tuḷasīpatratōyattilaracciṭṭu vilēpayēl  // Jyo_7.11 //
+
+kāyaṃ kaṇayumintuppuṃ nannāṟi karaḷēkavuṃ  /
+prasravattilaracciṭṭu toṭṭutēppū viṣakṣayaṃ  // Jyo_7.12 //
+
+periṅkurumpayuṃ vēppintoliyuṃ viṣavēgavuṃ  /
+vyōṣamintuppumoppiccu tēppū śēṣaṃ kuṭicciṭū  // Jyo_7.13 //
+
+mūrddhāviṅkalumiṭṭīṭāṃ nasyattinnuṃ guṇaṃ tathā  /
+rājilattinkulattinṟe kākōḷamakhilaṃ keṭuṃ  // Jyo_7.14 //
+
+kaphamēṟṟamatuṇṭākilamṛtuṃ muḷakuṃ samaṃ  /
+araccu kōṣṇatōyattil kuṭikkil kaphamāśupōṃ  // Jyo_7.15 //
+
+inñcinīrilaracciṭṭu maricaṃ tēnumāyuṭan  /
+kuṭiccāluṭanē tīruṃ kaphavaiṣamyamokkeyuṃ  // Jyo_7.16 //
+
+vyōṣavuṃ māṣavuṃ kaṇṇileḻutū tuḷasīrasē  /
+viṣasuptanuṇarnnīṭuṃ tathā bakuḷabījavuṃ  // Jyo_7.17 //
+
+eriññikkurutanbījaṃ maricaṃ kūṭṭiyuṃ tathā  /
+nasyāñjanaṅṅaḷ mumpēvayellāṃ yuktyā prayōjayēl  // Jyo_7.18 //
+
+kāḷōdarāhi daṃśiccal gōpīcandanamenniva  /
+tulyāṃśamāyippēṣiccu liptvā viṣaṃ harēl  // Jyo_7.19 //
+
+
+iti jyōtsnikā cikitsāyāṃ rājilacikitsādhikāraḥ
+
+
+
+[8]cikitsākramādhikāraṃ
+karaḷēkaṃ ca kayyuṇṇi vacā kāyaṅṅaḷenniva  /
+prasravē bhṛṃgatōyē vā piṣṭvā mūrddhni vvilēpayēl  // Jyo_8.1 //
+
+pāalil paciccu nellikka mūrddhāviṅkaliṭāṃ tathā  /
+nannāri candanaṃ kūṭeyaracciṭṭumiṭāṃ punaḥ  // Jyo_8.2 //
+
+karppūraṃ nīlikāmūlamuttamāṃgē talōṭuka  /
+tirutāḷiyatuṃ raṇṭumaññaḷuṃ kūṭṭiyuṃ tathā  // Jyo_8.3 //
+
+nenmēnivākayuṃ pāṭakkiḻaṅṅuṃ nānnu mūrddhani  /
+intuppākāśatārkṣyaṃ ca kūṭṭiyuṃ talamēliṭāṃ  // Jyo_8.4 //
+
+brahmi rōhiṇi muttaṅṅa piṣṭvā śirasi lēpayēl  /
+gōpikā gandhsāraṃ ca veṇṇayuṃ kūṭṭiyuṃ tathā  // Jyo_8.5 //
+
+uṟitūkkiyatuṃ nalla māñci koṭṭamamukkuraṃ  /
+araccu talayil tēppū tathā mañcaṭṭi dūrvvayuṃ  // Jyo_8.6 //
+
+kurumpa takaraṃ kāyaṃ yōjippiccumiṭāṃ tathā  /
+niṃbadūrvvā karañjattōlivayuṃ nānnu mūrddhani  // Jyo_8.7 //
+
+candanōśīrasindhūttha viṣavēgaṃ kaṭutrayaṃ  /
+kayyuṇṇinīrilppēsiccu mūrddhāviṅkaliṭāṃ tathā  // Jyo_8.8 //
+
+sirāvēdhaṅṅaḷ ceytiṭṭuṃ raktaṃ nīkkuka daṣṭane  /
+daṃśiccatinṟe mēlbhāgaṃ kīṟīṭṭuṃ cōranīkkaṇaṃ  // Jyo_8.9 //
+
+kanmaṣaṅṅaḷirikkunna sandhiyiṅkannumaṅṅine  /
+skandhē pṛṣṭhēpyūrudēśē jānunōrmmōkṣayēl kramāl  // Jyo_8.10 //
+
+uḷḷaṃkai raṇṭiluṃ tadval pādadvandvatalattiluṃ  /
+neṟṟimēlninnumavvaṇṇaṃ pañcasthānaṅṅaḷiṅṅane  // Jyo_8.11 //
+
+pradhānamāyiccollunnu raktaṃ nīkkuvatinniha  /
+prāṇasandēhamennākil mūrddhāvil kīṟi nōkkiṭāṃ  // Jyo_8.12 //
+
+yuktyā maṟṟuḷḷa dēśattu kīṟēṇṭivarumēkadā  /
+tattal kālōcitaṃ ñjātvakuryāl paṭumatirbhiṣak  // Jyo_8.13 //
+
+ōrōdēśattukīṟēṇṭuṃ śastrattinṟe kramaṅṅaḷuṃ  /
+marmmavuṃ maṟṟumellāmē nirṇṇayiccācarēdidaṃ  // Jyo_8.14 //
+
+mattanuṃ kṣīṇanuṃ pinnekkātarannuṃ viṣaṇṇanuṃ  /
+kṛśanuṃ sthūladēhikkuṃ rōgamuḷḷavanuṃ tathā  // Jyo_8.15 //
+
+paidāhamēṟṟamuḷḷōrkkuṃ vṛddhanuṃ bālakannapi  /
+garbhamuḷḷa janattinnuṃ kīṟīṭarutu nādiye  // Jyo_8.16 //
+
+icconnavarkku raktatte koṃpuvacciṭṭu nīkkaṇaṃ  /
+aṭṭayiṭṭuṃ kaḷaññīṭāṃ sirāvēdhaṃ vivarjjayēl  // Jyo_8.17 //
+
+ēṟṟaṃ naṭannuvannōrkkuṃ saṃgamakṣīṇanuṃ punaḥ  /
+raktaṃ śṛṃgādikaḷkkoṇṭuṃ nīkkollennupadēśamāṃ  // Jyo_8.18 //
+
+daṣṭanṟe dēhattiṅkannu raktaṃ nāḻi kaḷaññīṭāṃ  /
+atilēṟṟaṃ kaḷaññīṭil nānādhātukṣayaṃ varuṃ  // Jyo_8.19 //
+
+duṣṭaraktaṅṅaḷellāmē nīkēṇaṃ tal kaṟuttatāṃ  /
+kausuṃbhapuṣpavarṇṇattil raktaṃ kaṇṭāl samāpayēl  // Jyo_8.20 //
+
+kālākālaṅṅaḷuṃ pinnebalābalaviśēṣavuṃ  /
+nirūpiccatuceyyēṇaṃ buddhimānāya mānuṣan  // Jyo_8.21 //
+
+viṣāturanṟe bhuktikku navarattaṇḍulaṃ śubhaṃ  /
+raṇṭumāsattiluṇṭākuṃ nellellāṃ guṇamēṟṟavuṃ  // Jyo_8.22 //
+
+varakuṃ tinayuṃ nannu kōdravaṃ muḷanellumāṃ  /
+cennellariyumavvaṇṇaṃ maddhyamaṃ ceṟupuñcapōl  // Jyo_8.23 //
+
+cūrrṇṇiccu tippalīcukkumannattil cērttukoṇṭatå  /
+neyyuṃ ceruparippōtuṃ kūṭe bhakṣikka daṣṭakan  // Jyo_8.24 //
+
+kēvalaṃ cōṟutānuṇṭāl matiyenniha kēcana  /
+ūṇinnoṭukkamintuppuṃ vyōṣavuṃ kāṭiyil pibēl  // Jyo_8.25 //
+
+kaññiyennālatil cukku ceṟucīra punarnnavaṃ  /
+iṭṭukoṇṭiha vecciṭṭu ceṟucūṭōṭe pāyayēl  // Jyo_8.26 //
+
+amarīmūlavuṃ pinne jerijjil vājigandhavuṃ  /
+kūṭṭīṭṭu kaññi veccīṭāṃ takaraṃ kūṭṭiyuṃ tathā  // Jyo_8.27 //
+
+kaṟikku śākavarggattil ceṟucīra guṇaṃ tulōṃ  /
+tathā vēlipparuttīṭe patravuṃ puṣpavuṃ guṇaṃ  // Jyo_8.28 //
+
+mīnaṅṅāṇiyatuṃ koḷḷāṃ muttaḷuṃ kuppamaññaḷuṃ  /
+jīvantīpatrapuṣpaṃ ca karintāḷiyatuṃ tathā  // Jyo_8.29 //
+
+kūśmāṇḍaṃ veḷḷarikkāyuṃ kayppakkā ca paṭōlavuṃ  /
+koḷḷāṃ cuṇṭaṅṅayuṃ tadval kaṇṭarikkayatuṃ punaḥ  // Jyo_8.30 //
+
+kaṟutta kadaḷikkāyuṃ koḷḷāṃ daṣṭannu kūṭṭuvān  /
+māṃsattil kīritanṟēyuṃ mayilinṟētumuttamaṃ  // Jyo_8.31 //
+
+kuyilmāṃsamatuṃ koḷḷāṃ paralmīnuṃ tathaiva ca  /
+maddhyamaṃ puḷḷimānāma śalyamāṃsavumaṅṅine  // Jyo_8.32 //
+
+matsyamāṃsaṃ viṣaṃ tanne staṃbhippikkumatēṟṟavuṃ  /
+varddhippikkayatuṃ ceyyuṃ muḷḷukūṭāte kūṭṭukil  // Jyo_8.33 //
+
+iñciyuṃ ceṟunāraṅṅā paḻētāṃ kaṇṇimāṅṅayuṃ  /
+kūṭe nanniha daṣṭannu bhuktikkennāryyasammataṃ  // Jyo_8.34 //
+
+uḷḷi kāyavumintuppuṃ maricaṃ cukku maññaḷuṃ  /
+cērttukoḷḷū kaṟikkellāṃ viṣaśāntikaraṃ paraṃ  // Jyo_8.35 //
+
+kṣīraneyyādiyāyuḷḷa pañcagavyaṃ viṣāpahaṃ  /
+kālōcitaṅṅaḷōrkkāññālatutannēnnyathā bhavēl  // Jyo_8.36 //
+
+śāstrēṣu matabhēdaṅṅaḷ palatuṇṭu cikitsayil  /
+pramāṇamatinācāryyaniyōgaṃ tanne kēvalaṃ  // Jyo_8.37 //
+
+tailaṃ tāṃbūlamappaṃ guḷamoṭu puḷiyuṃ
+sarṣapaṃ tēṅṅga mōruṃ
+kṣāradravyaṃ ca māṃsaṃ dadhiyoṭu surayuṃ
+śākamatyantabhukti
+atyuṣṇaṃ cēkṣu daṇḍaṃ panasavumaviluṃ
+tōra māṣaṃ kulasthaṃ
+nityaṃ varjjyaṃ viṣārttairyuvatisukhamathō
+ddhvānadhūmātapāśca  // Jyo_8.38 //
+
+tuhinapavanasēvā dhūḷiyēlkkennatuṃ
+maṟṟarutihapadasañcāraṅṅaḷuṃ daṣṭakānāṃ  /
+tadanu bahulakōpaṃ cittaśōkaṃ ca hāsaṃ
+punariha pakalnidrāṃ cāpi varjjikka daṣṭan  // Jyo_8.39 //
+
+atyuccaṃ paṟa kennatuṃ pariharēdvyāpādacintāṃ
+tathā niṣṭhūrrōktikaḷ śāpavākyamavayuṃ
+varjjikka kēḷkkunnatuṃ pinnē mānasadēhapīdakaḷ varuttīṭunna
+karmmaṅaḷaṅṅellāṃ varjjyamitennu tanne nitarāṃ
+prōktaṃ bhiṣakbhiḥ purā  // Jyo_8.40 //
+
+prābalyattil kuṭicciṭāṃ moḻakkāḻakkatāṃ jalaṃ  /
+bālanmārkkatilarddhaṃ pōl kuṭikkunnouṣadhaṃ punaḥ  // Jyo_8.41 //
+
+tānnikkatan pramāṇattil kalakkīṭṭu kuṭikkaṇaṃ  /
+lēhyaṅṅaḷellāṃ mummūnnu kaḻañcītiha bhakṣayēl  // Jyo_8.42 //
+
+puraṭṭunnauṣadhaṃ kēmaṃ nellinōṭottirikkaṇaṃ  /
+añjanaṅṅaḷ yavattōḷaṃ nīḷattileḻutū dṛśōḥ  // Jyo_8.43 //
+
+nasyaṅṅaḷ nāsikayāṃ tu pantiraṇṭītu tuḷḷikaḷ  /
+dhārayuṃ ceyka yāmārddhaṃ tadarddhamiti kēcana  // Jyo_8.44 //
+
+ēraṇḍāṅkōlapatraṅṅaḷaṭakkāmaṇiyan punaḥ  /
+tintriṇī bhūmitālattin patravuṃ niṃbapatravuṃ  // Jyo_8.45 //
+
+karañjalāṃgalīvāka bakuḷattinṟe patravuṃ  /
+ivayōrōnnummīraṇṭuṃ viṣaśaktikku takkatå  // Jyo_8.46 //
+
+kāṭi tannil pataṟṟīṭṭu nālonnu kuṟukīṭināl  /
+atukoṇṭu viyarppippū yathānyāyaṃ viṣārttane  // Jyo_8.47 //
+
+munivṛkṣakaṣāyēṇa svēdippikkāmatenniye  /
+tena tanne pacicciṭṭuṃ viyarppikkāṃ viṣārttane  // Jyo_8.48 //
+
+viyarppu māṟiyāl tailaṃ tēppū kācciyatañjasā  /
+nannaṟi vākakkuruvuṃ nocci pūvvāṅkuṟuntala  // Jyo_8.49 //
+
+ivayiṭṭiṭṭu jalaṃ vecciṭṭeṭṭonnu kuṟukīṭināl  /
+atukoṇṭu kuḷippikka kōṣṇamāmpōḷ viṣārttane  // Jyo_8.50 //
+
+maññaḷuṃ tānitan tōluṃ viṣavēgamatuṃ punaḥ  /
+vētu veccuṃ kuḷippikkāṃ koḷḷāṃ svēdōktamāyatuṃ  // Jyo_8.51 //
+
+vayampuṃ laśunaṃ kiñcil saindhvattinṟe cūrṇṇavuṃ  /
+pāṟṟikkoḷḷu kuṭiccīṭānuḷḷa mandōṣṇavāriyil  // Jyo_8.52 //
+
+viyarppikkayatuṃ tadval kuḷikkennuḷḷatuṃ punaḥ  /
+pakalē ceytu koḷḷēṇaṃ rātryil parivarjjayēl  // Jyo_8.53 //
+
+pālil paciccu nellikkā piṣtvā mūrddhani lēpayēl  /
+kuḷiccāluṭane cukkuṃ vākamūlamatuṃ pibēl  // Jyo_8.54 //
+
+amarīniṃbapatraṅṅaḷ vitaṟikkoṇṭatil punaḥ  /
+kiṭannīṭuka nanēṟṟaṃ viṣaśāntikku daṣṭanå  // Jyo_8.55 //
+
+viṣaṃ nilkkunnatin mītēyuḷḷa dhātu cikitsaye  /
+ceytukoḷḷēṇamallāykil viṣaṃ mēlppoṭṭupōṃ drutaṃ  // Jyo_8.56 //
+
+sēviccōrauṣadhattinnuṃ vīryyaṃ pōrātepōkiluṃ  /
+dhātuyōgyamatallāte cikitsiccīṭukiluṃ tathā  // Jyo_8.57 //
+
+viṣaṃ bhinniccu bhinniccu sandhitōṟumirunnupōṃ  /
+appōḷ sandhukkaḷellāmē taḷaruṃ kampavuṃ varuṃ  // Jyo_8.58 //
+
+dāhavuṃ maṟṟu dēhattil nānāpīdakaḷuṃ varuṃ  /
+mōhaṃ tānuḷavāyennuṃ varuṃ kālaviḷaṃbanē  // Jyo_8.59 //
+
+ñaṭṭāñaṭuṅṅatanmūlaṃ kaṣāyaṃ veccupālatil  /
+kuṭiccāluṭanē tīruṃ staṃbhicca viṣamokkayuṃ  // Jyo_8.60 //
+
+rasmōṭukalarnnīṭṭu samūlaṃ nilanārakaṃ  /
+pēṣicceṭuttu tēkkēṇaṃ daṣṭamāṃ dēhamokkavē  // Jyo_8.61 //
+
+staṃbhicca viṣamellāṃ pōṃ sandhisādādiyuṃ keṭuṃ  /
+tōyadhārayatuṃ nannu viṣaśāntikku kēvalaṃ  // Jyo_8.62 //
+
+viṣavuṃ dāhavuṃ mōhaṃ bhrāntumālasyamuṣṇavuṃ  /
+maṟṟumellāṃ samippānaṅṅēṟṟaṃ nannu jalaṃ tulōṃ  // Jyo_8.63 //
+
+muṟiyāte viṟakkōḷaṃ jaladhāra kaḻiccuṭan  /
+jāḷyaśāntikku tōyattil maricappoṭi pāyayēl  // Jyo_8.64 //
+auṣadhaṅṅaḷatellāmē tattatsamayamōrttuṭan  /
+ceytukoḷḷukayuṃ vēṇaṃ paścāl garaḷaśāntayē  // Jyo_8.65 //
+
+
+iti jyōtsnikācikitsāyāṃ cikitsākramādhikāraḥ
+
+
+[9]lēhyatailādikramaṃ
+nīlīpatraṃ taṇḍulīyaṃ raṇṭuṃ kuṭṭippiḻiññuṭan  /
+pañcassarayatuṃ cērtu lēhyamāypakamācarēl  // Jyo_9.1 //
+
+vyōṣaṃ takaramintuppuṃ sūkṣmamāyippoṭiccatil  /
+pākē yōjiccu koṇṭāśu sēvippū viṣanāśanaṃ  // Jyo_9.2 //
+
+daśapuṣpaṃ piḻiññuḷḷatōyaṃ tannilumaṅṅinē  /
+sēvippū lēhyamuṇṭākki viṣamāśu śamiccupōṃ  // Jyo_9.3 //
+
+nīlikāmulavuṃ pāṭakkiḻaṅṅuṃ viṣavēgavuṃ  /
+brahmiyuṃ tulyamellāmē kaṣāyaṃ veccu koṇṭatå  // Jyo_9.4 //
+
+eṭṭonnāyāl piḻiññiṭṭu sitayuṃ cērttukoṇṭiha  /
+lēhyaṃ samācarēl pākē madhuvuṃ cērttu koḷḷaṇaṃ  // Jyo_9.5 //
+
+vayampuṃ candanaṃ vyōṣaṃ aśvagandhaṃ trijātakaṃ  /
+mustāsaindhvakāyaṅṅaḷ cūrṇṇavuṃ yōjayēl tadā  // Jyo_9.6 //
+
+sarppādikaḷ viṣattinnuṃ mūṣikādiviṣattinuṃ  /
+nannēṟṟaṃ kukṣirōgādiyellāṃ pōvatinuṃ guṇaṃ  // Jyo_9.7 //
+
+viṣaśānti varuttunnōrauṣadhaṅṅḷ paciccuṭan  /
+yuktyā nirmmiccu lēhyaṅṅaḷellāṃ nannu viṣāmayē  // Jyo_9.8 //
+
+ippaṟañña marunnellaṃ mukkuṭikkuṃ guṇaṃ tathā  /
+āṭṭin mōr tanne koḷḷēṇaṃ māhiṣaṃ gavyavuṃ tyajēl  // Jyo_9.9 //
+
+tailaṃ dūrvvāmṛtarasē kāccittēppū viṣāpahaṃ  /
+madhukaṃ candanaṃ rātridvadvavuṃ kalkkamāyiha  // Jyo_9.10 //
+
+tathā kayyuṇṇi nīrttannil kāccuṃ tailavumuttamaṃ  /
+atinnukalkkaṃ madhukaṃ vājigandhaṃ vacāpi ca  // Jyo_9.11 //
+
+śatakratulatānīlīpatraṅṅaḷkkuḷḷa nīratil  /
+tailaṃ pacikka kalkkattinnuśīraṃ dēvadāruvuṃ  // Jyo_9.12 //
+
+candanaṃ yaṣṭikā śyāmā takaraṃ maññaḷuṃ tathā  /
+mustā phalatrayaṃ koṭṭaṃ samāṃśaṃ cērttukoṇṭiha  // Jyo_9.13 //
+
+mandāgniyil pacicciṭṭu pākaṃ sūkṣiccariccuṭan  /
+tēccukoṇṭu kuḷippikka niśśēṣaviṣanāśanaṃ  // Jyo_9.14 //
+
+dūrvvānālpāmarattoyyē pacēttailaṃ viṣāpahaṃ  /
+nannāṟicandanaṃ nīlīmēghanādaṃ ca kalkkamāṃ  // Jyo_9.15 //
+
+amṛtuṃ daśapuṣpaṅgaḷ piḻiññuḷḷa rasattiluṃ  /
+kāccittēccīṭalāṃ tailaṃ kalkkattinnu kaṭutrayaṃ  // Jyo_9.16 //
+
+viṣavēgamatuṃ pāṭakkiḻaṅṅuṃ raṇṭumaññaḷuṃ  /
+candanaṃ śāribāmūlaṃ mustāa rasnā ca māñciyuṃ  // Jyo_9.17 //
+
+tulyāṃśamṃ ivayellāmē kūṭṭikkācciya tailavuṃ  /
+tēccāl viṣaṅṅaḷellāmē tīruṃ arōgyavuṃ varuṃ  // Jyo_9.18 //
+
+amṛtinvaḷḷi pāccoṟṟi vilvaṃ nellikkayenniva  /
+palaṃ mummūnnitōrōnnu veḷḷaṃ pantraṇṭu koṇṭatil  // Jyo_9.19 //
+
+kaṣāyaṃ veccu koṇṭāśu nālonnāyālatil punaḥ  /
+nānāḻiyeṇṇayuṃ cērttiṭṭatra kayyuṇṇi nīratuṃ  // Jyo_9.20 //
+
+dūrvvarasamatuṃ pāluṃ raṇṭumōrōriṭaṅṅaḻi  /
+cērttukoṇṭatu kāccēṇaṃ sūkṣiccu mṛduvahniyil  // Jyo_9.21 //
+
+candanōśīratakarasuradārvvapi mājñiyuṃ  /
+koṭṭaṃ mañcaṭṭi karppūramaśvagandhaṃ jalaṃ punaḥ  // Jyo_9.22 //
+
+ēlaṃ patimukaṃ tadvanmadhukaṃ carmmapatravuṃ  /
+kalkkamāyivayellāmē cērttu kācciyaraccatå  // Jyo_9.23 //
+
+tēccukoḷka bhujaṃgānāṃ trividhānāṃ viṣaṅṅaḷuṃ  /
+kīṭākhulūtagōdhādi jātamāyavayuṃ punaḥ  // Jyo_9.24 //
+
+sthāvarōtthamatāyuḷḷa viṣaṅṅaḷ vividhaṅṅaḷuṃ  /
+tailēnānēna tīrrnniṭumāśu maṟṟuḷḷa rōgavuṃ  // Jyo_9.25 //
+
+candanṃ madhukaṃ raṇṭuṃ kaṣāyaṃ veccatil punaḥ  /
+tailaṃ kāccuka kalkkattinnavayuṃ naṟunīṇṭiyuṃ  // Jyo_9.26 //
+
+nānāviṣāmayē patthyamētattailaṃ purātanē  /
+nṛṇāṃ tu paittika kṣvēḷē raktadūṣyē viśēṣataḥ  // Jyo_9.27 //
+
+iṭiccu nīlikāpatraṃ piḻivū ceṟucīrayuṃ  /
+nāḻineykkatu nānāḻinīruṃ tanmūlakalkkavuṃ  // Jyo_9.28 //
+
+venteṭuttatu sēviccāl garamellāmoḻiññu pōṃ  /
+annattilkkūṭṭiyuṇṭāluṃ veṇṭatilla viṣaṃ keṭuṃ  // Jyo_9.29 //
+
+avalppori kṣvēḷavēga kvāthē tryūṣaṇakalkkitē  /
+vipacēl gōghṛtaṃ nānā viṣaśāntikaraṃ paraṃ  // Jyo_9.30 //
+
+nīlīmūlaṃ palaṃ raṇṭu vēppintōl palamonniha  /
+karañjapatravuṃ tadval catuṣprasthajalē pacēl  // Jyo_9.31 //
+
+nālonnuśēṣamuḷḷappoḷ nāḻi neyyuṃ pakarnnuṭan  /
+kalkkattinnamarī mūlaṃ vacā vyōṣaṃ niśādvayaṃ  // Jyo_9.32 //
+
+yaṣṭīkaliṃgaṃ sindhūtthamaśvagandhaṃ nataṃ punaḥ  /
+candanaṃ mustayuṃ pāṭakkiḻaṅṅuṃ viṣavēgavuṃ  // Jyo_9.33 //
+
+kūṭṭi ventitusēvikka viṣamē+api viṣāmayē  /
+talkṣaṇāl kṣvēḷamakhilaṃ sarppamūṣādi saṃbhvaṃ  // Jyo_9.34 //
+
+śāntiṃ prayāti martyānāmasyavīryyaprabhāvataḥ  /
+amṛtōpamamatyartthaṃ nāmnā nīlīghṛtaṃ tvidaṃ  // Jyo_9.35 //
+
+brahmikuttippiḻiññu tōyaṃ neyyil caturgguṇaṃ  /
+laśunaṃ jīrakaṃ raṇṭumintuppuṃ viṣavēgavuṃ  // Jyo_9.36 //
+
+pāṭhā haridrāyugmaṃ ca vacā vyōṣaṃ yavāṣakaṃ  /
+rōhiṇyativiṣā patthyā rāmaṭhaṃ malayōlbhavaṃ  // Jyo_9.37 //
+
+kalkkattinniva kūṭṭīṭṭu ventusēvikka neyyitå  /
+samastaviṣarōgaḷ śūlayuṃ bhaktarōdhavuṃ  // Jyo_9.38 //
+
+bālanmārkkirakoṇṭuṇṭāṃ daṇḍavuṃ pāṇḍu kāmila  /
+ityādiyellāṃ tīrnnīṭuṃ varddhikkuṃ buddhividyayuṃ  // Jyo_9.39 //
+
+pāṭhā dārvvī paṭōlaṃ ca parppaṭaṃ brahmi niṃbavuṃ  /
+yavāṣaṃ rōhiṇī tulyamivayellāṃ paciccuṭan  // Jyo_9.40 //
+
+nālonnāyāl piḻiññiṭṭu ghṛtavuṃ cērttukoṇṭatil  /
+pākē candanavuṃ mustā puttiriccuṇṭamūlavuṃ  // Jyo_9.41 //
+
+kaṇā kaliṃgaṃ trāyantī kalkkīkṛtya samantataḥ  /
+sūksiccariccu sēvippū nānā viṣavināśanaṃ  // Jyo_9.42 //
+
+viśēṣānmaṇḍalikṣvēḷa kṣatavuṃ duṣṭaraktavuṃ  /
+śōphadurggandhatōyaṅṅaḷ nissravikkunnatuṃ keṭuṃ  // Jyo_9.43 //
+
+maṟṟuṃ kākōḷajālattāl saṃbhvikkunna pīdakaḷ  /
+ellāṃ śamiccupōṃ śīghraṃ dāhāpasmāravuṃ tathā  // Jyo_9.44 //
+
+coṟi kuṣṭhaṅṅaḷ pāṇḍvādi kāmilā bhramamenniva  /
+maṟṟu cittaprakōpattāluṇṭākunnavayokkayuṃ  // Jyo_9.45 //
+
+tīrnnupōṃ kāntiyuṃ puṣṭi dēhārōgyādiyuṃ varuṃ  /
+śuddhamatyantamētattu dēvairapi supūjitaṃ  // Jyo_9.46 //
+
+amarīmūlatōyaṃ ca talpatrarasavuṃ samaṃ  /
+caturbhāgaṃ ghṛtaṃ cērttu pacēttanmūlakalkkitaṃ  /
+sēvippū viśvakākōḷē paittikē tu viśēṣataḥ  // Jyo_9.47? //
+
+iti jyōtsnikā cikitsāyāṃ lēhyatailādikramādhikāraḥ
+
+
+sudhākalādi nirūpaṇaṃ
+
+[10]agnilakṣaṇaṃ
+eṇṇa nai ventukāccīṭu hōmiccāluḷḷa lakṣaṇaṃ  /
+pāvakan nīla varṇṇattil jvaliccāl maraṇaṃ phalaṃ  // Jyo_10.1 //
+
+raktavarṇṇamatāyīṭil phalaṃ klēśamatāyvaruṃ  /
+nirartthaṃ phalamāṃ pinne veḷuttākilatinniha  // Jyo_10.2 //
+
+piṃgaliccu jvaliccīṭil varumicchāphalaṃ drutaṃ  /
+āśrayaṅṅaḷatuṃ kūṭe cintippū matimānbhiṣak  // Jyo_10.3 //
+
+agnijvāla kiḻakkōṭṭu pāññīṭil kāṃkṣitaṃ varuṃ  /
+agnikōṇattatennākil agnibhītiyatāṃ phalaṃ  // Jyo_10.4 //
+
+dakṣiṇē prāṇanāśaṃ ca kanyānāṃ cittavibhramaṃ  /
+śāntitanne phalaṃ cellāṃ pāvakē paścimāśrayē  // Jyo_10.5 //
+
+vāyukōṇattu cāññīṭil guṇamilliha rōgiṇāṃ  /
+vahnijvāla vaṭakkākil mṛtiyilla śubhṃ phalaṃ  // Jyo_10.6 //
+
+īśānakōṇattākumpōḷ phalaṃ maṃgalamāyvaruṃ  /
+kattitteḷiññu mēlppōṭṭu tannē jvālakaḷeṅkilō  // Jyo_10.7 //
+
+rōgaśāntiyumāyussuṃ maṟṟuḷḷicchakaḷuṃ tathā  /
+sadyōlabhikkuṃ marttyānāṃ pāvakasya prasādataḥ  // Jyo_10.8 //
+
+vallāte śabdavuṃ pinne poṭṭaluṃ poripāṟaluṃ  /
+kūṭātekūṭāte valamē kūṭe cuḻannālēṟṟavuṃ guṇaṃ  // Jyo_10.9 //
+
+pūrvvapakṣapratipadaṃ mutalāyamṛtin kalā  /
+valattē bhāgamē kūtekkayaṟuṃ puruṣanniha  // Jyo_10.10 //
+
+maṟubhāgamiṟaṅṅīṭuṃ kṛṣṇapakṣē kramāl punaḥ  /
+nārikkiṭattubhāgattu kāṇēṇaṃ sthānamiṅṅine  // Jyo_10.11 //
+
+sudhākala karēṟunnōraṃgavuṃ paṟayāṃ kramāl  /
+aṃguṣṭhaṃ pādavuṃ sandhi jānu guhyaṃ ca nābhiyuṃ  // Jyo_10.12 //
+
+hṛdayaṃ kucavuṃ kaṇṭhaṃ nāsikā nētrakarṇṇavuṃ  /
+bhrūmaddhyaṃ neṟṟi mūrddhāvuṃ sthānaṅṅaḷ patinañciva  // Jyo_10.13 //
+
+sudhāyāssaptamē sthānē viṣavuṃ nilkkumeppoḻuṃ  /
+sudhākala vimarddiccāl tīrnnupōṃ viṣamokkayuṃ  // Jyo_10.14 //
+
+tathā viṣāṃgaṃ marddiccālēṟe varddhiccu pōṃ viṣam  /
+atukoṇṭatu ceyyollā ceytīṭil pāpamāyvaruṃ  // Jyo_10.15 //
+
+viṣaṃ nilkkunnoraṃgattil kaṭi peṭṭuvateṅkilō  /
+śīghraṃ mṛtyu varuṃ rakṣa palatuṃ ceykiluṃ tadā  // Jyo_10.16 //
+
+sudhākalāyāṃ daṃśiccu guḷikan tanneyeṅkiluṃ  /
+viṣapīḍakaḷuṇṭākayilla pīyūṣavīryyataḥ  // Jyo_10.17 //
+
+kaṇṭhattil kṣvēḷamākumpōḷ bhakṣikkunavayokkeyuṃ  /
+kṣvēḷākāraṃ smariccīṭil kṣvēḷamāypōṃ bhujiccatå  // Jyo_10.18 //
+
+sudhākalavaruṃ kālamamṛtāṃ viṣameṅkiluṃ  /
+atukoṇṭamṛtāyiṭṭu nirūpiccu bhujikkaṇaṃ  // Jyo_10.19 //
+
+ēvaṃ smariccu bhakṣiccāl buddhi puṣṭi balaṅṅaḷuṃ  /
+kāntiyārōgyamāyussuṃ varddhiccīṭuṃ sukhādiyuṃ  // Jyo_10.20 //
+
+dukhāpamṛtyu palita jvarātaṅkādiyuṃ keṭuṃ  /
+amṛtin kala guhyttiṅkal varumpōḷ vaśyamāṃ tadā  // Jyo_10.21 //
+
+sudhākala vimarddiccāl cuṃbiccīṭukiluṃ tadā  /
+gāḍhamāy nōkkiyennāluṃ vaśyamāy bhavati kramāl  // Jyo_10.22 //
+
+sudhākalēṭe maddhyattil cintippū prāṇavāyuve  /
+nityavuṃ dṛḍhmāyennālāyussuṇṭāyvaruṃ nṛṇāṃ  // Jyo_10.23 //
+
+kāntiyuṃ puṣṭiyuṃ śrīyuṃ vayastaṃbhamatuṃ varuṃ  /
+sampattējōdēharakṣākaramāyuṃ varuṃ paraṃ  // Jyo_10.24 //
+
+
+auṣadhagrhaṇavidhi
+ādau prajakaḷēppaṇṭu sṛṣṭicciṭṭabjasaṃbhavan  /
+rakṣiccīṭuvatinnāyi kalppiccānauṣadhaṅṅaḷuṃ  // Jyo_10.25 //
+
+auṣadhaṅṅaḷe rakṣippānoru dēvata tanneyuṃ  /
+kalppiccānōṣadhīpārśvē sāpi nāmnāpi suprabhā  // Jyo_10.26 //
+
+vidhi kūṭātekaṇṭārānauṣadhaṅṅaḷeṭukkilō  /
+`etēṣāṃ vīryyaṃ tvayā grāhyaṃ' ityācaṣṭa ca tēna sā  // Jyo_10.27 //
+
+atukoṇṭavaḷē pūrvvaṃ praṇamya vidhival sudhīḥ  /
+auṣadhattinṟe pārśvattilarcciccu kusumādikaḷ  // Jyo_10.28 //
+
+pattuvaṭṭaṃ japikkēṇaṃ idaṃ prāñjali pūrvvakaṃ  /
+pradakṣiṇaṃ parikramya namaskuryyāttadauṣadhaṃ  // Jyo_10.29 //
+
+(mantraṃ)
+
+[auṃ namō ōṣadhībhyaḥ ūrjjāvantō bhaviṣyatha tadvīryaiḥ kṛlsnya
+kuruddvaṃ vaca vaca hana hana daha daha māraya māraya tubhyaṃ namaḥ]
+
+itukoṇṭiprakārattilauṣadhaṅṅaḷeṭukkuka  /
+vīryyaṃ pūṛṇṇamatālauṣadhaṅṅaḷkkatokkeyuṃ  // Jyo_10.30 //
+
+oruyōgattilīvaṇṇamuddhariccuḷḷorauṣadhaṃ  /
+onnu kūṭṭukayennāl maṟṟellāṟṟinuṃ balaṃ varuṃ  // Jyo_10.31 //
+
+gurunāthane vandicciṭṭauṣadhaṃ toṭṭukoṇṭuṭan  /
+japippū `etārkṣyamantra'tte `esudhāhṛdaya'vuṃ punaḥ  // Jyo_10.32 //
+
+dhānvantarādi mantraṅṅaḷ yathāyōgyaṃ japiccuṭan  /
+amṛtāke nirūpicciṭṭauṣadhattekkoṭukkuka  // Jyo_10.33 //
+
+dhanvantarīṃ mahāviṣṇuṃ garuḍaṃ pāvakaṃ punaḥ  /
+mārttāṇḍamaśvinīdēvaṃ sudhāṃ mṛtyuñjayaṃ tathā  // Jyo_10.34 //
+acyutaṃ skandamācāryyapādapadmaṃ viśēṣataḥ  /
+dṛḍhamāyi nirūpicciṭṭauṣadhaṅṅaḷ kuṭikkaṇaṃ  // Jyo_10.35 //
+viṣarōgaṃ śamippānumāyussinṟe balattinuṃ  /
+bhaktipūrvvaṃ kaḻippikkavēṇamīśvarasēvakaḷ  // Jyo_10.36 //
+
+gaṇanāyaka hōmaṃ ca durggāpūjayatuṃ punaḥ  /
+bhāskarannu namaskāraṃ mūnnu lakṣaṃ japaṃ tathā  // Jyo_10.37 //
+
+gōpālakaṃ rudrasūktaṃ pauruṣaṃ sūktamēva ca  /
+śaṃkhābhiṣēkaṃ dēvēṣu nivēdyaṃ madhuratrayaṃ  // Jyo_10.38 //
+
+dhānvantarajapaṃ tadvattadīyaṃ hōmapūjayuṃ  /
+mṛtyuñjayākhyaṃ hōmaṃ ca śaṅkarannaṃbudhārayuṃ  // Jyo_10.39 //
+
+kṣīradhārayatuṃ nannu śūlinījapavuṃ tathā  /
+viśēṣiccu viṣaṃ tīrppān garudāṣṭōttaraṃ śataṃ  // Jyo_10.40 //
+
+viṣṇusāhasranāmaṃ ca pōjayuṃ skandasēvayuṃ  /
+khagēśvaraprīti tanne kaḻiccīṭil guṇaṃ tulōṃ  // Jyo_10.41 //
+
+viprabhōjanavuṃ vēṇaṃ bhiṣaggaṇakapūjayuṃ  /
+maṟṟuḷḷa sajjanaṅṅaḷkkuṃ prasādatte varuttaṇaṃ  // Jyo_10.42 //
+
+grahadēvādipūjā ca baliyuṃ tarppaṇaṅṅaḷuṃ  /
+yathā śakti kaḻikkēṇaṃ maṟṟuḷḷīśvarasēvayuṃ  // Jyo_10.43 //
+
+kriyāvasānē śaktikku takka dakṣiṇa ceytuṭan  /
+prasādippikkayuṃ vēṇaṃ kalyāṇaphalasiddhayē  // Jyo_10.44 //
+
+
+iti jyōtsnikā cikitsāyāṃ sudhākalādinirūpaṇādhikāraḥ
+
+
+[11]ākhuviṣattinnå
+kualacandraḥ karaghnaśca viṣaghāti bhayānakaḥ  /
+krūrō+apyugraśca kumudō meghanādaḥ bhayānakḥ  // Jyo_11.1 //
+
+tīkṣṇassudarśassiṃhāsyassudantassumukhastathā  /
+ēkacārī sugarbhśca kīrttitāṣṣōḍaśākhvaḥ  // Jyo_11.2 //
+
+ēvaṃ mūṣikavaṃśaṅṅaḷ patināṟuṇṭavaṟṟinå  /
+ōrōkālattilōnnannēṟṟamuṇṭāṃ viṣaṃ tulōṃ  // Jyo_11.3 //
+
+patināṟelikaḷkkuḷḷa viṣamōrōrodhātuvil  /
+kaṭannalatinuḷḷōru lakṣaṇaṅṅaḷ cikitsayuṃ  // Jyo_11.4 //
+
+vēṟiṭṭu connatellāṃ tānaṟivān paṇiyēṟṟavuṃ  /
+ākayāliha sāmānyaṃ cikitsā lakṣaṇaṅṅaḷuṃ  // Jyo_11.5 //
+
+collunnū prāṇināṃ sākṣādupakārārtthamāyiha  /
+ivaṟṟin pallupeṭṭāluṃ śuklaṃ dēhē patikkiluṃ  // Jyo_11.6 //
+
+nakhaṅṅaḷkkoṇṭu dehattil muṟiññīṭukiluṃ tathā  /
+śavaśuklādi vīṇuḷḷatupajīviccitākiluṃ  // Jyo_11.7 //
+
+viṣapīḍakaḷuṇṭākuṃ kramttāl prāṇikaḷkkiha  /
+kaṭiccoru pradēśattu taḻampāyiṭṭirikkiluṃ  // Jyo_11.8 //
+
+puṇpēṭṭiṭṭatuṇaṅṅāte nomparattōṭirikkiluṃ  /
+viṣamuṇṭatu daṣṭanṟe dēhattiṅkalatōrrkkaṇaṃ  // Jyo_11.9 //
+
+daṃśapradēśē vīṅṅīṭuṃ nomparaṅṅaḷuḷāṃ tulōṃ  /
+talanōvōṭu paniyuṃ kukṣivēdanayuṃ tathā  // Jyo_11.10 //
+
+ruciyonnilumillāte vannīṭuṃ nētrarōgavuṃ  /
+kampavuṃ kaphavuṃ śītaṃ tathā sarvvāṃgasādavuṃ  // Jyo_11.11 //
+
+mēlellāṃ vaṭṭamāyiṭṭu poṭṭuṃ kūñcoṟiyuṃ punaḥ  /
+nomparaṅṅaḷ śarīrattilellāṃ varddhiccu vanniṭuṃ  // Jyo_11.12 //
+
+ātapēcchayatuṇṭākuṃ mūkkilūṭe jalaṃ varuṃ  /
+malamūtraṅṅaḷ bandhikkuṃ pīḍakaḷ palatuṃ varuṃ  // Jyo_11.13 //
+
+elitan nakhadantādi taṭṭiyālavanappoḻē  /
+kayyuṇṇiveḷḷaṃ mūrddhāvil tēccīṭil viṣamāśu pōṃ  // Jyo_11.14 //
+
+kārppāsapallavaṃ tailē pēṣicciṭṭu kuṭikkiluṃ  /
+tathā tailattilākāśatārkṣyacūrṇṇaṃ kuṭikkiluṃ  // Jyo_11.15 //
+
+kārppāsapatraṃ kṣīrattil piḻiññiṭṭatilappoḻē  /
+kiñcil cūraṇṇamatuṃ kūṭṭi koṭuppū mūṣikārttanå  // Jyo_11.16 //
+
+kaḻuttōḷaṃ jalē ninnu kuṭiccāppāttramañjasā  /
+mūrddhāvinekkaṭattīṭṭu pimpōṭṭekkaṅṅeṟiññiṭū  // Jyo_11.17 //
+
+śītappeṭṭu viṟappōḷaṃ muṅṅavēṇaṃ yathābalaṃ  /
+dinatrayamatīvaṇṇaṃ ceytukoḷḷu viṣaṃ keṭuṃ  // Jyo_11.18 //
+
+onnaraddivasaṃ celluṃ mumpilē ceytukoḷḷaṇaṃ  /
+allāykilauṣadhaṃ maṟṟu kuṭikkēṇaṃ puraṭṭaṇaṃ  // Jyo_11.19 //
+
+ceṟucīra samūlatte kāṭinīril pibēttataḥ  /
+tathā śirīṣapañcāṃgaṃ pāyayēl kṣvēḷaśāntayē  // Jyo_11.20 //
+
+aṅkōlamūlaṃ kṣīrattil kuṭippū kāñcikē+athavā  /
+tadvaccāraṇayuṃ nīlīmūlavuṃ ceṟucīrayuṃ  // Jyo_11.21 //
+
+tulyamāyi kuṭippū vraṇē tēppū viṣāpahaṃ  /
+śvētārkkamūlaṃ gandhaṃ ca gōkṣīrē pāyayēttathā  // Jyo_11.22 //
+
+unmattārkkadalaṃ vēlipparuttikkuḷḷa patrvuṃ  /
+piḻiñña nīril kāyatte mēḷicciṭṭu puraṭṭuka  // Jyo_11.23 //
+
+kaṭutrayaṃ kuṭikkēṇaṃ tathā saindhavacandanē  /
+lēpanaṃ ceykayuṃ vēṇaṃ viṣaśāntikku daṣṭanå  // Jyo_11.24 //
+
+karaḷēkamaghōrīṭe mūlavuṃ candanṃ vacā  /
+nanāṟi pāṭatanvēruṃ śaṃkhpuṣpamavalppori  // Jyo_11.25 //
+
+ivayellāṃ samaṃ kūṭṭū tattulyā veḷḷaṭamputanpatravuṃ  /
+kūṭṭi gokṣīrē piṣṭvā saptadinaṃ pibēl  // Jyo_11.26 //
+
+lēpanādikaḷuṃ ceyka vīkkavuṃ tīrnnupōṃ drutaṃ  /
+nānā mūṣikadōṣaṅṅaḷ vidrutaṃ pōymaṟaññiṭuṃ  // Jyo_11.27 //
+
+pōḻapparattittōlinṟe rasattil taḻutāmayuṃ  /
+muriṅṅāttōli koññāṇittoliyuṃ karaḷēkavuṃ  // Jyo_11.28 //
+
+vayampuṃ candanaṃ pāṭakkiḻaṅṅuṃ gṛhadhūmavuṃ  /
+piṣṭvā sarvvāṃgavuṃ tēppū naṣṭamāṃ mauṣikaṃ viṣaṃ  // Jyo_11.29 //
+
+kaḻañcōrōnnu koḷḷēṇaṃ kuṟayāte phalatrayaṃ  /
+cuṇṭavēr mukkaḻañcāvū poṭicciṭṭivayokkayuṃ  // Jyo_11.30 //
+
+kaḷḷippālilurukkīṭṭu kuppippātrattiliṭṭuṭan  /
+aṭaccātapamuḷḷēṭaṃ vaccukoṇṭatuṇakkuka  // Jyo_11.31 //
+
+poṭiccu poṭiyākkīṭṭu mumpiluṇṇunna cōṟatil  /
+neyyuṃ poṭiyatuṃ cērttu bhkṣippu viṣamāśu pōṃ  // Jyo_11.32 //
+
+uppunīril nanacciṭṭu tilaṃ tōlu kaḷaññuṭan  /
+cukkumoppiccu cūrṇṇiccu mēḷiccu guḷamōṭatå  // Jyo_11.33 //
+
+sēviccukoṇṭālārttannu vairasyaṅṅaḷakannu pōṃ  /
+paśuvin pālileṭṭonnu kaḷḷippālu kalarnnuṭan  // Jyo_11.34 //
+
+kāccikkoṇṭoṟa toṭṭiṭṭu dadhiyākkikkalakkuka  /
+uddhṛtya veṇṇa sēviccāloḻiyuṃ mauṣikaṃ viṣaṃ  // Jyo_11.35 //
+
+śivamalliyuṭē vēruṃ puṣpavuṃ candanṃ vacā  /
+viṣavēgaṃ tathā pāṭakkiḻaṅṅuṃ maramaññaḷuṃ  // Jyo_11.36 //
+
+mattaṅṅā rōhiṇī vyōṣapṛthukapporiyenniva  /
+tulyamāyippoṭicciṭṭu sēvippū tēnumāyatå  // Jyo_11.37 //
+
+maṟannupōyēnintuppuṃ kūṭṭikkoḷka poṭiccatil  /
+anēna naśyati kṣvēḷaṃ timiraṃ hi yathēndunā  // Jyo_11.38 //
+
+paṟiccu tūkkū pukayattarkkapatraṃ veḷuttatå  /
+pukayēṟṟaṃ piṭiccālaṅṅeṭuttiṭṭu poṭiccatil  // Jyo_11.39 //
+
+nālonnu saindhavaṃ cērppū tadardhaṃ ṭaṅkaṇaṃ tathā  /
+tēnilkkuḻaccu sēvippū samastākhu viṣāpahaṃ  // Jyo_11.40 //
+
+poriccānayaṭīmūlaṃ śatamūlīṭe kandavuṃ  /
+koṭṭattēṅṅāppuṟantōluṃ nīliccuḷa karimpatuṃ  // Jyo_11.41 //
+
+tūkkittulyamatākkīṭṭu vaṟuttiṭṭaṅṅaraccatå  /
+toṭṭuṭēccāloḻiññīṭuṃ viṣaṃ mauṣikadōṣañam  // Jyo_11.42 //
+
+vīkkaṃ pāramatāyīṭil maṇḍalikku paṟaññava  /
+marunnuṃ dhārayuṃ ceytāloḻiyuṃ viṣavīkkavuṃ  // Jyo_11.43 //
+
+jaladōśīraśītaṃ ca viśavaṃ parppaṭatōyavuṃ  /
+kaṣāyaṃ ventu sēviccāl pani śīghramoḻiññu pōṃ  // Jyo_11.44 //
+
+nīlī karañja picumanda śirīṣa śigrumustōgraviśva
+surabhūruha candanāni
+ēbhiḥ samāṃśasahitaiḥ paripakvamaṃbhaḥ
+śīghraṃ vināśayati mūṣikadōṣajātaṃ  // Jyo_11.45 //
+
+pāṭhāśirīṣapṛthukākhyā vacāharidrā
+kuṣṭhābdaviśvamadhukaissamabhāgayuktaiḥ  /
+kvāthōharatykhilamūṣikadōṣajātaṃ
+kṣvēḷaṃ kṣaṇēna dahanō hi yathā tṛṇaughaṃ  // Jyo_11.46 //
+
+pañcāṃgaṃ ca śirīṣajaṃ trikaṭukaṃ
+kākōḷavēgaṃ vacā
+patthyā candana vājigandha takarō 
+śīrābda niṃbatvacaḥ
+saṃkvātthyāśu samāṃśamatra tu jalēpyētal
+samastaṃ pragē
+pītvā saindhavasaṃyutaṃ pariharēl
+kākōḷamkhūtbhavaṃ  // Jyo_11.47 //
+
+nāliṭaṅṅaḻi koḷḷēṇaṃ kaṟukakkuḷḷa nīratå  /
+nānāḻiyeṇṇayuṃ cērttu kāccū kalkkasya yaṣṭiyāṃ  // Jyo_11.48 //
+
+daśapuṣpaṃ piḻiññuḷḷa tōyē kāccukiluṃ guṇaṃ  /
+tathā bhṛṃgāmṛtarasē kāccikkoṇṭuḷḷa tailavuṃ  // Jyo_11.49 //
+
+mūṣikārttanu tēcciṭṭu kuḷippān guṇamēṟṟavuṃ  /
+kuḷippiccālappoḻē nallorauṣadhatte kuṭikkaṇaṃ  // Jyo_11.50 //
+
+saṅkaṭaṃ palatuṃ pāramēṟṟīṭilavanappoḻē  /
+charddippikka guṇaṃ śīghraṃ sarippiccīṭiluṃ tathā  // Jyo_11.51 //
+
+nilanārakamūlatte kṣīraṃ tanne kuṭikkilō  /
+ākhujātamatāyuḷḷa viṣaṃ charddiccupōṃ nṛṇāṃ  // Jyo_11.52 //
+
+tathaiva mahiṣītakrē kuṭippū pēccurakkuru  /
+kāṭiyil punnabījattekkuṭiccāluṃ vamiccu pōṃ  // Jyo_11.53 //
+
+karuvaḷḷiyuṭe mūlaṃ virakin mūlavuṃ tathā  /
+ivayonneṇṇayil pītvā viṣaṃ charddicū pōṃ druṭaṃ  // Jyo_11.54 //
+
+kālamēṟekkaḻiññīṭilivayonnu koṭuttuṭan  /
+eṇṇatēcciḷavailattu nirttīṭū viṣadaṣṭane  // Jyo_11.55 //
+
+ennāl charddiccu pōyīṭuṃ ākhūnāṃ viṣamokkeyuṃ  /
+candanaṃ śuddhatōyattil kuṭiccāl charddi ninnu pōṃ  // Jyo_11.56 //
+
+parippum malarum cukkuṃ balāvilvaṃ ca dhānyavuṃ  /
+kaṣāyaṃ veccu sēviccāl charddiyellāmiḷaccu pōṃ  // Jyo_11.57 //
+
+kāvikkallañjanakkalluṃ cukkuṃ tippali yaṣṭiyuṃ  /
+dhātrīphalamatuṃ sēviccāl charddi ninnu pōṃ  // Jyo_11.58 //
+
+āvaṇakkeṇṇayuṃ pāluṃ kuṭikkiliḷakuṃ malaṃ  /
+tathā ca konna sēvippū kāñña veḷḷamatil punaḥ  // Jyo_11.59 //
+
+amṛtuṃ pūgavuṃ patthyā kaṣāyṃ cukkumāyuṭan  /
+veccu sēviccukoḷkennal uṭanē saraṇaṃ varuṃ  // Jyo_11.60 //
+
+kampippālayuṭe vērmēlttoliyuṃ nalkkaṭukkayuṃ  /
+amṛtuṃ cukkumāyvecca kaṣāyaṃ tu virēcakaṃ  // Jyo_11.61 //
+
+snānaṃ candanapānaṃ ca dadhibhōjanamenniva  /
+ceytukoṇṭāl śamiccīṭuṃ saraṇaṃ cauṣadhōlbhavaṃ  // Jyo_11.62 //
+
+kaṣāyaṃ veccu nallōru karaḷēkamavalppori  /
+nālonnāyāl piḻiññiṭṭaṅṅatinālonnu neyyatuṃ  // Jyo_11.63 //
+
+pakarnnu ventu koḷḷēṇaṃ kalkkattinnu kaṭutrayaṃ  /
+sēviccal mūṣikakṣvēḷamoḻiññīṭumaśēṣavuṃ  // Jyo_11.64 //
+
+koṭṭaṃ kumiḻutanvēruṃ kaṣāyaṃ veccatil punaḥ  /
+ventukoḷḷāṃ ghṛtaṃ kalkkaṃ madhukaṃ muntiriṅṅayuṃ  // Jyo_11.65 //
+
+samaṃ neyyōṭu gōmūtraṃ kūṭṭi ventu kuṭikkaṇaṃ  /
+tathā brahmīrasē ventu sēviccāluṃ guṇaṃ tulōṃ  // Jyo_11.66 //
+
+
+iti jyōtsnikā cikitsāyāṃ ākhuviṣacikitsādhikāraḥ
+
+
+[12] vṛścikādicikitsādhikāraṃ
+vṛścikānāṃ viṣattinṟe lakṣaṇaṅṅaḷ cikitsayuṃ  /
+kiñcil curukkiccollunnēn janaṅṅaḷkkaṟivāniha  // Jyo_12.1 //
+
+aniśaṃ kampamuṇṭākuṃ charddibuddhibhramaṅṅaḷuṃ  /
+śūlayuṃ svēdavuṃ pāraṃ paniyuṃ rōmabhēdavuṃ  // Jyo_12.2 //
+
+daṃśē vēdanayuṃ pāriccaḻaluṃ raktavarṇṇavuṃ  /
+nānāvṛścikajantukkaḷ viṣattinnuḷavāyvaruṃ  // Jyo_12.3 //
+
+ādau śṛṃgajaḷūkādi koṇṭu raktaṃ kaḷaññuṭan  /
+aśvagandhakarañjaṅṅaḷ pāyayēnnasyamācarēl  // Jyo_12.4 //
+
+puḷimōrilaracciṭṭu vēppintōl muḷakenniva  /
+kāccikkavōṣṇamākuṃpōḷ atināl dhāra koḷḷuka  // Jyo_12.5 //
+
+karañjatintriṇīkāraskarattin patramenniva  /
+piḻiññanīrilintuppaṅṅeḻutū kaṇṇu raṇṭiluṃ  // Jyo_12.6 //
+
+hastaṃ koṇṭu piḻiññiṭṭu vuṅṅinṟē patramañjasā  /
+kaṇṇiluṃ mūkkiluṃ pinne vāyiluṃ kaṭivāyiluṃ  // Jyo_12.7 //
+
+prayōgiccāl viṣaṃ tīruṃ vṛśicikōtthamatokkeyuṃ  /
+tathā tāṃbūlavuṃ kāyaṃ kūṭṭikkoṇṭu piḻiññatuṃ  // Jyo_12.8 //
+
+bālakukkuṭa piñchaṅṅaḷ intuppuṃ tilakalkkavuṃ  /
+catacciṭṭu pukaccīṭil tīrnniṭuṃ tēḷviṣaṃ drutaṃ  // Jyo_12.9 //
+
+vēppin patramatuṃ nallamaññaḷuṃ narakēśavuṃ  /
+umiyuṃ kaḷḷitan patraṃ panayōlayuḻiññayuṃ  // Jyo_12.10 //
+
+kūṭṭippukaccu koṇṭāluṃ viṣaṃ vṛścikajaṃ keṭuṃ  /
+tathā dāvvīrāmaṭhānāṃ dhūpavuṃ nannu kēvalaṃ  // Jyo_12.11 //
+
+
+cilantiviṣattinå
+cilantikkuḷḷa cinhaṅṅālauṣadhaṅṅaḷumaṅṅine  /
+sāmānyamiha collunnēn viṃ śatikkuṃ kramāl punaḥ  // Jyo_12.12 //
+
+śēṣaṃ nāluṇṭavaṟṟinnu cikitsā nāsti bhūtalē  /
+nālililonnineyaṅṅōṭṭu kaṇṭāl cattiṭumañjasā  // Jyo_12.13 //
+
+iṅṅōṭṭu kaṇṭāl cattīṭumonnu maṟṟēvanuṃ punaḥ  /
+chāya koṇṭu haniccīṭuṃ gandhaṃ koṇṭoruvan tathā  // Jyo_12.14 //
+
+maṟṟuḷḷatu cikitsiccāl kramattāl bhēdavuṃ varuṃ  /
+mantrauṣadhaṅṅaḷ koṇṭaśēṣāṃ viṣaśānti varuttaṇaṃ  // Jyo_12.15 //
+
+daṃśapradēśē puḷakaṃ śōphavuṃ sphōṭasaṃghavuṃ  /
+tīvravēdanayuṃ pāraṃ śirōrōgavumaṅṅine  // Jyo_12.16 //
+
+varṇṇabhēdavumuṇṭākuṃ jvaravuṃ pāramāyvaruṃ  /
+lūtajātaviṣattinnaṅṅīvaṇṇaṃ lakṣaṇaṃ viduḥ  // Jyo_12.17 //
+
+raktaṃ vimucya tuḷasīṃ rajanīṃ tēccukoḷḷaṇaṃ  /
+pālil kalakki sevippū tadēva viṣaśāntayē  // Jyo_12.18 //
+
+ōṭṭin pātramatil kāyaṃ tāṃbūlāṃbuni marddayēl  /
+tēccukoṇṭāluṇaṅṅīṭumaruttiṭṭuḷḷatokkeyuṃ  // Jyo_12.19 //
+
+śirīṣanīlīmūlaṅṅaḷ talpatrāṃbuvatil punaḥ  /
+pāyayēllēpayēl śīghraṃ viṣaṃ naśyati lūtajaṃ  // Jyo_12.20 //
+
+ceṟucīrasamūlatte tēccukoṇṭu kuṭikkiluṃ  /
+koṭṭaṃ rāmaccavuṃ nīlīmūlavuṃ gandhasāravuṃ  // Jyo_12.21 //
+
+pālil kuṭiccutēccalaṅṅaṭaṅṅuṃ lūtikāviṣaṃ  /
+nannāri nīlikāmulaṅṅaḷ dhārayuṃ pānavuṃ guṇaṃ  // Jyo_12.22 //
+
+kāṭṭukayppayuṭe patraṃ tuḷasīdalavuṃ samaṃ  /
+nasyāñjanādi ceytīṭil cilantī viṣavuṃ keṭuṃ  // Jyo_12.23 //
+
+nīlīdaḷamatuṃ nalla tuḷasī karinocciyuṃ  /
+piḻiññuṇṭāyaveḷḷattil ventukoḷḷū ghṛtaṃ bhiṣak  // Jyo_12.24 //
+
+kalkkattinnuḷḷiyuṃ vyōṣaṃ aśvagandhaṃ ca candanaṃ  /
+madhukaṃ takaraṃ koṭṭaṃ nannāṟi karaḷēkavuṃ  // Jyo_12.25 //
+
+tulyamāyivayellāmē kūṭṭi ventatariccuṭan  /
+sēviccu koṇṭāl tīrnnīṭuṃ lūtajaṃ viṣasañcayaṃ  // Jyo_12.26 //
+
+ivaṟṟin vēr kaṣāyaṃ veccatiluṃ ventukoḷḷalāṃ  /
+icconna pōle tēṅṅānai kāccittēccīṭiluṃ tathā  // Jyo_12.27 //
+
+
+kīriviṣattinnå
+kīrikkuḷḷa viṣaṃ koṇṭu gaḷabhaṃgaṃ varuṃ nṛṇāṃ  /
+dantōṣṭhaṅṅaḷ kaṟuttīṭuṃ tathā tālupradēśavuṃ  // Jyo_12.28 //
+
+vākkinniṭarccayuṃ kāṇāṃ cukakkuṃ nētrayugmavuṃ  /
+tīvrajvaraṃ mahāpīḍa paltuṃ pāramāyvaruṃ  // Jyo_12.29 //
+
+vēlipparuttitanpatraṃ phalavuṃ puṣpamūlavuṃ  /
+nālumoppiccaracciṭṭu pāyayēllēpayēddrutaṃ  // Jyo_12.30 //
+
+nīlikāpatravuṃ vēruṃ tēccukoṇṭu kuṭikkiluṃ  /
+kīritanṟe viṣaṃ tīruṃ pāraṃ pāriccateṅkiluṃ  // Jyo_12.31 //
+
+karunocciyumīvaṇṇaṃ ceytukoṇṭāl viṣaṃ keṭuṃ  /
+ivaṟṟāleṇṇanai ventu prayōgikka viṣāpahaṃ  // Jyo_12.32 //
+
+mārjjāraviṣattinnå
+mārjjāraviṣamēṟṟīṭil kaṟukkuṃ tālunābhikaḷ  /
+coṟiyuṃ kaṭikoṇṭēṭaṃ nālubhāgamaruttiṭuṃ  // Jyo_12.33 //
+
+paniyuṃ charddiyuṃ svēdaṃ perutāyivaruṃ tathā  /
+ēraṇḍamūlavuṃ nallapatthyā ponkāramenniva  // Jyo_12.34 //
+
+tēnil tēccu kuṭippippū tathā vyōṣaṃ sasaindhavaṃ  /
+kayyuṇṇinīril kāyatte mēḷicciṭṭu puraṭṭuka  // Jyo_12.35 //
+
+itinālājyatailādi pākaṃ ceytatumuttamaṃ  /
+mārjjāraviṣamellāṃ pōmicconnauṣadhasēvayāl  // Jyo_12.36 //
+
+
+śvaviṣattinnå
+narāṇāṃ nāy daṃśiccāl kaṟukkuṃ raktavuṃ vraṇē  /
+raktasrutiyumuṇṭākuṃ vīkkavuṃ paniyuṃ tathā  // Jyo_12.37 //
+
+bhītiyuṃ dēhadurggandhaṃ sandhisādaṃ śirōgadaṃ  /
+saraṇaṃ malabandhaṃ vā bhavikkuṃ śvaviṣattinå  // Jyo_12.38 //
+
+aṅkōlamūlaṃ taccarmmamoppaṃ kāñcikanīratil  /
+pānalēpādi ceytīṭil keṭuṃ śvaviṣamañjasā  // Jyo_12.39 //
+
+eṇṇanailēhyamityādikkaṅkōlaṃ tanne koḷḷuka  /
+kaṣāyaṃ nīlikāmūlaṃ kuṭippikka sasaindhavaṃ  // Jyo_12.40 //
+
+śigrupatramatuṃ nalla maññaḷuṃ maramaññaḷuṃ  /
+dūrvvārasamatil piṣṭvā tēccukoḷvū viṣāpahaṃ  // Jyo_12.41 //
+
+śuddhadūrvvārasē tēṅṅānai kācciddhārakoḷḷuka  /
+madhukaṃ candanṃ jātipatriyuṃ kalkkamāyiha  // Jyo_12.42 //
+
+bhrāntuḷḷatu kaṭiccīṭil charddippikka yathā balaṃ  /
+sarippiccīṭiluṃ koḷḷāṃ kuṭippikka kaṣāya nīr  // Jyo_12.43 //
+
+charddippānuṃ sarippānuṃ mūṣikanṟe cikitsayil  /
+connapōluḷḷatellāmē pravarttippū śunāṃ vise  // Jyo_12.44 //
+
+nīlī karañja tuḷasī picumanda lōdhradārvvī
+yavāṣabṛhatīdvayaparppaṭābdaiḥ  /
+vyōṣaṃ śirīṣasuradārvvapi tulyabhāgaissiddhaṃ
+payaḥ pariharēdviṣavibhramaṃ ca  // Jyo_12.45 //
+
+karañjapatravuṃ tōluṃ vēruṃ koṇṭu kaṣāyavuṃ  /
+vecceṭuttu kuṭippippū buddhibhramamatuṃ keṭuṃ  // Jyo_12.46 //
+
+karañjanīlīmūlaṅṅaḷ kaṣāyaṃ tēnumāyuṭan  /
+sēviccāl viṣavuṃ bhrāntuṃ tīrnniṭuṃ viśvakadrujaṃ  // Jyo_12.47 //
+
+ēvaṃ krōṣṭukakākōḷē ceyvū buddhibhramē+api ca  /
+mantrayantrādikaḷ koṇṭuṃ rakṣa kalppiccu koḷḷaṇaṃ  // Jyo_12.48 //
+
+
+aśvaviṣattinnå
+aśvadaṣṭannu daṃśattil vēdanā rudhirasruti  /
+kaṇmiḻippān vaśakkēṭuṃ sadā sarvvāṃgasādavuṃ  // Jyo_12.49 //
+
+pāramuṇṭāyvaruṃ pinne dāhavuṃ bhramavuṃ tathā  /
+amukkuramatuṃ nalla vayampuṃ lōdhracarmmavuṃ  // Jyo_12.50 //
+
+kṣīrē pēṣiccu sēvippū lēpanādiyumācarēl  /
+vājidantōtbhvakṣvēḷaṃ talkṣaṇādēva nasyati  // Jyo_12.51 //
+
+
+vānaraviṣattinnå
+daṃśē vēdanayatyartthamuṇṭākuṃ vānarē viṣē  /
+ciṟiyuṃ pallumaṅṅellāṃ kaṟakkuṃ kṛṣṇaraktavuṃ  // Jyo_12.52 //
+
+daṃśapradēśāl vannīṭuṃ śarīraṃ vāṭumēṟṟavuṃ  /
+rōmabhēdamatuṃ kāṇāṃ mēlellāṃ varṇṇabhēdavuṃ  // Jyo_12.53 //
+
+nenmēnivākatanmūlaṃ tōluṃ patraṃ ca puṣpavuṃ  /
+kāyayuṃ tulyamāyiṭṭu pāyayēllēpayēl drutaṃ  // Jyo_12.54 //
+
+
+marttyadantaviṣattinnå
+marttyadantaviṣattinnu mūkatvaṃ varumañjasā  /
+paniyuṃ gātrabhēdaṃ ca śyāmatvaṃcōṣṭhadantayōḥ  // Jyo_12.55 //
+
+sandhunontuṃ kanattīṭuṃ lālāsrutiyumaṅṅine  /
+varṇṇabhēdaṃ mukhattuṇṭāṃ cuvakkuṃ nayanadvayaṃ  // Jyo_12.56 //
+
+nīlīmūlamatuṃ nalla nannāṟi ceṟucīrayuṃ  /
+pālil piṣtvā piraṭṭīṭṭu kuṭippū tadviṣāpahaṃ  // Jyo_12.57 //
+
+ivayōrōnnutān pōrumonniccākil guṇaṃ tulōṃ  /
+nasyāñjanādiyuṃ ceyvū narāṇāṃ viṣamaśu pōṃ  // Jyo_12.58 //
+
+
+maṇḍūkaviṣattinnå
+maṇḍūkattin viṣattinnu daṃśē pāraṃ coṟicciluṃ  /
+nālubhāgattumaṅṅēṟṟaṃ poḷḷīṭuṃ tīvrajūrttiyuṃ  // Jyo_12.59 //
+
+manaḥklēśamatuṃ nōvuṃ vīkkavuṃ pāramāyvaruṃ  /
+cukkuṃ tippaliyuṃ nalla kāyaṃ muḷakenniva  // Jyo_12.60 //
+
+kūṭṭikkoṇṭataracciṭṭu kuṭippū lēpayēcca tal  /
+maṇḍūkadantasañjātaviṣamellāmoḻiññu pōṃ  // Jyo_12.61 //
+
+
+araṇaviṣattinnå
+araṇēṭe viṣattinnu mēlellāṃ kkaśuvaṭṭamāy  /
+poṭukkuṃ kṛṣṇamāyiṭṭu cuvanniṭṭākiluṃ tathā  // Jyo_12.62 //
+
+paniyuṃ nomparaṃ pāraṃ aṃgasādamarōcakaṃ  /
+śītaṃ mukhattu durggandhaṃ malabandhavumāyvaruṃ  // Jyo_12.63 //
+
+dīrghavṛntamatin tōluṃ muriṅṅattoliyuṃ tathā  /
+nenmēnivākattoliyuṃ tathā niṃbakarañjayōḥ  // Jyo_12.64 //
+
+sarvvāṃgaṃ tēccu sēvippū dhūpippū dhāra ceytiṭū  /
+nīlīmūlakaṣāyatte kuṭiccīṭukayuṃ guṇaṃ  // Jyo_12.65 //
+
+uṟitūkkiyuṭe vēruṃ gṛhadūmavumāyatå  /
+dūrvvānīrilaracciṭṭu sarvvāṃgaṃ tēkayuṃ guṇaṃ  // Jyo_12.66 //
+
+
+kṛkalāsa(ōntu)viṣattinnå
+kṛkalāsaviṣattinnuṃ lakṣaṇaṅṅaḷ cikitsayuṃ  /
+mikkavāṟumatīvaṇṇaṃ kaṇṭukoḷvū yathāvalē  // Jyo_12.67 //
+
+
+gauḷīviṣattinnå
+gauḷitanṟe viṣattinnå kukṣirōgaṃ coṟicciluṃ  /
+paṇapramāṇaṃ mēlellāṃ poṭukkuṃ vaṟaḷuṃ ciṟi  // Jyo_12.68 //
+
+agōrikaraḷēkaṃ ca nannāṟiyamarī tathā  /
+pānalēpādi ceytīṭil pallitan viṣamāśupōṃ  // Jyo_12.69 //
+
+
+kaṭannalvisattinnå
+kaṭannal kuttukil pāraṃ kaṭayuṃ vīkkavuṃ varuṃ  /
+rōmabhēdamatuṇṭākuṃ varuṃ sarvvāṃgasādavuṃ  // Jyo_12.70 //
+
+piṣṭvā mukkuṟṟi sarvvāṃgaṃ navanītē kalarnnatå  /
+tēccaśēṣaṃ viḻuṅṅīṭū tadviṣaṃ naśyati kṣaṇāl  // Jyo_12.71 //
+
+ñoṅṅaṇaṃ pullumīvaṇṇaṃ nīlīmūladalaṅṅaḷuṃ  /
+kṛṣṇamāyuḷḷa tuḷasīmūlavuṃ patravuṃ tathā  // Jyo_12.72 //
+
+mēlellāṃ tēccukoṇṭīṭil kaṭannalkkūṭeṭuttiṭāṃ  /
+nīlītuḷasikā raṇṭuṃ kaṭannal viṣanāśanaṃ  // Jyo_12.73 //
+
+
+tēraṭṭaviṣattinnå
+tēraṭṭaviṣamākumpōḷ vaṭṭattil tōlupōyatil  /
+aruttīṭṭu coṟiññīṭuṃ kramattāl vaḷaruṃ punaḥ  // Jyo_12.74 //
+
+vyōṣaṃ śirīṣapañcāṃgaṃ pāyayēllēpayēdvraṇē  /
+puttiriccuṇṭa tanpatraṃ kētakīdalamenniva  // Jyo_12.75 //
+
+tēṅṅaneyyil vaṟuttiṭṭu pēṣiccāśu puraṭṭuka?
+
+(toṭṭāloṭṭi) toṭṭārtoṭṭiviṣattinnå
+toṭṭārtoṭṭiviṣattinnumīvaṇṇaṃ ceytukoḷḷuka  /
+ceṟucīrayatuṃ koṇṭu pānalepādiyuṃ guṇaṃ  // Jyo_12.76 //
+
+
+aṭṭaviṣattinnå
+aṭṭakkuḷḷa viṣattinnu coṟiyuṃ cōrayuṃ varuṃ  /
+nannāṟi maññaḷuṃ neyyuṃ jaḷūkaviṣanāśanaṃ  // Jyo_12.77 //
+
+
+matsyaviṣattinnå
+kaṭacciluṇṭāmattyartthaṃ vraṇē vēdanayuṃ tathā  /
+panirōmāñcavuṃ vīkkaṃ matsyakṣvēḷōtbhavē bhavēl  // Jyo_12.78 //
+
+tatra kāraskarattinṟe vēruṃ tiriyumañjasā  /
+iṭicciṭṭu jalaṃ koṇṭu dhāra ceyka nirantaraṃ  // Jyo_12.79 //
+
+āraṇyasarṣapaṃ vērōṭiṭicciṭṭu kaṣāyamāy  /
+vecceṭuttu pukaccīṭil kaṭaccil kṣaṇamē keṭuṃ  // Jyo_12.80 //
+
+tadēva lēpayēcchīghraṃ savyōṣaṃ rāmaṭhānvitaṃ  /
+pūnarnnavāmarataru lēpayēcchōpaśāntayē  // Jyo_12.81 //
+
+pālilppuḻuṅṅippēṣicciṭṭamṛtuṃ daśapuṣpavuṃ  /
+tēccukoṇṭāl kṣaṇēnēva pṛthurōma viṣaṃ keṭuṃ  // Jyo_12.82 //
+
+
+bhṛṃgaviṣattinnå
+bhṛṃgaṃ kottukilappoḻē kaṭayuṃ vīkkavuṃ varuṃ  /
+punnāṭakaniśāyugmaṃ lēpayēttadviṣāpahaṃ  // Jyo_12.83 //
+
+sthāvaraviṣattinnå
+phalapuṣpadalairmmūlaniryyāsarasacarmmabhiḥ  /
+kandabījapayōbhiśca bhavēl sthāvarajaṃ viṣaṃ  // Jyo_12.84 //
+
+ēvaṃ patthuprakārattiluṇṭākunna viṣattinå  /
+lakṣaṇaggaḷatuṃ collāṃ cikitsāpi viśēṣathaḥ  // Jyo_12.85 //
+
+vīkkamuṇṭāṃ cūṭu pāraṃ paniyuṃ cittaśōkavuṃ  /
+sādavuṃ mōhavuṃ charddiśōṣaṃ viṇmūtrarōdhavuṃ  // Jyo_12.86 //
+
+ceṟucīrayuṭē mūlaṃ taṇṭuṃ patramatuṃ samaṃ  /
+śuddhakāñcikatōyattil pānalēpanamuttamaṃ  // Jyo_12.87 //
+
+nīlikāmūlamintuppuṃ tathā pītvā pralēpayēl  /
+ivakoṇṭu kaṣāyaṃ veccatukoṇṭu kuḷikkaṇaṃ  // Jyo_12.88 //
+
+icconnauṣadhameṇṇakkuṃ naiventīṭānumuttamaṃ  /
+intuppuṃ vyōṣavuṃ raṇṭu maññaḷuṃ kalkkamāmiha  // Jyo_12.89 //
+
+mikkavāṟuṃ viṣattinnu śatadhauta ghṛtaṃ śubhaṃ  /
+nālppamarakkaṣāyattil ghṛtamiṭṭu nirantaraṃ  // Jyo_12.90 //
+
+kaṭayēṇaṃ cukappōḷaṃ nūṟu nāḻikayaṅṅinē  /
+`eśatadhauta ghṛtaṃ' cēti viṣaśōphōṣaṇaśāntikṛl  // Jyo_12.91 //
+
+
+pratyauṣadhavidhikaḷ
+cērmarattin viṣattinnu tānnitan tōlaraccuṭān  /
+sarvvāṃgaṃ tēccu sēvippū sadyōnaṣṭamatāṃ viṣaṃ  // Jyo_12.92 //
+
+mukkōlppakkonna sēviccu saraṇaṃ pāramāyiṭil  /
+śatāvarījalaṃ koṇṭu gudadhāra kaḻikkaṇaṃ  // Jyo_12.93 //
+
+kuṭiccīṭukayuṃ vēṇaṃ kuḷikkēṇaṃ tadaṃbuni  /
+nāgadantiviṣattinnumīvaṇṇaṃ ceytukoḷḷuka  // Jyo_12.94 //
+
+puḻapparattittōl koṇṭu kaṇṇāṃpaṭṭi viṣaṃ keṭuṃ  /
+madyattin mattu tīrnnīṭuṃ ceṟunāraṅṅa koṇṭuṭan  // Jyo_12.95 //
+
+kañcāvinnatha kōvakkā nannēṟṟaṃ vīryaśāntayē  /
+amīnmarunnu cennīṭil matighnīmūlavuṃ dalaṃ  // Jyo_12.96 //
+
+mēttōnnikkamarīmūlaṃ nirvviṣī maricaṃ tathā  /
+pāṣāṇaviṣaśāntikku madhymaṃ kaṭukuttamaṃ  // Jyo_12.97 //
+
+nīlikāmūlavuṃ tadval mṛṇāḷaṃ cē+iti kēcana  /
+pāratattinnu kūśmāṇḍaṃ pratyauṣadhamitīritaṃ  // Jyo_12.98 //
+
+ēraṇḍattiriyuṃ nalla navanītaṃ śavatāvari  /
+āvalinṟe viṣattinnuṃ koṭuvēlikkumāmitå  // Jyo_12.99 //
+
+kāññirattiri sēviccāl pallellāmetṛkōrttupōṃ  /
+kāluṃ viralumaṅṅellāṃ kūccuṃ karavumaṅṅine  // Jyo_12.100 //
+
+kunnitan pallavaṃ piṣtvā kuṭippū lēpayēcca tal  /
+vēgaṃ tīrnnīṭumennālakkūccaluṃ pallu kōrttatuṃ  // Jyo_12.101 //
+
+vatsanābhi kuṭiccīṭil nirvviṣī paramauṣadhaṃ  /
+mūlaṃ nīlībhavaṃ kūṭe nanēṟṟaṃ tadviṣē nṛṇāṃ  // Jyo_12.102 //
+
+dadhimōronnivaṭṭinṟe kanmaṣaṃ nīṅṅuvāniha  /
+nannēṟṟaṃ paḻatāyuḷḷōruppumāṅṅayumaṇṭiyuṃ  // Jyo_12.103 //
+
+dhūmapatraṃ piṭiccīṭil tēṅṅāppāl koṇṭu tīrnniṭuṃ  /
+tathā lavaṇatōyēna tailavīryyaṃ keṭuṃ drutaṃ  // Jyo_12.104 //
+
+tēkkiṭā koṇṭu tīrnnīṭuṃ panasattinṟe kanmaṣaṃ  /
+tathā tadvīryyaśāntikku cukkuṃ kūṭegguṇaṃ tulōṃ  // Jyo_12.105 //
+
+pratyauṣadhaṅṅaḷ vēṟiṭṭiṭṭellāṟṟinnumirikkiluṃ  /
+nānā viṣaṅṅaḷ tīrnnīṭuṃ nīlipānavilēpanāl  // Jyo_12.106 //
+
+iti vṛścikādicikitsādhikāraḥ
+
+[13]paśukkaḷkku viṣappeṭṭāl
+paśukkaḷkku viṣappeṭṭāl kulukkuṃ talayēṟṟavuṃ  /
+rōmabhēdamatuṇṭākuṃ daṃśē śōphamatuṃ tathā  // Jyo_13.1 //
+
+aṃgasādavumatyartthaṃ kaṇṇukāṇāteyuṃ varuṃ  /
+paniyuṃ koṭutāyīṭuṃ naṭpānarutāteyāṃ  // Jyo_13.2 //
+
+nura pāraṃ coriññīṭuṃ vāyiluṃ raṇṭu mūkkiluṃ  /
+tathā dantaṅṅaḷ bandhikkuṃ poriyuṃ rōmamēṟṟavuṃ  // Jyo_13.3 //
+
+lōhaṃ cuṭṭiṭṭeṭuttiṭṭu daṃśē veccīṭukañjasā  /
+chēdikka guṇamennāluṃ chēdikkarutu gōkkaḷē  // Jyo_13.4 //
+
+intupūṃ paśuvin neyyuṃ vraṇē tēccīṭaṇaṃ drutaṃ  /
+vayampuṃ maricaṃ nalla saindhavaṃ cukku tippali  // Jyo_13.5 //
+
+tulyabhāgamarakkēṇaṃ śuddha kāñcikanīratil  /
+pānalēpādi koṇṭāśu paśukkaḷkku viṣaṃ keṭuṃ  // Jyo_13.6 //
+
+nenmēnivākapañcāṃgaṃ mūlaṃ nīlībhavaṃ tathā  /
+ceṟucīrayatuṃ raṇṭu maññaḷuṃ samamāyuṭan  // Jyo_13.7 //
+
+kāṭinīrilaracciṭṭu sarvvāṃgaṃ parimarddayēl  /
+kōrikkoṇṭu kuṭippippū sadyōnaṣṭamatāṃ viṣaṃ  // Jyo_13.8 //
+
+mañjarī nīlikāpatramaśvagandhaṃ ca saindhavaṃ  /
+tulyāṃśaṃ pānalēpādyaiḥ paśūnāṃ viṣamāśupōṃ  // Jyo_13.9 //
+
+nenmēni vākatan vērumuḷḷikāyaṃ vacaṃ samaṃ  /
+muḷakuṃ kāṭiyil piṣṭvā pānādyairvviṣanāśanaṃ  // Jyo_13.10 //
+
+uṅṅintōlu uṟitūukkīṭe mūlavuṃ vyōṣamenniva  /
+kāñcikē pānalēpādyairnnaśyatīti gavāṃ viṣaṃ  // Jyo_13.11 //
+
+viṣaṃ mōhiccupōyennāl nasyaṃ ceytāluṇarnniṭuṃ  /
+naranmārkku paṟaññuḷḷa nasyaṃ tanniviṭekkumāṃ  // Jyo_13.12 //
+
+icconnauṣadhajālaṅṅaḷiṭicciṭṭa jalattināl  /
+kuḷippikkayatuṃ patthyaṃ puraṭṭīṭānumāmatå  // Jyo_13.13 //
+
+iti gavāṃ cikitsādhikāraḥ
+
+ellā viṣattinuṃ
+[14]sāmānya cikitsakaḷ
+lakṣaṇaṃ koṇṭaṟiññilla pāmpinēyennirikkilō  /
+nōkkikkoṇṭu vicārippū daṣṭanāṃ dēhamokkeyuṃ  // Jyo_14.1 //
+
+vaṛṇṇabhēdaṃ viṣattinṟe vēgavuṃ dōṣavṛddhiyuṃ  /
+maṟṟuṃ cilatu sūkṣiccuṃ grahiccilleṅkiluṃ tathā  // Jyo_14.2 //
+
+kuṭikkēṇṭuṃ marunnellāṃ collunnēnatināyiha  /
+ellā viṣavumellārkkuṃ tīrnnupōmivakoṇṭuṭan  // Jyo_14.3 //
+
+vēlipparuttitanpatraṃ puṣpavuṃ samamāyiha  /
+tanmūlamapi kṣīrattil drutaṃ nānā viṣē pibēl  // Jyo_14.4 //
+
+kṣīrattilamarī mūlaṃ nirmmalē kāñcikē+apivā  /
+kuṭippū lēpanaṃ ceyvū niśśēṣaviṣanāśanaṃ  // Jyo_14.5 //
+
+ceṟucīrayatuṃ nalloramarīmūlavuṃ samaṃ  /
+pānalēpādi ceytīṭil tīrnniṭuṃ viṣamokkeyuṃ  // Jyo_14.6 //
+
+vājigandhmatuṃ nalla maññaḷuṃ ceṟucīrayuṃ  /
+kṣīratōyē+ api vā pītvā sadyassarvvaviṣaṃ jayēl  // Jyo_14.7 //
+
+karañjaṃ nīlikātulyaṃ mūnnuṃ tulyamatāyiha  /
+panādyairnnaśyati kṣvēḷaṃ yathā pāpaṃ trimūrttibhiḥ  // Jyo_14.8 //
+
+niśādvayaṃ mēghanādaṃ dhūmavuṃ samamāyiha  /
+liptvā pītvā jayēl sarvvaṃ viṣaṃ stāvarajaṃgamaṃ  // Jyo_14.9 //
+
+śuddhiceytoru poṅkāraṃ śītatōyē kuṭikkuka  /
+puraṭṭi naysavuṃ ceyvū garamellāmoḻiññupōṃ  // Jyo_14.10 //
+
+amukkuramatuṃ vyōṣaṃ vayampuṃ vākamūlavuṃ  /
+nānāviṣē kuṭiccīṭāṃ kadaḷikkandanīratil  // Jyo_14.11 //
+
+nasyattinnuṃ guṇaṃ tanne nētrattiṅkalumāmitå  /
+toṭṭu tēccāloḻiññiṭuṃ viṣavuṃ vīkkavuṃ drutaṃ  // Jyo_14.12 //
+
+karaḷēkamatuṃ cukkuṃ piṣṭvā pītvā pralēpayēl  /
+mastakē nāsikāyāṃ ca patthyamētadviṣē+ akhilē  // Jyo_14.13 //
+
+taṇḍulīyakamūlaṃ ca vājigandhaṃ ca gulågulu  /
+gṛhadūmaṃ ca gōmūtrē pāyayēl kṣvēḷaśāntyē  // Jyo_14.14 //
+
+cnadanṃ nīlikāmūlaṃ koṭṭavuṃ ceṟucīrayuṃ  /
+pāyayēl lēpayēl kṣīrē nānāviṣavināśanaṃ  // Jyo_14.15 //
+
+kāyaṃ vā saindhavaṃ vā+atha kūṭṭikkoḷkārkkapatravuṃ  /
+pēṣiccatmajalē pītvā liptvā sarvvaviṣaṃ harēl  // Jyo_14.16 //
+
+śirīṣārkkasumaṃ raṇṭil bījavuṃ vyōṣavuṃ samaṃ  /
+nasyapānādi koṇṭāśu tīrnnupōṃ viṣamokkeyuṃ  // Jyo_14.17 //
+
+arakkuṃ kāyavuṃ cukkuṃ uḷḷiyuṃ raṇṭu maññaḷuṃ  /
+saindhavēna samaṃ mūtrē viṣaṃ lēpādinā harēl  // Jyo_14.18 //
+
+vyōṣamśvāriyuṃ pāṭakkiḻaṅṅuṃ nīliyuṃ tathā  /
+peruṅkurumpayuṃ vyōṣaṃ vayampuṃ kūṭṭiyuṃ tathā  // Jyo_14.19 //
+
+tēṟṟāmparalaracciṭṭu kalakkikkoṇṭatil punaḥ  /
+nirmmalaṃ vastraśakalaṃ mukkikkoṇṭāṟṟukāṟṟatil  // Jyo_14.20 //
+
+ēvaṃ mukkiyuṇakkēṇaṃ eṭṭupattupattūḻamattuṇi  /
+tailaṃ tannil tirumpīṭṭu nasyāduttiṣṭhatē viṣī  // Jyo_14.21 //
+
+harītakī tathā lōdhraṃ vēppuṃ kāyavumenniva  /
+nānnaviṣōpaśāntikku ceyvū pānādikakriyāḥ  // Jyo_14.22 //
+
+murukkutanmēlttōl tanne kāñcikāṃbuni marddayēl  /
+pānalēpādikonṭāśu tīrnnu pōoṃ viṣamokkeyuṃ  // Jyo_14.23 //
+
+vyōṣavuṃ kāyavuṃ tumpanīratil parimarddayēl  /
+nasyāñjanē tathā kṛtvā viṣamōhavināśanaṃ  // Jyo_14.24 //
+
+veṅkunnikkuruvuṃ kāyameriññikkurubījavuṃ  /
+śigrupatrarasaṃ tannil piṣṭvā nasyāñjanē hitaṃ  // Jyo_14.25 //
+
+vayampuṃ kāyavuṃ nalla śvētamāṃ maricaṃ samaṃ  /
+tāṃbūlanīril peṣiccu ceyvū nasyāñjanaṅṅaḷe  // Jyo_14.26 //
+
+śirīṣapuṣpasvarasē bhāvitaṃ maricaṃ sitaṃ  /
+nasyāñjanādinā bhūyaśśīghramuttiṣṭhatē viṣī  // Jyo_14.27 //
+
+veṅkunnikkuruvuṃ vahniśikhayuṃ rāmaṭhaṃ vacā  /
+śudhakāñcikatōyattil añjanādyairvviṣaṃ keṭuṃ  // Jyo_14.28 //
+
+vaccāśvagandhaṃ trikaṭu vākamūlaṃ ca candanaṃ  /
+raṃbhākandajalē piṣṭvā viṣaṃ pānādinā harēl  // Jyo_14.29 //
+
+vuṅṅinkurutan bījaṃ cukkuṃ muḷaku tippali  /
+vēppintōl viṣavēgaṃ ca kāḷakūṭāpahaṃ bhavēl  // Jyo_14.30 //
+
+kōśātakī vacā hiṃgu śirīṣaṃ vyōṣamenniva  /
+arkkakṣīrē+ api saṃpiṣtvā+apyajamūtrē+athavā punaḥ  // Jyo_14.31 //
+
+kaṇṇil tāṃbūlanīrtannil nasyaṃ tumpayuṭē jalē  /
+śigruvalkkarasē pānaṃ niśśēṣaviṣanāśanaṃ  // Jyo_14.32 //
+
+poṭiccikṣvāku sarvvaṃgaṃ kāyamōṭu kalarnnatå  /
+nasyaṃ ceytāluṇarnnīṭuṃ viṣamōhitanañjasā  // Jyo_14.33 //
+
+mātṛghātiyuṭē mūlaṃ kāṭiyil viṣanāśanaṃ  /
+muyalcceviyatuṃ tumpa tuḷasī śakravalliyuṃ  // Jyo_14.34 //
+
+mārññaravandinīpatraṃ tathā puvvāṅkuṟuntala  /
+ivayellāṃ samaṃ kaṇṭu piḻiññuṇṭāyanīratil  // Jyo_14.35 //
+
+maricaṃ tippalī cukumēlattariyumenniva  /
+cūṛṇṇiccu kūṭṭi nakkīṭiḷ viṣamellāmoḻiññupōṃ  // Jyo_14.36 //
+
+vayampuṃ takaraṃ koṭṭaṃ candanaṃ padmakēsaraṃ  /
+dhurdhūrbījavuṃ tulyaṃ kāṭi tannilaraccuṭan  // Jyo_14.37 //
+
+toṭṭutēccāluṇaṅṅippōṃ visarppaṃ kṣvēḷasaṃbhvaṃ  /
+nālppāmaramatintōluṃ madhukōśīracandanṃ  // Jyo_14.38 //
+
+dūrvvā ca nīlikāmūlaṃ kāṭi tannilaraccuṭan  /
+toṭṭupūśukilōṭippoṃ visarppaṃ visasaṃbhavaṃ  // Jyo_14.39 //
+
+candraśēkharamūlīṭe patravuṃ kāyavuṃ samaṃ  /
+tirummīṭṭatināl mūkkuṃ vāyuṃ pottiyamarttuṭan  // Jyo_14.40 //
+
+piṭiccukoḷvvū mūnnūḻaṃ kāḷakūṭavināśanaṃ  /
+vyōṣaṃ takaravuṃ koṭṭaṃ māñciyintuppurēṇukaṃ  // Jyo_14.41 //
+
+tuḷasī śāribā mustā yasṭi hiṃgu niśādvayaṃ  /
+viḷaṃgamēlattariyuṃ tulyabhāgamitokkeyuṃ  // Jyo_14.42 //
+
+plāśin nīrtannularakkēṇaṃ dinadvayaṃ  /
+plāśinṟe kaṟayuṃ kūṭṭīṭṭorupātrattiliṭṭuṭan  // Jyo_14.43 //
+
+pākaṃ ceyyunnatilkkuṭeyiṭṭu vēviccukoḷḷuka  /
+gōśṛṃgē saṃgrahēdētal garaḷaghnarasāyanaṃ  // Jyo_14.44 //
+
+toṭṭu kiñcil piraṭṭīṭil tīrnnupōṃ viṣamokkeyuṃ  /
+nasyapānādiyatinuṃ guṇaṃ guptamitēṟṟavuṃ  // Jyo_14.45 //
+
+dēvadāruniśādvandvaṃ takaraṃ madhukaṃ vacā  /
+kanmadaṃ muḷakuṃ vuṅṅuṃ śirīṣārkkakaṇassamaṃ  // Jyo_14.46 //
+
+mumpētupōle sūkṣiccu gōśṛṃgāntē visāpahaṃ
+śiṛīṣamēlattariyuṃ arakkuṃ māñcyarēṇukaṃ  // Jyo_14.47 //
+
+yaṣṭīpakunda sindhūtthaṃ tryūṣaṇaṃ kāṭṭuveḷḷari  /
+dārvvī mañcaṭṭicūrṇṇaṃ ca maññaḷennivayokkeyuṃ  // Jyo_14.48 //
+
+pūrvvaval śṛṃga saṃsthāpyaṃ viṣēṣu paramauṣadhaṃ  /
+ētal sarvvēpi dhūpē+ api kuryyāl kṣvēḷōpaśāntayē  // Jyo_14.49 //
+
+nantyārvaṭṭamatinmūlaṃ vaṭakkōṭṭu gamiccatå  /
+grahaṇāraṃbhakālattaṅṅeṭuppū śastrakaṃ vinā  // Jyo_14.50 //
+
+staṃbhicca nēravuṃ pinneyoḻiyumpōḻumaṅṅine  /
+araccu guḷikīkṛtya saṃgrahēl śuddhabhājanē  // Jyo_14.51 //
+
+ādikkitu kuṭippiccāl daṣṭannå viṣamēṟeyāṃ  /
+staṃbhippikkuṃ viṣaṃ tathā kṣvēḷaṃ staṃbhnattileṭuttatå  // Jyo_14.52 //
+
+tathā mōcanakālattētoḻikkuṃ viṣamokkeyuṃ  /
+ādiykkatācarikkollā prayōgaṃ guptamāmitå  // Jyo_14.53 //
+
+nenmēnivākapañcāṃgaṃ kṛṣṇapañcamiṇāḷuṭan  /
+irimpu taṭṭāteyaṅṅeṭuppū tulyamāyitå  // Jyo_14.54 //
+
+gōmūtrē+apyajamūtrē vā marddayēddivasatrayaṃ  /
+guḷikīkṛtya niḻaliluṇakkikkoṇṭu saṃgrahēl  // Jyo_14.55 //
+
+anenāñjanapānādyairvviṣī bhavati nirvviṣaḥ  /
+guptamatyntamētattu śāstrēṣu ca manīṣibhiḥ  // Jyo_14.56 //
+
+jātavatsamalaṃ koṭṭaṃ raṇṭuṃ tulyaṃ kalarnnuṭan  /
+pūrvvaval guḷikīkṛtya prayōktavyaṃ viṣē+akhilē  // Jyo_14.57 //
+
+vayampu kāyaṃ veḷḷuḷḷi vyōṣavuṃ samamāyiha  /
+kāñcikē guḷikīkuryyāl pūrvvavadviṣanāśanaṃ  // Jyo_14.58 //
+
+vilvasya mūlaṃ surasasya puṣpaṃ
+phalaṃ karañjasya nataṃ surāhvaṃ  /
+phalatrayaṃ vyōṣaniśśadvayaṃ ca
+bastasya mūtrēṇa susūkṣma piṣṭaṃ  // Jyo_14.59 //
+
+bhujaṃga lūtōnduru vṛścikādyaivviṣūcikā
+jīrṇṇagarajvaraiśca
+ārttān narān bhūtavidharṣittāṃśca
+svasthīkarōtyañjanapānanasyaiḥ  // Jyo_14.60 //
+
+hiṃgvaśvagandha sindhūtthamerumakkannu tan malaṃ  /
+tippalī muḷakuṃ cukkuṃ samabhāgamitokkeyuṃ  // Jyo_14.61 //
+
+pēṣiccu saptadivasamerikkinpālatil punaḥ  /
+uruṭṭikkoṇṭuṇakkīṭṭu kēvalaṃ niḻal tannilē  // Jyo_14.62 //
+
+viṣārttannitu sēviccāl ōṭippōṃ viṣamokkeyuṃ  /
+charddiccupōyiyennākil gati nāmajapaṃ nṛṇāṃ  // Jyo_14.63 //
+
+rasajaṃbāḷabījaṅṅaḷoppaṃ pēccuranīratil  /
+pēṣiccu tīrtta vaṭakaṃ aśēṣaviṣanāśanaṃ  // Jyo_14.64 //
+
+gōrōcanavumintuppuṃ maramaññaḷ kaṭutrayaṃ  /
+poṅkāraṃ nirvviṣīkāyaṃ aśvagandhaṃ nataṃ vacā  // Jyo_14.65 //
+
+pārataṃ garuḍadvandvaṃ candanaṃ viṣavēgavuṃ  /
+patthyā pāśupataṃ mūrvvā samabhāgamitokkeyuṃ  // Jyo_14.66 //
+
+nāraṅṅanīr piḻiññiṭṭu marddippū divasatrayaṃ  /
+kunnikkurupramāṇattiluruṭṭikkoṇṭuṇakkuka  // Jyo_14.67 //
+
+viṣāmayēṣu sarvvēṣu sukhadaṃ vaṭakaṃ tvidaṃ  /
+sañcitavyaṃ prayatnēna nāmnā `etaruṇabhāskaraṃ'  // Jyo_14.68 //
+
+rasaṃ cāyilyavuṃ pinneppaṣāṇaṃ raṇṭu kūṭṭavuṃ  /
+vajranāgaṃ vayampōṭu turiśuṃ manayōlayuṃ  // Jyo_14.69 //
+
+gandhakaṃ sāgarairaṇḍakkuruvuṃ nirvviṣī punaḥ  /
+śvētamāyuḷḷa poṅkāraṃ tathā ponnaritāravuṃ  // Jyo_14.70 //
+
+tulyāṃśaṃ ceṟunāraṅṅānīratil pēṣayēl kramāl  /
+guḷikīkṛtya mūrddhāvil puraṭṭū mōhamāśu pōṃ  // Jyo_14.71 //
+
+tathā pītvā vraṇē liptvā jayēl kākōḷa sañcayaṃ  /
+pavitramētadvaṭakaṃ sañcitavyaṃ prayatnataḥ  // Jyo_14.72 //
+
+nābhī nirvviṣa pāṣāṇaṃ rasa gandhaka ṭaṅkaṇaṃ  /
+tuttuṃ manaśśilā hiṃgu turiśuṃ saindhavaṃ vacā  // Jyo_14.73 //
+
+aśvagandhaṃ viṣaṃ vyōṣaṃ triphalāni ca miśritaṃ  /
+śvētārkkamūlaṃ nērvvāḷaṃ garuḍadvayamiśritaṃ  // Jyo_14.74 //
+
+īśvarī mūlamāśritya daśapuṣpēṇa miśritaṃ  /
+sarvvāṇi samabhāgāni jaṃbīra rasamardditaṃ  // Jyo_14.75 //
+
+dinatrayaṃ marddayitvā tilamātrēṇa lēpayēl  /
+jihvāgrē lēpanaṃ mātraṃ talkṣaṇādēva naśyati  // Jyo_14.76 //
+
+tacchēṣaṃ vraṇalēpēna tal sarvvaviṣanāśanaṃ  /
+poṅkāraṃ tāmrakāraṃ ca nalkāraṃ navasāravuṃ  // Jyo_14.77 //
+
+tuttuṃ turiśu pāṣāṇaṃ rasaṃ trikaṭu saindhavaṃ  /
+gandhkaṃ vajranāgaṃ ca vājigandhaṃ pakunnayuṃ  // Jyo_14.78 //
+
+kārttoṭṭi karaḷēkaṃ ca karinocciyuḻiññayuṃ  /
+nīlī puṣkaramūlaṃ ca trttā kṛṣṇamatāyatuṃ  // Jyo_14.79 //
+
+uṅṅintōl dirigandhaṃ ca balāśvaṃ kāññirasya vēr  /
+sindhuvērṇḍabījaṅṅaḷēkōnaistriṃśadauṣadhaiḥ  // Jyo_14.80 //
+
+tūkkittulyamatākkīṭṭu yōjippū payasi kṣipēl  /
+arkkasnuhigavāṃ kṣīraṃ mūnuṃ yōjiccu tulyamāyå  // Jyo_14.81 //
+
+tasmin kṣiptvā dvisaptāhaṃ paścāduddhṛtya pēṣayēl  /
+kuḻaccu guḷikīkṛthya śōṣayēl niḻal tannilē  // Jyo_14.82 //
+
+viṣavēgāl paraṃ vēgamasyā+astīti tadvidaḥ  /
+nāmnā mṛtyuñjayākhyaiṣā sarvvolkṛṣṭā sukhapradā  // Jyo_14.83 //
+
+pāltuttuṃ gandhakaṃ nalla turiśuṃ nīṟṟumuṭṭayuṃ  /
+śvētamāṃ kunnitan bījaṃ purāṇamuḷakuṃ punaḥ  // Jyo_14.84 //
+
+iraññīkkurubījaṃ ca ellāmorō kaḻañcatāṃ  /
+gōmūtrattil pacikkēṇaṃ kariññīṭāte kaṇṭatå  // Jyo_14.85 //
+
+paṇattūkkaṃ catuṣṣaṣṭi rasaṃ tāṃbūlanīratil  /
+tālattilākki marddippū kuṟayāte dinatrayaṃ  // Jyo_14.86 //
+
+pinnē nannāyarakēṇamatu mūnnudinaṃ kramāl  /
+vēviccu mumpē veccuḷḷōrauṣadhaṅṅaḷumiṭṭuaṭan  // Jyo_14.87 //
+
+pēṣiccu koḷḷū toṇṇūṟu nāḻikā pinneyuṃ kramāl  /
+uruṭṭikkoṇṭuṇakkēṇaṃ kunnimātramanātapē  // Jyo_14.88 //
+
+daṣṭan mōhiccuvennakilatu veṟṟilanīratil  /
+pātiyampōṭaracciṭṭaṅṅoru kaṇṇil vilēpayēl  // Jyo_14.89 //
+
+ennālappuṟmaṃgattil jīvanuṇṭāṃ punastathā  /
+maṟṟēkkaṇṇilumañjiccāloḻiyuṃ viṣamokkayuṃ  // Jyo_14.90 //
+
+uḷḷil jīvanatillāykil nētramellāṃ veḷuttu pōṃ  /
+`emṛtuñjayāñjana'ntvētal prasiddhaṃ kṣvēḷanāśanaṃ  // Jyo_14.91 //
+
+añjnakkallumintuppuṃ pāltuttuṃ svarṇṇakāravuṃ  /
+vyōṣavuṃ pārataṃ nīlībījavuṃ tāmracūrṇṇavuṃ  // Jyo_14.92 //
+
+śaṃkhaccurṇṇavumellamē kaḻañconnara koḷḷuka  /
+nāgadantiyuṭē bījaṃ tūkkīṭṭoru kaḻañciha  // Jyo_14.93 //
+
+atil pāti muriṅṅēṭe bījavuṃ cērttu koṇṭatå  /
+ceṟunāraṅṅanīrtannil marddippū divasatrayaṃ  // Jyo_14.94 //
+
+ellāṃ tulyamatāyīṭṭuṃ kūṭṭīṭāmennu kēcana  /
+eṅkil pāratavuṃ nīlībījavuṃ parivarjjayēl  // Jyo_14.95 //
+
+sūkṣiccaraccu koṇṭāśu guḷikīkṛtya pinnatå  /
+sūryyaraśmi toṭātē kaṇṭuṇakkikkoṇtu saṃgrahēl  // Jyo_14.96 //
+
+tilapramāṇaṃ kṣvveḷārttanneḻutū raṇṭu kaṇṇiluṃ  /
+aṣṭādaśa viṣaṃ tīruṃ timiraṃ paṭalaṅṅaḷuṃ  // Jyo_14.97 //
+
+kācavuṃ sannipātaṅṅaḷ vividhaṅṅaḷumāśu pōṃ  /
+yakṣarākṣasagandharvva bhūtaprētādikāṃstathā  // Jyo_14.98 //
+
+piśācādīn jayiccīṭāṃ itukoṇṭiha satvaraṃ  /
+hṛdyamatyantamētattu nāmnāpi garuḍāñjanaṃ  // Jyo_14.99 //
+
+sindhūtthaṃ candanaṃ māñci tippalī muḷakuṃ punaḥ  /
+madhukaṃ padmavuṃ tulyaṃ gōmūtrattilarakkuka  // Jyo_14.100 //
+
+nāraṅṅanīriluṃ kūṭeyaraccāl guṇamēṟṟavuṃ  /
+guḷikā pūrvvaval kāryyā viṣamōhāñjanāya ca  // Jyo_14.101 //
+
+amarī tuḷasī dantī śigruniṃbaśirīṣajaṃ  /
+bījaṃ maricavuṃ tadval bakuḷattinṟe bījavuṃ  // Jyo_14.102 //
+
+guñjākarañjasañjātamellāmōrō kaḻañcatāṃ  /
+pālttuttuṃ raṇṭarattūkkaṃ kaḻañcappole ṭaṅkaṇaṃ  // Jyo_14.103 //
+
+añjanakkallumintuppumonnēkālāṃ kaḻañciha  /
+tūkkikkoṇṭivayellāmē patinēḻara niṣkavuṃ  // Jyo_14.104 //
+
+nāraṅganīriluṃ pinne tuḷasīdaḷanīriluṃ  /
+marddiccu koḷḷū toṇṇuṟu nāḻikā nēramiṅṅinē  // Jyo_14.105 //
+
+pinnegguḷikayākkīṭṭu sūkṣippū śuddhabhājanē  /
+viṣamōhaṃ kalarnnorkkaṅṅeḻutū nētrayōridaṃ  // Jyo_14.106 //
+
+viṣavuṃ mōhavuṃ nānānētrarōgaṃ ca bādhayuṃ  /
+sadyōnaśikkuṃ marttyānāṃ daśabījāñjanaṃ tvidaṃ  // Jyo_14.107 //
+
+muriṅṅatanmēluṇṭākuṃ muḷakuṃ bakuḷāsthiyuṃ  /
+nāraṅṅanīril pēṣiccu kaṇṇil tēppū viṣāpahaṃ  // Jyo_14.108 //
+
+barhibarhaṃ tilaṃ maññaḷ kārppāsakkuruvenniva  /
+umiyil cērttu dhūpippū satvaraṃ viṣanāśanaṃ  // Jyo_14.109 //
+
+kaḷḷiniṃbaḷ tanpatraṃ narakēśaṃ ca maññaḷuṃ  /
+umikūṭṭikkalarnniṭṭu daṃśē dhūpaṃ viṣāpahaṃ  // Jyo_14.110 //
+
+tilakalkkaṃ ca sindhūthaṃ caraṇāyudha piñchavuṃ  /
+kēkīpiñchamatuṃ kūṭṭippukaccal garaḷaṃ keṭuṃ  // Jyo_14.111 //
+
+mṛgacarmmaṃ tilaṃ pōtriviṣṭhayuṃ barhipiñchavuṃ  /
+viṣāmayēṣu dhūpiccal kṣayikkuṃ viṣamappoḻē  // Jyo_14.112 //
+
+mārjjārāsthi mayilppīli vyōṣaṃ nakularōmavuṃ  /
+āṭṭin pālil nanacciṭṭu dhūpiccāl garamāśu pōṃ  // Jyo_14.113 //
+
+śikhipiñchaṃ vacā hiṃgu laśunaṃ maricaṃ punaḥ  /
+cūrṇṇiccu kīritannelluṃ viṣārttē dhūpamācarēl  // Jyo_14.114 //
+
+viśvaṃ ca lōdhraṃ maricaṃ konna mālūravalkkauṃ  /
+paccōlappampu tannelluṃ dūpayēdviṣaśāntayē  // Jyo_14.115 //
+
+icconnauṣadhavuṃ raṇṭu mukhamāmuragāsthiyuṃ  /
+tīyiliṭṭu pukaccīṭū naṣṭamāṃ viṣamokkayuṃ  // Jyo_14.116 //
+
+pāṭhānirgguṇḍikāṅkōlaparṇṇaiśca laśunaṃ samaṃ  /
+marddiccu koṇṭu dhūpiccāl garaḷāmayanāśanaṃ  // Jyo_14.117 //
+
+vayampukoṭṭaṃ takaraṃ tēṟṟāmparalatin toli  /
+saindhavaṃ kaṭalakkāyuṃ śūliguñjāphalaṅṅaḷuṃ  // Jyo_14.118 //
+
+viṣavēgamatin vēruṃ śikhipiñchaṅṅaḷenniva  /
+tulyamāyatīnōṭoppaṃ yōjippū mātṛghātiyuṃ  // Jyo_14.119 //
+
+arddhāṃśaṃ laśunaṃ cērppū tadardhaṃ rāmaṭhaṃ punaḥ  /
+mēḷayitvācarēddhūpaṃ garamāśu vinaśyati  // Jyo_14.120 //
+
+itukoṇṭu gṛhaṃ tannil pukaccāl pāmpu pōṃ drutaṃ  /
+guḷikīkṛtyasēviccu koṇṭāluṃ nannitēṟṟavuṃ  // Jyo_14.121 //
+
+karinocciyuṭē vēruṃ vēppin kuruvatuṃ punaḥ  /
+cakōraśyēnapakṣaṅṅaḷ puṭṭalpīraṃ samūlavuṃ  // Jyo_14.122 //
+
+atilāṟonniriññittōl arakkeṭṭonnu kūṭṭuka  /
+mumpil cennauṣadhattoṭu kūṭṭi mēḷiccu koṇṭatå  // Jyo_14.123 //
+
+pukaccāl viṣamellāṃ pōṃ tathā vēṟiṭṭumāmitå  /
+aparāhnē pradōṣē vā pukappū sandhyaōrdvayōḥ  // Jyo_14.124 //
+
+iti jyōtsnikāyāṃ auṣadhādhikāraḥ
+
+[15]sarvvamahācikitsādhikāraṃ
+uṟitūkkiyuṭe mūlaṃ palaṃ nālpatu koḷḷuka  /
+veḷḷaṃ ṭaṅṅaḻiyōrōnnu kaṇṭu koḷvū palattinå  // Jyo_15.1 //
+
+kaṣāyaṃ veccariccīṭṭu nālonnāyālatil punaḥ  /
+nāḻi nalleṇṇayuṃ kūṭṭi kuṟukku mṛduvahniyil  // Jyo_15.2 //
+
+kaṣāyaṃ vecca vēṟ tanne kalkkattinnuṃ kalakkuka  /
+pākaṃ sūkṣiccaricciṭṭu saṃgrahippū prayatnataḥ  // Jyo_15.3 //
+
+tāṃbūlattil piraṭṭīṭṭu viṣārttan tinnukoḷḷukil  /
+nānāviṣaṅṅaḷuṃ tīruṃ talkṣaṇādēva nirṇṇayaṃ  // Jyo_15.4 //
+
+mayūraśikahyuṃ barhibarhavuṃ tuṇitannilē  /
+erikkinpajjiyuṃ kūṭṭi tiriyākkitteraccatå  // Jyo_15.5 //
+
+itil mukkikkoḻuttīṭṭu pukappū raṇṭu mūkkiluṃ  /
+vāyiluṃ kūṭeyennākil kṣayikkuṃ viṣamokkeyuṃ  // Jyo_15.6 //
+
+dantakṣatasamīpatte rōmarāśi poriccuṭan  /
+toṭṭutēccīṭiluṃ kṣvēḷaṃ tīrnnupōmaprayāsataḥ  // Jyo_15.7 //
+
+dārvvī phalatrayaṃ tumpa prasūnaṃ bakuḷāsthiyuṃ  /
+araccu tuṇiyil tēcciṭṭatināl maṣi veccuṭan  // Jyo_15.8 //
+
+eḻutū kaṇṇilennāluṃ guṇaṃ tanne viṣāmayē  /
+ētattu vastraśakalaṃ nasyamasmin viṣāpahaṃ  // Jyo_15.9 //
+
+rasamintuppu poṅkāraṃ kaṇṭāmṛgaviṣāṇavuṃ  /
+kāyaṃ śirīṣaniryyāsaṃ nirvviṣaṃ karaḷēkavuṃ  // Jyo_15.10 //
+
+samaṃ nāraṅṅanīrrtannilaraccu divasatrayaṃ  /
+muriṅṅatannuṭē mūlaṃ puṟantōlu kaḷaññuṭan  // Jyo_15.11 //
+
+aṭukkaṭukkal kottikkoṇṭatinmēl tēccu koṇṭitå  /
+erukkunūlināl bandhiccaṭuppēṟattu tūkkuka  // Jyo_15.12 //
+
+dhūmaṃ kēmaṃ piṭiccālaṅṅeṭuttiṭṭatu sādaraṃ  /
+curaṇṭikkoṇṭatellāmē kiñcil tōlōṭu kūṭavē  // Jyo_15.13 //
+
+sūkṣmamāyippoṭicciṭṭu saṃgrahēl svacchabhājanē  /
+daṣṭan mōhicciṭunnākil paṇattūkkameṭuttatå  // Jyo_15.14 //
+
+raṇṭu kaṇṇilumiṭṭēppū tulyamāyippakuttatå  /
+raṇṭu nāḻika cellumpōḷ kaśmalaṃ pōyuṇarnniṭuṃ  // Jyo_15.15 //
+
+uṣṇiccu vēdanappeṭṭu jalē vīḻānorumpeṭuṃ  /
+piṭiccu veyppū yāmārddhaṃ cennāluṣṇaṃ śamicciṭuṃ  // Jyo_15.16 //
+
+nasyaṃ ceytīṭiluṃ śīghramuṇaruṃ viṣamōhitan  /
+tathā pānaṃ tathā lēpaṃ karōtu nikhilē viṣē  // Jyo_15.17 //
+
+sadyasvasthōbhavēddaṣṭan cūrṇṇarājaprabhāvataḥ  /
+ētaccurṇṇaṃ gurōrllabdhamavācyaṃ yasya kasyacil  // Jyo_15.18 //
+
+siddhauṣadhaprayōgaṃ (onnå)  /
+śiraśchitvā hatvā dvimukhabhujagaṃ kutracidamuṃ
+pidhāyādhassamyaṅṅ mṛdutaramṛdārakṣyamaniśaṃ  /
+cirātītē dhṛtvāmṛdamapi ca tāmasthisahitāṃ
+tataḥ piṣṭvā lēpapramukhavidhinā naśyatigaraṃ  // Jyo_15.19 //
+
+(bhāṣā)
+iruttalappāmpeyaṭiccu konniṭṭataccu veyppū maṇaliṭṭu mūṭi  /
+tanmāṃsacarmmaṅṅaḷatokkavē tān drviccupōṃ kālameṭuttu koḷḷū  // Jyo_15.20 //
+
+tadasthiyuṃ maṇṇumatokkeyoppaṃ
+poṭiccu sūkṣiccoru vēṇupātrē  /
+viṣappeṭunnēramaraccukiñcil
+talōṭukennāluṭanē viṣaṃ pōṃ  // Jyo_15.21 //
+
+(raṇṭå)
+caturaśramatāyiṭṭaṅṅarayōḷaṃ kuḻikkaṇaṃ  /
+atil kāññiravṛkṣattōluṃ patraṅṅaḷuṃ samaṃ  // Jyo_15.22 //
+
+iṭicciṭṭu nikattīṭṭu maṇṇu koṇṭāśu mūṭuka  /
+talpakvaṅṅaḷ piḻiññuḷḷa rasaṃ marddiccu koṇṭatå  // Jyo_15.23 //
+
+mītē pakarnnu divasamēḻucennāl śubhē dinē  /
+veḷutta vēḷatanbījaṃ naṭukoṇṭu nanakkuka  // Jyo_15.24 //
+
+nālu kōṇattumōrōrō kāññirakkuṟṟiyiṭṭuṭan  /
+kōṭinūlkoṇṭu cuṟṟēṇaṃ darbhakoṇṭuṃ yathākramaṃ  // Jyo_15.25 //
+
+dinaṃ tōṟumatarccippū japippū jalavuṃ punaḥ  /
+dīpavuṃ veccu koḷḷēṇaṃ sandhyayiṅkal dinaṃ prati  // Jyo_15.26 //
+
+pūvuṃ kāyuṃ niṟaccāyālatinnadhikavīryyavuṃ  /
+jīvanuṃ kūṭeyuṇṭāyītennuṃ cinticcu koḷḷuka  // Jyo_15.27 //
+
+ēkabhōjanavuṃ ceytu śuddhamāyiddinatrayṃ  /
+nālāṃdivasamutthāya puṣpaṃ taṇḍulamenniva  // Jyo_15.28 //
+
+arcciccatu valaṃ vēccu kūppininnu japiccuṭan  /
+poricceṭuttiṭṭatināl prayōgaṃ palatuṇṭiha  // Jyo_15.29 //
+
+araccu guḷikīkṛtya samūlaṃ tuḷasījalē  /
+kunnipramāṇaṃ sēvippū niśśēṣa viṣanāśanaṃ  // Jyo_15.30 //
+
+rōmakūpēṣu sarVVaṃgaṃ cōrakkaṇkilatinniha  /
+erumaccaṇakanīril samūlaṃ kaṇṭaraccatå  // Jyo_15.31 //
+
+sarvvaṃgaṃ lēpanaṃ ceyvū kuṭippippū nṛkē+api vā  /
+raktadūṣyaṅṅaḷellāṃ pōṃ tīruṃ kākōḷavuṃ drutaṃ  // Jyo_15.32 //
+
+karṇṇaṅṅaḷūṭe raktaṅṅaḷuṭanē vannateṅkilō  /
+nālunāḻikacellumpōḷ viṣamikkumatōrkkaṇaṃ  // Jyo_15.33 //
+
+gōmūtrattilaracciṭṭu daṃśicceṭaṃ piraṭṭuka  /
+prasravattil tathā nasyaṃ ceytukoḷkatu nanniha  // Jyo_15.34 //
+
+tathā veṟṟilanīrtannil taḻaccañjanamācarēl  /
+kaṇinnanakkamillāññāl śivanē gati nirṇṇayaṃ  // Jyo_15.35 //
+
+manaśśilayatuṃ vyōṣavuṃ śuddhavēḷayuṃ  /
+tulyaṃ kūṭṭiyarakkēṇam kaḷḷitanpālaticciraṃ  // Jyo_15.36 //
+
+caturakkaḷḷitan pālil erukkinpāliluṃ tathā  /
+tāṃbūlanīriluṃ piṣṭvā tuṇiyil tēccukoḷḷuka  // Jyo_15.37 //
+
+ōrōraravu cellumpōḷ uṇakkikkoṇṭatarakkaṇaṃ  /
+uṇakkamennuḷḷatō pinne veyilattarutētumē  // Jyo_15.38 //
+
+tuṇiyē tiriyākkīṭṭaṅuṇakkikkoṇṭu saṃgrahēl  /
+daṣṭannu mōhamuṇṭākil tiri katticcu neyyatil  // Jyo_15.39 //
+
+mūkkil puka karēṟṟīṭū ēḻuvaṭṭamataṅṅine  /
+kuḻal veccūti nannāyi mūkku raṇṭuṃ piṭikkuka  // Jyo_15.40 //
+
+appōḷ kaṇṇu miḻiccīṭuṃ miḻiyāykil varuṃ mṛti  /
+viṣavuṃ pukayuṃ daṃśē kāṇāṃ jīvanirikkilō  // Jyo_15.41 //
+
+dēhaṃ kṛṣṇamatāyīṭil mṛtitanne varuṃ drutaṃ  /
+tadvastraṃ raṇṭu viralinnakalaṃ tumpanīratil  // Jyo_15.42 //
+
+tuḷsīniriluṃ kūṭippiḻiññiṭṭatilañjasā  /
+gōghṛtaṃ kāśuvaṭṭattil pakarnniṭṭaṅkuṭikkuka  // Jyo_15.43 //
+
+kṣvēḷajālamaśēṣaṃ pōṃ mṛtiyuṇṭeṅkilappoḻē  /
+rōmakūpēṣu vannīṭuṃ sēviccōrauṣadhaṃ nṛṇāṃ  // Jyo_15.44 //
+
+ētal samūlaṃ cūrṇṇiccu muntiriṅṅayatuṃ punaḥ  /
+purāṇamuḷakuṃ vyōṣaṃ tārkṣyacūrṇṇavumenniva  // Jyo_15.45 //
+
+samāṃśaṃ poṭi vastrattiliṭṭaricciṭṭeṭuttuṭan  /
+saṃgrhēl śṛṃgapātrēṣu vimalēṣu bhiṣagvaraḥ  // Jyo_15.46 //
+
+viṣārttanāgamiccīṭil piḻiññāśu muyalccevi  /
+pātrattilākki daṣṭanṟe vāmahastē koṭukkuka  // Jyo_15.47 //
+
+maṟṟēkkai koṇṭu cūrṇṇatte kāśuvāṭṭamatil kṣipēl  /
+tajjalaṃ kṛṣṇamāyīṭil mariccīṭumasaṃśayaṃ  // Jyo_15.48 //
+
+allāykilatu sēviccāl kṣayikkuṃ kṣvēḷavuṃ dṛḍhaṃ  /
+tal cūrṇṇaṃ kuḻal vecciṭṭu mūkkilūtikkarēṟṟuka  // Jyo_15.49 //
+
+mōhiccavanuṇarnnīṭuṃ iṟaṅṅītuṃ viṣaṅṅaḷuṃ  /
+atyantaṃ śuddhamētattu dēyaṃ śuddhāya kēvalaṃ  // Jyo_15.50 //
+
+ānappiṇṭi mayilppili koḻiññil karaḷēkavuṃ  /
+śuṣkamāṃ gōmayaṃ vēḷayivayellāmeṭuttuṭan  // Jyo_15.51 //
+
+mūrrddhviṅkannu kīḻppōṭṭēykkuḻivū naṣṭamāṃ viṣaṃ  /
+atu pinne vraṇattinṟe kiñcil dūrē vinikṣipēl  // Jyo_15.52 //
+
+dēvatāpīdayuṃ bālagrhapīda viṣaṅṅaḷuṃ  /
+yakṣagandharvvabhūtādibādhayuṃ tīrnnupōṃ dṛḍhaṃ  // Jyo_15.53 //
+
+śuddhavēḷayiṭicciṭṭu samūlaṃ piḻivū jalē  /
+tīmmēl veccu kuṟukkīṭṭu pāti vaṟṟukilappoḻē  // Jyo_15.54 //
+
+viṣasuptanuṇarnnīṭuṃ alleṅkil jīvanillayāṃ  /
+etrayuṃ buddhimuṭṭīṭil ceyyāmarutatenniyē  // Jyo_15.55 //
+
+lēhājyatailaguḷikayāyatinokkeyuṃ  /
+ēkāṃśaṃ vēḷayuṃ kūṭṭikkoḷvū samūlavuṃ  // Jyo_15.56 //
+
+guptamētattu śāstrēṣu viṣāṇāṃ paramauṣadhaṃ  /
+gurūpadēśatōjñātvā tattal karmma samācarēl  // Jyo_15.57 //
+
+kāññirattin paḻattinṟe paśa marddicceṭuttuṭan  /
+ēśunāḷ vayilattākkīṭṭuṇakkēṇamatil punaḥ  // Jyo_15.58 //
+
+vayampuṃ perutāṃ kāyaṃ mēttōnnikkandamenniva  /
+tūkkippātiyatil kūṭṭi marddippū divasatrayaṃ  // Jyo_15.59 //
+
+tasmin punaḥ sōmanādikāyaṃ nālonnu cērttuṭan  /
+caturakkaḷḷitan pālil marddippū divasatrayaṃ  // Jyo_15.60 //
+
+tēṅṅāttoṇḍiyilākkīṭṭu sūkṣippū yatnataḥ punaḥ  /
+kayyinmēl tēcukoṇṭīṭil ellā sarppaṃ piṭikkalāṃ  // Jyo_15.61 //
+
+itu nasyattinuṃ nannu mōhavuṃ viṣavuṃ keṭuṃ  /
+marddiccu kaṭikoṇṭēṭaṃ piraṭṭīṭuvatinnumāṃ  // Jyo_15.62 //
+
+muriṅṅavērmēlttoliyuṃ vayampuṃ kāyavuṃ punaḥ  /
+tryūṣaṇaṃ ca tathā dugdhī nīlīmūlavumenniva  // Jyo_15.63 //
+
+kāṭitannilaracciṭṭu kayyinmēl tēccu koṇṭatå  /
+piṭiccukoṇṭāl pāmponnuṃ kaṭiccīṭukayilliha  // Jyo_15.64 //
+
+pānalēpāñjanādikkuṃ nannēṟṟaṃ viṣasaṅkaṭē  /
+dhūpiccukoḷkayatinālennāluṃ tīrnnupōṃ viṣaṃ  // Jyo_15.65 //
+
+kāññirattin muraṭṭuṇṭāyatinmēlāśrayicceḻuṃ  /
+karaḷēkamatinmūlaṃ pēṣicciṭṭu bhujaṅṅaḷil  // Jyo_15.66 //
+
+tēccukoṇṭu bhujaṃgatte piṭicciṭṭu kaḷikkalāṃ  /
+kaṭiyā vā piḷarnnīṭā tathā nāgaṅṅaḷonnumē  // Jyo_15.67 //
+
+sphōṭikāmūlavuṃ dūrvvā raṇṭuṃ kūṭṭiccavaccuṭan  /
+ūtikkoḷkamukhttennāl pāmponnuṃ vā piḷarnniṭā  // Jyo_15.68 //
+
+vyōṣavuṃ viṣavēgattinvēruṃ vāyilirikkilō  /
+avaneppāmpu kaṭiyā kaṭicciṭil viṣaṃ nahi  // Jyo_15.69 //
+
+aṅkuriccuyarappeṭṭa kāraskaramatin kuru  /
+ilapōkki kkarēcērttu piṭiccāl kaṭiyā phaṇi  // Jyo_15.70 //
+
+urukkō vaḷayō tīrttiṭṭatilākki dhariykkiluṃ  /
+viṣabhīti varā nūnaṃ piṣṭvā tēppū viṣāpahaṃ  // Jyo_15.71 //
+
+veḷḷaṃ taṭṭātaṅkuriccu nilkkunna mūruvaḷḷi tan  /
+mūlaṃ poriccukāṭṭīṭil pāññupōṃ sarppamokkeyuṃ  // Jyo_15.72 //
+
+viladvārattiliṭṭēccāl atil pāmpu kṭanniṭā  /
+ammarunnu koṭuttīṭil staṃbhiccīṭuṃ bhujaṃgamaṃ  // Jyo_15.73 //
+
+atupēṣiccu tēccāluṃ kuṭiccīṭukiluṃ tathā  /
+viṣapīdakaḷellāṃ pōṃ kṣipramauṣadhavīryyataḥ  // Jyo_15.74 //
+
+caturakkaḷḷi tanmūlaṃ vaṭakkōṭṭāśrayiccatå  /
+dhṛtvā karkkaṭamāsattil sūryyavārē+ ayasā vinā  // Jyo_15.75 //
+
+dhariccu koṇtāl sarppādi kākōḷaṅṅaḷakappeṭā  /
+citranāḷ panamēlittiḷ paṟicciṭṭu dharikkiluṃ  // Jyo_15.76 //
+
+ētanmarddiccu tēccāluṃ kuṭiccīṭukiluṃ punaḥ  /
+kṣvēḷamellāṃ oḻiññīṭuṃ daṣṭānāṃ kṣipramēva ca  // Jyo_15.77 //
+
+kunnamakkiyuṭē mūlaṃ śastraṃ kūṭāteṭuttuṭan  /
+aṃgulīyattilākkīṭṭu viralmēliṭṭu koṇṭatå  // Jyo_15.78 //
+
+caviṭṭīṭukiluṃ tāval kaṭiccīṭā bhujaṃgamaṃ  /
+veḷuttirikkuṃ kūmuḷḷin mūlaṃ koṇṭannu kāṭṭuka  // Jyo_15.79 //
+
+kaṭattīṭukiluṃ tadval gamiccīṭā bhujaṃgamaṃ  /
+poricciṭṭañjalīkaraṃ pālilppēṣiccu koṇṭatå  // Jyo_15.80 //
+
+kayyil veccatu kāṭṭīṭil varuṃ cārattu pāmpukaḷ  /
+kāṭiyil truṭi pēṣiccu taḷiccāl pāmpu pōṃ drutaṃ  // Jyo_15.81 //
+
+uḷḷiyuṃ kappalmuḷakuṃ kāyavuṃ nārakattila  /
+kūṭṭippukaccāl pāmpellāṃ maṟṟorēṭattu pāññu pōaṃ  // Jyo_15.82 //
+
+
+iti jyōtsnikā cikitsāyāṃ sarvvamahācikitsādhikāraḥ
+
+
+[16]sarppōlpatti
+praṇamya dantirājasya vadanaṃ sadanaṃ śriyaḥ  /
+vakṣyē sarppanvayōlppattiṃ bhāṣayā kēraḷākhyayā  // Jyo_16.1 //
+
+anantōguḷikaścaiva vāsukī śaṃkhpālakaḥ  /
+takṣakaśca mahāpadmaḥ padmaḥ kārkkōṭakastathā  // Jyo_16.2 //
+
+nālu vaṃśattiluṃ kkūṭe eṭṭu nāgaṅṅaḷiṅṅine  /
+saṃbhaviccitu pōl paṇṭu bhīmakāmaśarīrikaḷ  // Jyo_16.3 //
+
+viprasarppaṅṅaḷākunnu śēṣanuṃ guḷikāhiyuṃ  /
+vaiśvānaranṟe putranmār varṇṇavuṃ vahni pōleyāṃ  // Jyo_16.4 //
+
+sahasraṃ kuṟayātuṇṭu phaṇamicconnavarkkiha  /
+phaṇaṅṅaḷkkokkeyuṃ pārttāl cakraṃ pōlaṭayāḷamāṃ  // Jyo_16.5 //
+
+indrātmajanmārākunnū vāsukī śaṃkhapālakau  /
+varṇṇavuṃ pītamāyuḷḷū rājasarppaṅṅaḷāmavar  // Jyo_16.6 //
+
+mastakaṅṅaḷumeṇṇūṟītuṇṭu pōl aṭayāḷavuṃ  /
+lāṃgalaṃ pōleyākunnu phaṇaṅṅaḷkkennu kēḷppitå  // Jyo_16.7 //
+
+takṣakaśca mahāpadmastatō vāyusutāvubhau  /
+vaiśyajātikaḷākunnu dēhavuṃ śyāma varṇṇamāṃ  // Jyo_16.8 //
+
+aññūṟu phaṇavuṃ tēṣāṃ chatraṃ pōalaṭayāḷavuṃ  /
+śūdrajātikaḷāyīṭuṃ padmakārkkōṭakāhikaḷ  // Jyo_16.9 //
+
+avarkku tātan varuṇan dēhavarṇṇaṃ veḷuttumāṃ  /
+tatyōḥ phaṇaṅṅaḷ munnūṟītavaṟṟil svastikāṅkavuṃ  // Jyo_16.10 //
+
+eṭṭupērkkuṃ sutanmāraññūṟītuḷavāyipōl  /
+ajarā+amaraṇāssarvvē tātatulyā bhujaṃgamāḥ  // Jyo_16.11 //
+
+avarkkuṃ makkaḷuṇṭāyī saṃkhyakūṭāte pāmpukaḷ  /
+mikkatuṃ konnu bhakṣiccāl vainatēyan mahābalan  // Jyo_16.12 //
+
+anantan viṣṇuveccennu sēviccān kṣīrasāgarē  /
+tathā vāsukicenniṭṭu śaṅkaraṃ śaraṇaṃ yayau  // Jyo_16.13 //
+
+indraneccennu sēviccān takṣakan tānumaṅṅine  /
+śēṣiccavar bhayappeṭṭu nānādēśāntaraṅṅaḷil  // Jyo_16.14 //
+
+pukkoḷiccu vasiccīṭunnuṇṭu pōlinnumaṅṅine  /
+pārāvārōdarē śailakandarē balimandirē  // Jyo_16.15 //
+
+indrālaye ca bhūmau ca vasiccīṭunnu bhōgikaḷ  /
+mūrkhan maṇḍali rājilamivar bhūmau vasiccavar  // Jyo_16.16 //
+
+vēntiranmārumuṇṭāyītavaṟṟin saṅkaraṅṅaḷāy  /
+mūrkhanmārirupattiyāṟu jāti maṇḍali ṣōḍaśa  // Jyo_16.17 //
+
+rājilaṃ patimūnnuṇṭu mūvvēḻuṇṭaṅṅu vēntiran  /
+karkkaṭāditrimāsattiluṇṭāṃ sarppikku garbhavuṃ  // Jyo_16.18 //
+
+nālumāsaṃ tikaññīṭuṃnēraṃ muṭṭayiṭuṃ kramāl  /
+eḻēḻu muṭṭa mūnnēṭattirupattonnaṅṅine  // Jyo_16.19 //
+
+cukannuṃ pītamāyiṭṭuṃ miśramāyiṭṭumāmatå  /
+cukannatellāṃ strīliṃgaṃ puruṣan pītamāyatå  // Jyo_16.20 //
+
+miśramāyiṭṭiriykkunnatellāṃ jāti napuṃsakaṃ  /
+aviṭekkāttu ninnīṭuṃ muṭṭayiṭṭoru pāmpu tān  // Jyo_16.21 //
+
+patinañcu dinaṃ cennālaṇḍaṃ poṭṭiśśiśukkaḷāṃ  /
+nīḷamañcaṃgulaṃ dēhaṃ cukannu tala kṛṣṇamāṃ  // Jyo_16.22 //
+
+tāntanneyellāṃ tinnīṭuṃ mūnninettinkayilla pōl  /
+ennatil strīyatāmonnu puruṣan tanne maṟṟatå  // Jyo_16.23 //
+
+napuṃsakamatāyīṭṭu mūnilonnu varuṃ dṛḍhaṃ  /
+ēḻu rātri kaḻiññālī mūnnuṃ kāṇṇu miḻicciṭuṃ  // Jyo_16.24 //
+
+pinnepatinañcu dinaṃ cennāl subōdhamuḷavāyvaruṃ  /
+tadā sūryyanē nōkkīṭṭu bhajikkuṃ dṛḍhamāyavan  // Jyo_16.25 //
+
+ēvaṃ viṃśati nāḷ cēnnāl pallu muppattiraṇṭuḷāṃ  /
+nāluṇṭatil viṣappallå vāmadakṣiṇapārśvagaḥ  // Jyo_16.26 //
+
+`ekarāḷī' `emakarī' `ekāḷarātrī' ca `eyamadūtikā'  /
+icconna nālupallinnuṃ viṣavṛddhi yathākramaṃ  // Jyo_16.27 //
+
+orumāsēna siddhikkuṃ pinne mātāvu pōṃ vaḻi  /
+sañcarikkuṃ sadā kālaṃ taḷḷayēppiriyuṃ punaḥ  // Jyo_16.28 //
+
+āṟu māsaṃ kaḻiññīṭil tōl kiḻikkuṃ kramāl punaḥ  /
+kainīḷaṃ nīḷamuṇṭākuṃ vatsarārdhēna pāmpukaḷ  // Jyo_16.29 //
+
+icconna kālattallāte janikkuṃ vēntirāhikaḷ  /
+mūrkhādi mūnupāmpinnuṃ vātapittakaphaṃ kramaṃ  // Jyo_16.30 //
+
+dōṣaṃ miśramatāyīṭuṃ vēntirāhikkatokkavē  /
+phaṇavuṃ vēgavuṃ pāramuṇṭāṃ darvvīkarāhināṃ  // Jyo_16.31 //
+
+nīḷaṃ curuṅṅi mēlellāṃ maṇḍalākāra rēkhayuṃ  /
+śīghraṃ gamiccu kūṭāte kāṇāṃ maṇḍalijātiye  // Jyo_16.32 //
+
+nīḷattiluṃ vilaṅṅattuṃ bahurēkhakaḷ pūṇṭuṭan  /
+snēhaṃ piraṇṭapōlākuṃ rājilaṅṅaḷatokkayuṃ  // Jyo_16.33 //
+
+pāmpinnirupuṟaṃ kūṭippādamuṇṭirupattunāl  /
+atyantaṃ cerutāyuḷḷū kāṇmān paṇiyēṟṟavuṃ  // Jyo_16.34 //
+
+nētraṅṅaḷ koṇṭu śabdattegrahikkuṃ karṇṇamilla pōl  /
+jihvāgraṃ raṇṭatāṃ pāmpinnokkeyuṃ kōpavuṃ bahu  // Jyo_16.35 //
+
+iṭiyuṃ mayiluṃ pūcca panni cennāya kīriyuṃ  /
+tathā śyēna cakōrādiyonnuṃ konnillayeṅkilō  // Jyo_16.36 //
+
+nūṟṟeṭṭu vatsaraṃ pinnēyoru pantraṇṭu varṣavuṃ  /
+jīviccirikkuṃ sarppaṅṅaḷokkeyuṃ dharaṇītalē  // Jyo_16.37 //
+
+
+iti jyōtsnikā cikitsāyāṃ nāgōlppattikramādhikāraḥ
+
+
+[17]sarppalakṣaṇādydhikāraṃ
+śēṣādyṣaṭa bhujaṃgānāṃ pravakṣyē dēhalakṣaṇaṃ  /
+sañcārasamayaṃ caiṣāṃ nivāsasthalamapyatha  // Jyo_17.1 //
+
+anantannu śirassiṅkal kaṇṇiluṃ binduvuṇṭiha  /
+stabdhaṅgaḷākuṃ nētraṅṅaḷīvaṇṇaṃ lakṣaṇaṅṅaḷāṃ  // Jyo_17.2 //
+
+vāsukiykkuttamāṃgattil svastikaṃ pōle rēkhayuṃ  /
+iṭattē bhāgamē kūṭe vīkṣaṇaṅṅaḷumāyvaruṃ  // Jyo_17.3 //
+
+takṣakāhi valattūṭe kaṭākṣikkuṃ muhurmmuhuḥ  /
+avannu vēgavuṃ pāraṃ mūrddhāvil pañcabinduvuṃ  // Jyo_17.4 //
+
+śūlarēkhaśirassiṅkalurassyarddhēndu rēkhayuṃ  /
+kaṇṭharēkha sadāyānamapi kārkkoṭakanniha  // Jyo_17.5 //
+
+pucchamēṟṟamiḷakkīṭuṃ padmanāṃ phaṇināyakan  /
+avnnu mastakattiṅkal padmaṃ pōluḷḷa rēkhyuṃ  // Jyo_17.6 //
+
+nimēṣavuṃ sadākālaṃ kaṇṭhattil mūnnu rēkhayuṃ  /
+indīvarāṅkavuṃ mūrddhni mahāpadmannu lakṣaṇaṃ  // Jyo_17.7 //
+
+śaṃkhappālannu mūrddhāvil śaṃkhu pōluḷḷa rēkhyuṃ  /
+bhīṣaṇākāramāyuḷḷa nōkkumuṇṭāṃ punaḥ punaḥ  // Jyo_17.8 //
+
+niśvāsōcchvāsaśabdaṅṅaḷ pāramāṃguḷikanniha  /
+tattajjātiyiluḷḷorkkumīvaṇṇaṃ tanne lakṣaṇaṃ  // Jyo_17.9 //
+
+pūrvvāhnē sañcariccīṭuṃ viprasarppaṅṅaḷokeyuṃ  /
+bhakṣikkuṃ vāyuvettanne collāṃ vāḻunna dēśavuṃ  // Jyo_17.10 //
+
+nidhinikṣepadhānyaṅṅaḷ saṃgrahikkunna śālayil  /
+parvvatēṣu vanēṣvēva santataṃ ca vasanti tē  // Jyo_17.11 //
+
+rājasarppaṅgaḷ maddhyahanē sañcarikkuṃ bhayaṃ vinā  /
+avarkku bhakṣaṇattinnu mūṣikanmārumāyvaruṃ  // Jyo_17.12 //
+
+prākāraṅṅaḷiluṃ tadval puṇyavṛkṣaṅṅaḷ tanniluṃ  /
+vasikkuṃ rājasappaṅṅaḷ padmaṣaṇḍādiyiṅkaluṃ  // Jyo_17.13 //
+
+tathā sāyāhanakālattu carikkuṃ vaiśyajātikaḷ  /
+bhakṣaṇattinnu maṇḍūkamākumicconnavarkkiha  // Jyo_17.14 //
+
+teruvīthiyiluṃ nānā bhūruhaṅṅaḷiluṃ punaḥ  /
+puramuṟṟattaṭuttēṭaṃ kūṭe vāḻuṃ sadaiva tē  // Jyo_17.15 //
+
+śūdrādikaḷkku sañcāraṃ rātriyiṅkalatāyvaruṃ  /
+labhiccatellāṃ bhakṣikkuṃ vāṇīṭuṃ jalasannidhau  // Jyo_17.16 //
+
+yajñālayē paśugṛhē jīrṇṇakūpē catuṣpathē  /
+kaṇṭakāḍhyadrumēṣvēva dvīpēṣu ca vasanti tē  // Jyo_17.17 //
+
+maṇavuṃ mārddavaṃ pāraṃmuḷḷa puṣpaṅṅaḷokkeyuṃ  /
+bhakṣikkuṃ brāḥmaṇanmārāṃ sarppajātikaḷokkavē  // Jyo_17.18 //
+
+tathā bhūpāla nāgaṅṅaḷ bhujikkunnava colluvan  /
+kṣīraṃ tuṣāratōyādi svādudravyaṅṅaḷāmiva  // Jyo_17.19 //
+
+ūravyōragamellāmē bhakṣikkuṃ lavaṇāmiṣaṃ  /
+bhēkādi munpē connuḷḷatavayuṃ kaṇṭukoḷḷuka  // Jyo_17.20 //
+
+śūdrajātikaḷāyīṭuṃ pannaganmārkkorikkaluṃ  /
+bhakṣaṇadrvyakṛtyaṅṅaḷillapōl colluvāniha  // Jyo_17.21 //
+
+sabhāyāṃ dēvagēhē ca kṣētrē śūnyagṛhē tathā  /
+palāśāśvatthavṛkṣēṣu vasanti dvijapannagāḥ  // Jyo_17.22 //
+
+kuḍyādau ca rathattinmēlattiyāl puḷi tanniluṃ  /
+śiṃśapārjjunavṛkṣēṣu vasantyēva nṛpōragāḥ  // Jyo_17.23 //
+
+murukkumilavuṃ maṟṟuṃ kaṇṭakāḍhyadrumaṅṅaḷil  /
+jalakūpattiluṃ kūṭe vāṇiṭuṃ vaiśyajātikaḷ  // Jyo_17.24 //
+
+sarvvatramēvuṃ śūdranmārāya sarppaṅṅaḷokkayuṃ  /
+valmīkattilitellāruṃ vāṇiṭuṃ sarppajātikaḷ  // Jyo_17.25 //
+
+puttan maḻa varuṃ kālaṃ mṛtgandhānubhavāśayā  /
+sañcarikkuṃ sadā kālaṃ sarvvē sarvvatra bhōginaḥ  // Jyo_17.26 //
+
+ūrddhvalōkattu nōkkīṭuṃ viprasarppaṅṅaḷokkayuṃ  /
+nērē nōkkuṃ rājasarppaṃ raṇṭu bhāgattu vaiśyanuṃ  // Jyo_17.27 //
+
+kīḻppōṭṭu bhūmiyē nōkkiyāṭīṭuṃ śūdrajātikaḷ  /
+taṅṅaḷ taṅṅaḷ vasikkunna dēśattiṅkannatokkeyuṃ  // Jyo_17.28 //
+
+sañcarikkunna nērattuṃ kaṭiccīṭuṃ bhuñaṃgamaṃ  /
+kāladēśaṅṅaḷ cinticcu jātiyē niścayikkaṇaṃ  // Jyo_17.29 //
+
+pannagaṅṅaḷ kaṭiccīṭān kāraṇaṃ palatuṇṭiha  /
+bhītikoṇṭuṃ kaṭicciṭuṃ madam koṇṭuṃ tathaiva ca  // Jyo_17.30 //
+
+viśappuṃ dāhavuṃ pāraṃ peruttāluṃ kaṭicciṭuṃ  /
+putranāśaṃ varuttīṭumennōrttuṃ muṭṭayiṭṭa nāḷ  // Jyo_17.31 //
+
+kaṭikkuṃ pinnatallāte sparśiccāluṃ kaṭicciṭuṃ  /
+bhakṣaṇadravyamennōrttuṃ daṃśiccīṭuṃ bhujaṃgamaṃ  // Jyo_17.32 //
+
+viṣaṃ varddhiccu sahiyātirikunnēravuṃ tathā  /
+janmāntaraṅṅaḷil dvēṣamuḷḷa pāmpuṃ kaṭicciṭuṃ  // Jyo_17.33 //
+
+vairamuḷḷatu daṃśiccal varuṃ maraṇamañjasā  /
+madaṃ koṇṭukaṭiccāluṃ tathā tekkōṭṭu pōṃ dṛḍhaṃ  // Jyo_17.34 //
+
+kōpicciṭṭākiluṃ tadval pinne kṣuttuḷḷateṅkilō  /
+viṣamēṟṟamatuṇṭākuṃ nirvviṣaṃ bhītasarppajaṃ  // Jyo_17.35 //
+
+maṟṟuḷḷa hētuvvāleṅkil kṣipraṃ nīkkīṭalāṃ viṣaṃ  /
+veḷḷattil vīṇappampinnu viṣamēṟṟaṃ kṣayiccupōṃ  // Jyo_17.36 //
+
+pēṭiccatinnu kākōḷaṃ nitarāṃ svalpamāyvaruṃ  /
+krīḍakoṇṭu taḷarnnuḷḷa ppampinuṃ punaraṅṅine  // Jyo_17.37 //
+
+pāññu pāññanyadēśattu pōnnatinnuṃ kṛśaṃ viṣaṃ  /
+kīriyōṭēṟṟutōṟṟiṭṭu pāñña pāmpatinuṃ tathā  // Jyo_17.38 //
+
+maṇḍūkādikaḷettinna nēravuṃ svalpamāṃ viṣaṃ  /
+viṣaśānti varuttunnōrauṣadhttinṟe kīḻilō  // Jyo_17.39 //
+
+cirakālaṃ kiṭannōru pāmpinnuṃ svalpamāṃ viṣaṃ  /
+tēṣāṃ balābalattinnu takkavaṇṇaṃ cikitsakaḷ  // Jyo_17.40 //
+
+ceyvū mantrauṣadhādyaiśca guruvākyakramāl bhiṣak  /
+anuvartticciṟakkēṇaṃ viprarājāhikaḷ viṣaṃ  // Jyo_17.41 //
+
+anyasarppaviṣaṃ vidvān balālkkārēṇa saṃharēl  /
+icconnatellāṃ cinticcu rakṣikka viṣadaṣṭane  // Jyo_17.42 //
+
+varddhikkuṃ kīrttiyāyussuṃ labhikkuṃ maṃgalaṅṅaḷuṃ?
+
+iti jyōtsnikā cikitsāyāṃ sarppalakṣaṇādyadhikāraḥ
+
+
+[18]vaidyapāramparyyaḥ
+purā prajānāṃ rakṣārtthaṃ kamalōtbhavanañjasā  /
+vaidyaśāstraṅṅaḷ nirmmicciṭṭavayellāṃ salakṣaṇaṃ  // Jyo_18.1 //
+
+dakṣaprajāpatikkāyi koṭuttānavanuṃ punaḥ  /
+aśvinīdēvakaḷkkokke paṭhippiccatu sādaraṃ  // Jyo_18.2 //
+
+purūhatanumavvaṇṇamavarōṭu grahiccatå  /
+avanāl dattamāyvannitatriputrādikaḷkkiha  // Jyo_18.3 //
+
+atrimāmuniputranmārādiyāya mahattukaḷ  /
+maṟṟuḷḷa munimārkkellāṃ dvijanmārkkuṃ koṭuttitå  // Jyo_18.4 //
+
+avarōṭu grahicciṭṭuṃ palaruṇṭāyi bhūmiyil  /
+tatra kāśyapagōtrattil saṃbhaviccū gururmmama  // Jyo_18.5 //
+
+śrīgirīśapurīśasya pūjāyāṃ talparassa vai  /
+yasya vāgamṛtēnaiva viṣāviṣṭaḥ sukhī bhavēl  // Jyo_18.6 //
+
+tādṛśasya gurōrāsīdātmajaścātmasannibhaḥ  /
+tāvubhau vāsudēvākhyau vasudēvaśivapriyau  // Jyo_18.7 //
+
+svakarmmaṇā ca tapasā dyōtamānau dvijōttamau  /
+kāśyapānvayavīryyācca sampradāyabalēna ca  // Jyo_18.8 //
+
+viṣasaṃharaṇē dakṣāvētau bhūsurasattamau  /
+tābhyāṃ gurubhyāmājñaptaḥ kṛpayā vaidyakarmmaṇi  // Jyo_18.9 //
+
+viśēṣānmātulēnāpi niyuktōhaṃsayōginā  /
+tēṣāṃ kṛpābalādāptavaidyalēśēna nirmmitā  // Jyo_18.10 //
+
+nārāyaṇēna bhāṣēyaṃ cikitsā jyōtsnikābhidhā  /
+ācāryyakaruṇāpūrṇṇasudhābhānuvateppoḻuṃ  // Jyo_18.11 //
+
+ādhāramāy bhvikkēṇaṃ maduktaṃ jyōtsnikakkiha  /
+sādhukkaḷilitilētānuṃ piḻayuṇṭeṅkilokkeyuṃ  // Jyo_18.12 //
+
+pālil kīlālabindukkaḷennapōlōrttu koḷḷuvin  /
+kalyāṇamāya vākyattilakalyāṇamirikkiluṃ  // Jyo_18.13 //
+
+atuṃ kalyāṇamāyīṭuṃ vālmīkēranubhūtivatå  /
+tasmāl gurūṇāṃ devānāṃ satāṃ ca viduṣāmapi  // Jyo_18.14 //
+
+astu samyak sadā mōdaḥ tēbhyaḥ pratidinaṃ namaḥ  /
+iyaṃ lōkōpakārārtthaṃ cikitsā jyōtsnikānbhidhā  // Jyo_18.15 //
+
+gurōradabhrakāruṇṇyādvilasatvavanītalē?
+
+iti jyōtsnikā cikitsāyāṃ vaidyapāramparyyādhikāraḥ
+
+
+
+
