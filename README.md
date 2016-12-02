@@ -1,5 +1,5 @@
 # GRETIL-Malayalam
-extracted malayalam_text hosted by GRETIL at `http://gretil.sub.uni-goettingen.de/#Malayalam` to be used by `cltk` corpora.
+extracted malayalam text hosted by [GRETIL](http://gretil.sub.uni-goettingen.de/#Malayalam) to be used by `cltk` corpora.
 
 ### Contents ###
 - script(to download html page sources, to extract text)
