@@ -14,7 +14,7 @@ def main():
     for root, dirs, files in os.walk("."):
         path = root.split('/')
         for fname in files:
-            if fname.startswith('chapter') or fname.endswith('txt'):
+            if fname.endswith('txt'):
                 #print((len(path) - 1) * '---', os.path.basename(root))
                 title = fname.split('.')[0].title()
                 work = {
